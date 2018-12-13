@@ -1,1 +1,4 @@
-Website of School Of Biochemistry, DAVV, Indore
+# deepamgupta.github.io
+Repository for The Website : SOB, DAVV, Indore
+
+Team: Kishan joshi , Deepam Gupta , Rajat Karahe , Samyak Jain
