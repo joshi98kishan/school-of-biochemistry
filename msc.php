@@ -52,8 +52,8 @@
 			<div class="row padding2">
 				<div class="col-md-1"></div>
 				<div class="col-md-11">
-					<a  class="btn btn-outline-success" href="http://www.biochem.dauniv.ac.in/ProgramsandAdmissionProcedure2018.pdf">More Information</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a class="btn btn-outline-success" href="http://www.dauniv.ac.in/CET2018/Brochure_CET2018_280418.pdf">Fee Structure</a>
+					<a  class="btn btn-outline-success" href="docs/ProgramsandAdmissionProcedure2018.pdf" target="_blank">More Information</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a class="btn btn-outline-success" href="docs/M.Sc-Fee-Structure.pdf" target="_blank">Fee Structure</a>
 				</div>
 			</div>
 		</div>
