@@ -972,7 +972,7 @@ background-position:center -60px;
 }
 .aboutus-cover .container{
 	background-color: white;
-	padding-bottom: 2px;
+	padding-bottom: 10px;
 }
 
 .aboutus-head{
@@ -1830,6 +1830,10 @@ background-position:center -60px;
 	}		
 
 	/*========ADMISSION=======*/
+	#admission-cover{
+		padding-bottom: 35px;
+		padding-top: 35px;
+	}
 	#admission-cover .btn-outline-success{
 		margin-top: 15px;
 	} 
@@ -1841,6 +1845,14 @@ background-position:center -60px;
 	#admission p{
 		font-size: 18px;
 		text-align: center;
+	}
+
+	#admission-cover .coursename {
+		padding: 36px 0px 46px 0px;
+	}
+
+	#admission .padding1 {
+		padding-bottom: 40px;
 	}
 
 	/*=======Faculty======*/
