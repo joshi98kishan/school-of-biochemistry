@@ -1830,6 +1830,10 @@ background-position:center -60px;
 	}		
 
 	/*========ADMISSION=======*/
+	#admission-cover{
+		padding-bottom: 35px;
+		padding-top: 35px;
+	}
 	#admission-cover .btn-outline-success{
 		margin-top: 15px;
 	} 
