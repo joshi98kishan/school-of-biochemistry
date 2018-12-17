@@ -34,7 +34,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r20.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r20.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Dr. Amit Singh Yadav">
 					</div>
 					<div class="col-md-6">
 						<div class="card-block">
@@ -48,7 +48,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r21.jpg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r21.jpg" class="card-image  image-responsive img-thumbnail reimage" alt="Dr. Sunita Kataria">
 					</div>
 					<div class="col-md-6">
 						<div class="card-block">
@@ -90,7 +90,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3">
-						<img src="images/r11.jpeg" class="img-thumbnail image-responsive card-image reimage" >
+						<img src="images/r11.jpeg" class="img-thumbnail image-responsive card-image reimage" alt="Antariksh Tyagi">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
@@ -107,7 +107,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r9.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r9.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Sharad Saurabh">
 					</div>
 					<div class="col-md-9 cardmd9" >
 						<div class="card-block cardblk">
@@ -125,7 +125,7 @@
 			<div class="card recard" >
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r16.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r16.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Samatha Gunapati">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
@@ -134,7 +134,7 @@
 							</strong> </span><span class="profile-topic-detail">
 								Isolation and characterization of Drought related NAC
 							transcription factor from Cotton roots (Gossypium herbacium).</span></div>
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. REKHA GADRE</span></div>
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Rekha Gadre</span></div>
 							<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. Vidhu A. Sane</span></div>
 						</div>
 					</div>
@@ -144,7 +144,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r3.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r3.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Ankita Joshi">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
@@ -160,7 +160,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r4.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r4.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Swati Tiwary">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
@@ -178,7 +178,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r6.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r6.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Ankit Kelotra">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
@@ -195,7 +195,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r5.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r5.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Ritu Tyagi">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
@@ -212,7 +212,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r8.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r8.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Dipti Dixit">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
@@ -230,7 +230,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r10.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r10.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Prakash Malviya">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
@@ -250,7 +250,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r17.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r17.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Priyanka Mishra">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
@@ -267,7 +267,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r15.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r15.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Sonal Dhamgaye">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
@@ -284,7 +284,7 @@
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r14.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+						<img src="images/r14.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Jayesh Vaishnav">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
@@ -303,7 +303,7 @@
 		<div class="card recard">
 			<div class="row">
 				<div class="col-md-3" >
-					<img src="images/r13.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+					<img src="images/r13.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Vaishali Mourya">
 				</div>
 				<div class="col-md-9 cardmd9">
 					<div class="card-block cardblk">
@@ -322,7 +322,7 @@
 	<div class="card recard">
 		<div class="row">
 			<div class="col-md-3" >
-				<img src="images/r12.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+				<img src="images/r12.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Reena Rawal">
 			</div>
 			<div class="col-md-9 cardmd9">
 				<div class="card-block cardblk">
@@ -340,11 +340,11 @@
 	<div class="card recard">
 		<div class="row">
 			<div class="col-md-3" >
-				<img src="images/r7.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+				<img src="images/r7.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Seema Kelotra">
 			</div>
 			<div class="col-md-9 cardmd9">
 				<div class="card-block cardblk">
-					<a href="#"><h6 class="card-title"><strong>Seema Kelotra</strong></h6></a>
+					<h6 class="card-title"><strong>Seema Kelotra</strong></h6>
 
 					<div><span class="profile-topic"><strong>Topic :
 					</strong> </span><span class="profile-topic-detail">Ligand binding studies with some caspases using computational methods.</span></div>
@@ -382,11 +382,11 @@
 		<div class="card recard">
 			<div class="row">
 				<div class="col-md-3" >
-					<img src="images/r2.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+					<img src="images/r2.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Radhika Chinchalkar">
 				</div>
 				<div class="col-md-9 cardmd9">
 					<div class="card-block cardblk">
-						<a href="#"><h6 class="card-title"><strong>Radhika Chinchalkar</strong></h6></a>
+						<h6 class="card-title"><strong>Radhika Chinchalkar</strong></h6>
 
 						<div><span class="profile-topic"><strong>Topic :
 						</strong> </span><span class="profile-topic-detail">Studies on effects of metallic nutrients, Mn, Ni and Zn in relation to chlorophyll metabolism and oxidative stress in maize.</span></div>
@@ -399,7 +399,7 @@
 		<div class="card recard">
 			<div class="row">
 				<div class="col-md-3" >
-					<img src="images/r1.jpeg" class="card-image  image-responsive img-thumbnail reimage">
+					<img src="images/r1.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Vinny Punjabi">
 				</div>
 				<div class="col-md-9 cardmd9">
 					<div class="card-block cardblk">
@@ -416,7 +416,7 @@
 			<div class="row">
 				<div class="col-md-12 cardmd9">
 					<div class="card-block cardblk">
-						<h6 class="card-title divstyle1"><strong>Kririka Pathak</strong></h6>
+						<h6 class="card-title divstyle1"><strong>Kritika Pathak</strong></h6>
 						<div class="divstyle1"><span class="profile-topic"><strong>Topic : </strong></span> <span class="profile-topic-detail">Interactive Effects Of Heavy Metals (Al,Ni,Mn) In Relation To Oxidative Stress And Nitrogen Assimilation In Wheat(Triticum Species).</span></div>
 						<div class="divstyle1"><span class="profile-topic"><strong>Year : </strong></span> <span class="profile-topic-detail">2016</span></div>
 						<div class="divstyle1"><span class="profile-topic"><strong>Supervisor : </strong></span> <span class="profile-topic-detail">Dr. Rekha Gadre</span></div>

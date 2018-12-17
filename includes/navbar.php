@@ -20,9 +20,6 @@
 						</div>
 					</li>
 					<li class="nav-item"><a class="nav-link r p" href="faculty.php"><strong>FACULTY</strong></a></li>
-					<li class="nav-item"><a class="nav-link r p" href="researches.php"><strong>RESEARCHERS</strong></a></li>
-					<li class="nav-item"><a class="nav-link r p" href="activities.php"><strong>ACTIVITIES</strong></a></li>
-
 					<li class="nav-item dropdown">
 						<a class="nav-link r p" href="student.php" class="navw1"><strong>STUDENTS&nbsp;</strong><i class="fas fa-caret-down"></i></a>
 						<div class="dropdown-menu ">
@@ -31,6 +28,10 @@
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Time Table</div></a>
 						</div>
 					</li>
+					<li class="nav-item"><a class="nav-link r p" href="researches.php"><strong>RESEARCHERS</strong></a></li>
+					<li class="nav-item"><a class="nav-link r p" href="activities.php"><strong>ACTIVITIES</strong></a></li>
+
+					
 					<li class="nav-item"><a class="nav-link r p" target="_blank" href="http://www.dauniv.ac.in/"><strong>DAVV</strong></a></li>
 				</ul>
 			</div>
