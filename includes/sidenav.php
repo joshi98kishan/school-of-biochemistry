@@ -3,7 +3,7 @@
 
 <div class="icon-bar">
 
-	<a href="noticezs.php" class="notices" data-toggle="tooltip" title="Notices" data-placement="right"><i class="fas fa-bell"></i><div class="icon-bar-title">Notices</div></a>
+	<a href="notices.php" class="notices" data-toggle="tooltip" title="Notices" data-placement="right"><i class="fas fa-bell"></i><div class="icon-bar-title">Notices</div></a>
 	
 	<a href="student.php#student-timetable" class="timetable" data-toggle="tooltip" title="Time Table" data-placement="right"><i class="far fa-clipboard"></i><div class="icon-bar-title">Time Table</div></a>
 
