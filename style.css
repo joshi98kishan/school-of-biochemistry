@@ -1,0 +1,2000 @@
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:900');
+
+
+/*--------------------------Fonts Just for About Us-----------------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+
+/*satisfy*/
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
+/*cookie*/
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+
+/*kalam*/
+@import url('https://fonts.googleapis.com/css?family=Kalam:300');
+/*--------------------------Fonts Just for About Us-----------------------------*/
+
+html,body{
+	color: #222;
+	scroll-behavior: smooth;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*---Text Selection color--*/
+::selection{
+	background: #0a0;
+	color: white;
+}
+
+.subhead{
+	text-align: center;
+	padding: 60px 0px 67px 0px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 800;
+}
+
+.subhead-line{
+	text-align: center;
+	padding: 60px 0px 67px 0px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 800;
+}
+.subhead-line h1 i{
+	font-size: 70px ;
+}
+.subhead-line h1::before{
+	content: "";
+	background: #040;
+	width: 27%;
+	height: 4px;
+	display:inline-block;
+	margin-right: 2%;
+	border-radius: 10px 0px 0px 10px;
+}
+.subhead-line h1::after{
+	content: "";
+	background: #040; 
+	display:inline-block;
+	width: 27%;
+	height: 4px;
+	margin-left: 2%;
+	border-radius: 0px 10px 10px 0px;
+}
+
+.subhead h1{
+	margin-bottom: 0px;
+}
+
+
+/*----------MAIN JUMBO-------------*/
+.mainhead .jumbotron{
+	padding: 0.3vw;
+	margin-bottom: 0px;
+	background: #fff;
+	color: #040;
+	border-radius: 0%;
+	font-family: 'Cinzel', serif;
+}
+.mainhead .jumbotron .logo{
+	width: 100%;
+	height: auto;
+	padding: 2px 0 0;
+}
+.mainhead .jumbotron .institute h1{
+	font-weight: bolder;
+	font-size: 45px;
+	width: max-content;
+	margin-top: 30px;
+	margin-left: 0.5vw;
+}
+
+.mainhead .jumbotron .estd{
+	font-size: 17px;
+	font-weight: bold;
+	opacity: .8;
+}
+.mainhead .jumbotron .davv{
+	font-size: 22px;
+	font-weight: bold;
+	opacity: .8;
+}
+
+
+.gifcus{
+	float: left;
+	padding-top:10px; 
+	padding-left: 0px;
+}
+
+
+/*-----------NAVIGATION-----------*/   
+
+.abovenav
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 44%;
+}
+
+.navicustom{
+	box-shadow: 5px 30px 40px -20px;
+}
+.navbar{
+	padding: 20px;
+	background-color: #fff !important; 
+}
+.navbar-nav{
+	font-family: 'Open Sans', sans-serif;
+}
+.navw1
+{
+	width: 8em;
+}
+.navw2
+{
+	width: 9em;
+}
+#inner .nav-link{
+	margin-left: 19px;
+	margin-right: 19px;
+	color: #040 !important;
+	text-align: center; 
+}
+.dropdown-menu a{
+	color: #040;
+}
+
+.dropdown:hover>.dropdown-menu
+{
+	display: block;
+}
+.dropdown-menu
+{
+
+	box-shadow: 30px 40px 80px -20px;
+	transform-origin: top;
+	animation-name: drop;
+	animation-duration: .2s;
+	left: 7px;
+	border-radius: 0px; 
+	top: 82%;
+	border:0px;
+}
+@keyframes drop
+{
+	from{
+		background-color: green;
+		transform-origin: top;
+		transform: perspective(1000px) rotateX(-90deg);
+	}
+	to{
+		transform-origin: top;
+		background-color: white;
+		transform: perspective(1000px) rotateX(0deg);
+	}
+}
+.p, a:after, a:before 
+{
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+.r
+{ 
+	margin:0;
+	padding:0;
+	border:0 none;
+	position: relative;
+	outline: none;
+}
+
+#inner ul > li > a{
+	text-decoration: none;
+	color: rgba(0,0,0,.4);
+	z-index: 1;
+}
+
+
+#inner ul > li > a:before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 4px;
+	bottom: 30px;
+	left: 0;
+	background: green;
+	visibility: hidden;
+	border-radius: 5px;
+	transform: scaleX(0);
+	transition: .15s linear;
+}
+#inner ul > li >a:hover:before,
+#inner #dr:hover > a:before{
+	visibility: visible;
+	transform: scaleX(1);
+}
+#dr a ,#dr{
+	text-decoration: none;
+	color: black;
+}
+.linkst
+{
+	text-decoration: none !important;
+}
+
+/*--------------------SIDE NAV----------------------*/
+
+.icon-bar {
+	position: fixed;
+	top: 55%;
+	transform: translateY(-50%);
+	z-index: 1000;
+}
+
+.icon-bar a {
+	display: block;
+	text-align: center;
+	padding: 2px;
+	transition: all 0.3s ease;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.icon-bar a:hover {
+	background-color: #000;
+	color: #fff;
+}
+
+.icon-bar-title{
+	font-size: 10px;
+	font-weight: bolder;
+}
+
+.notices {
+	background: #55ACEE;
+	color: white;
+	border-radius: 0px 10px 0px 0px;
+}
+
+.timetable {
+	background: #409c61;
+	color: white;
+}
+
+.syllabus {
+	background: #dd4b39;
+	color: white;
+}
+
+.calendar {
+	background: #3B5998;
+	color: white;
+	border-radius: 0px 0px 10px 0px;
+}
+
+/*----------SLIDER---------*/
+.carousel .slider{
+	width: 100%;
+	height: 100%;
+	margin:auto;
+}
+.carousel-item{
+	margin: auto;
+	width: 100%;
+	height: auto;
+}
+.carousel-inner img{
+	width: 100%;
+	height: 60vw; 
+}
+.carousel-caption{
+	background-color: rgba(0, 0, 0,0.5);
+	width: max-content;
+	padding: 2%;
+	margin: auto;
+}
+.carousel-caption h3{
+	font-size: 2.5vw;
+}
+.carousel-indicators li{
+	width: 1vw;
+	height: 3px;
+}
+
+
+/*------------------ABOUT US---------------------------*/
+.aboutus{
+	padding: 35px;
+}
+.aboutus hr{
+	margin-top:0px; 
+	margin-bottom: 0px;
+	position: 
+}
+
+.aboutus a{
+	text-decoration: none;
+	color: #5d5d5d;
+}
+
+.aboutus a:hover{
+	text-decoration: none;
+}
+
+.aboutus .card{
+	border: none;
+	padding: 50px 0px 70px 0px;
+}
+.aboutus .card .card-body{
+	text-align: center;
+}
+.aboutus .card i{
+	font-size: 100px; 
+	color:#040;
+	transition: all 0.3s;
+}
+
+.aboutus .card i:hover{
+	color: #001903;
+	text-shadow: 0.1px 0.1px 20px #b3b3b3;
+	transform: scale(1.05);
+}
+.aboutus .card .card-footer{
+	background-color: #fff; 
+	border: none;
+	text-align: center;
+}
+
+
+
+
+
+/*-------------COURSES OFFERED---------------------*/
+.coursecover{
+	background: url(images/courses-offered-image.jpeg) fixed no-repeat;
+	background-size: cover;
+	color: white;
+	padding: 35px 75px 75px 75px;
+}
+.frosted-glass {
+	color: white;
+	height: 260px;
+	background: inherit;
+	position: relative;
+	margin-top: 20px;
+	z-index: 1;
+	overflow: hidden;
+	box-sizing: border-box;
+	box-shadow: 0 .5em 1em rgba(0,0,0,.3);
+	border-radius: 20px;
+}
+
+.frosted-glass::before{
+	content: "";
+	position: absolute;
+	z-index: 3;
+	top: 0; right: 0; bottom: 0; left: 0;
+	background: inherit;
+	box-shadow: inset 0 0 3000px rgba(255,255,255,.5);
+	filter: blur(13px);
+	margin: -20px;
+
+	-webkit-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+}
+
+.frosted-glass:hover::before{
+	filter: blur(50px);
+	box-shadow: inset 0 0 5000px rgba(255,255,255,1);
+	/*background: rgba(48, 152, 157, 1);*/
+}
+
+.frosted-glass h2{
+	color: #fff;
+	text-align: center;
+	position: absolute;
+	right: 0; left: 0;
+	z-index: 4;
+	font-size: 17px;
+	padding: 10px;
+	background: rgba(0, 0, 0, 0.6);
+
+	-webkit-transform: translateY(105px) scale(2);
+	-ms-transform: translateY(105px) scale(2);
+	transform: translateY(105px) scale(2);
+
+	-webkit-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+}
+
+.frosted-glass:hover h2 {
+	-webkit-transform: translateY(15px);
+	-ms-transform: translateY(15px);
+	transform: translateY(15px);
+}
+
+.frosted-glass .overlay div.info {
+	display: inline-block;
+	position: absolute;
+	top: 0; right: 0; bottom: 0; left: 0;
+	text-align: center;
+	z-index: 3;
+	text-decoration: none;
+	padding: 7px 14px;
+	color: #fff;
+	background-color: transparent;
+	opacity: 0;
+
+	filter: alpha(opacity=0);
+	-webkit-transform: scale(0);
+	-ms-transform: scale(0);
+
+	transform: scale(0);
+	-webkit-transition: all 0.4s ease-in-out;
+
+	transition: all 0.4s ease-in-out;
+
+	font-weight: normal;
+	margin: 75px 0 0 0; 
+}
+
+.frosted-glass:hover div.info {
+	opacity: 1;
+	filter: alpha(opacity=100);
+	-webkit-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+}
+
+.frosted-glass a{
+	color: black;
+	background-color: #fff;
+}
+.frosted-glass a:hover{
+	color: white;
+	background-color: #3a3939;
+
+}
+
+/*----------FACULTY----------------*/
+
+.subhead-of-faculty{
+	text-align: center;
+	padding: 60px 0px 97px 0px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+}
+#myfaculty{
+	padding: 20px 0px 20px 0px;
+}
+#myfaculty a{
+	text-decoration: none;
+	color: black;
+}
+#myfaculty .card{
+	/*padding-bottom: 36px;*/
+	padding: 50px 0px 36px 0px;
+	border: none; 
+	transition: all .3s ease;
+	box-shadow: 10px 17.3px 50px 0 rgba(0,0,0,.2); margin-left: 10px;
+	border-radius: 5px;
+}
+#myfaculty .card:hover{
+	box-shadow: 0 5px 10px 0 rgba(0,0,0,.2);
+}
+#myfaculty .card-img-top{
+	width: auto;
+	margin: auto;
+	height: 180px;
+}
+#myfaculty .card-body{
+	text-align: center;
+	padding-top: 48px;
+}
+#facultyimage{
+	width: 200px;
+	align-items: center;
+	float: left;
+	border-radius: 100%;
+	margin: auto;
+}
+
+
+/*--------------Back to Top Arrow-----------------*/
+.back-to-top { 
+	background: none;
+	margin: 0;
+	position: fixed;
+	bottom: -8px;
+	right: 0;
+	/*width: 70px;
+	height: 70px;*/
+	z-index: 100;
+	/*display: none;*/
+	text-decoration: none;
+	color: #2ecc71;
+	font-size: 250%;
+}  
+
+
+/*-------------------------Footer---------------------------*/
+#cf{
+	padding-left: 0;
+	padding-right: 0;
+}
+#cf a{
+	text-decoration: none;
+	color: #dfdfdf;
+	font-size: 15px;
+}
+#e
+{
+	background-color: #263238;
+}
+#cf .row{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#cf table
+{
+	vertical-align: middle;
+}
+.fa-phone-volume:before,
+.fa-envelope-open:before,
+.fa-copyright:before,
+.fa-map-marker-alt:before,
+.fa-fax:before
+{
+	line-height: 1.4em;
+}
+#cf span
+{
+	color: #cfd8dc;
+	font-size: 13px;
+	font-weight: normal;
+	font-family: 'Open Sans', sans-serif;
+}
+#cf h3
+{	color:  #ffffff;
+	font: normal 30px 'Cookie', cursive;
+	margin: 0;
+}
+#cf .developers h3{
+	align-items: center;
+	justify-content: center;
+	transform: translate(-8%,50%);
+	/*transform: translateX(35%);*/
+	color: #868585;
+	transition:all .3s;
+}
+
+#cf .developers a{
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	font: normal 30px 'Cookie', cursive;
+	color: #868585;
+
+	text-shadow: 2px 2px 5px white;
+	transition: all 0.2s;
+}
+
+#cf .developers h3:hover{
+	font-size: 40px;
+	transform: translate(inherit,50%);
+	color: white;
+}
+/* effect-shine */
+#cf .developers a.effect-shine:hover {
+	-webkit-mask-image: linear-gradient(-75deg, rgba(0,0,0,.6) 30%, #000 25%, rgba(0,0,0,.6) 70%);
+	-webkit-mask-size: 200%;
+	animation: shine 3s infinite;
+	/*font-weight: bolder;*/
+	color: white;
+}
+
+@-webkit-keyframes shine {
+	from {
+		-webkit-mask-position: 150%;
+	}
+
+	to {
+		-webkit-mask-position: -50%;
+	}
+}
+
+
+#cf em
+{
+	color: #dfdfdf;
+	font-weight: normal;
+	font-size: 14px;
+}
+#cf h4
+{
+	font-size: 20px;
+	color: #fff;
+	padding-bottom: 25px;
+}
+#cf strong
+{
+	color: #dfdfdf;
+}
+#cf #map
+{
+	height: 85px;  
+	width: 80px;
+	border-radius: 7px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#cf .col-md-3
+{
+	padding-top: 20px; 
+	padding-left: 30px;
+	background-color: #37424b;
+	padding-bottom: 20px;
+
+} 
+#cf .col-md-4
+{
+	padding-top: 60px; 
+}
+#cf .col-md-5
+{
+	padding-top: 50px !important;
+}
+#cf .col-md-12
+{
+	background-color:#455a64; 
+}
+#cf #it
+{
+	vertical-align: middle; 
+	padding-left: 3px;
+}
+#cf #ql
+{
+	color: #cfd8dc; 
+	line-height: 3.5;
+	list-style: none; 
+}
+#cf #ql>li
+{
+	font-size: 15px;
+}
+#cf #ql>a:hover
+{
+	color: #55acee;
+}
+#cf  tr{
+	color: #dfdfdf;
+}
+#cf i
+{
+	font-size: 18px;
+}
+.sobstyle
+{
+	color: #23ff3f !important;
+	font-size: 30px !important;
+	font: normal 30px 'Cookie', cursive !important; 
+}
+.hrstyle
+{
+	background-color: grey; 
+	width: 100%;
+}
+.tdstyle
+{
+	line-height: 1 !important;
+}
+.trstyle
+{
+	height: 42px !important;
+	line-height: 1 !important;
+}
+.rowstylef
+{
+	margin: auto !important;
+}
+.iframestyle
+{
+	height: 75%;
+	width: 85%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.developers{
+	margin-top: 20px;
+}
+
+/*--------------------------FACULTY PAGES(START)-----------------------------*/
+.faculty-cover{
+	position: relative;
+	padding:0;
+	background-image: url("images/faculty_background.jpeg");
+	background-size: 100%;
+	background-repeat: repeat-x;
+	background-color: #f5f5f5;
+}
+
+.faculty-cover .jumbotron{
+	/* background-image: inherit; */
+	background-color: transparent;
+	margin: 0;
+	color: #fff;
+	vertical-align: bottom;
+	padding-bottom: 0;
+	padding-top: 197px;
+	margin-bottom: -21px;
+}
+
+.faculty-cover .display-4{
+	font-weight: bold;
+}
+
+.faculty-body{
+	padding: 5rem 3rem 2rem 6rem;
+	background-color:  #fff;
+}
+
+
+.faculty-body .card{
+	transition: all 0.1s ease-in-out;
+	border: none;
+	padding: 50px 0px 70px 0px;  
+}
+
+.faculty-body a{
+	text-decoration: none;
+}
+
+.faculty-body .card-image{
+	width: 100%;
+	height: auto;
+	margin: auto;
+}
+
+.faculty-body .card .full-profile{
+	margin-top: 1rem;
+}
+
+.faculty-body .card-image{
+	width: 250px;
+	height: auto;
+	transition: all 0.2s ease-in-out;
+}
+
+.faculty-body .profile-topic{
+	font-size: 1.1rem;
+	line-height: 1.5rem;
+	margin-right: 0.5rem;
+}
+
+
+/*------------------------Faculty Profile--------------------------------*/
+.profile-cover{
+	width: 100%;
+	background-image: url("images/fac1_cover.jpeg");
+	position: relative !important;
+}
+.profile-div{
+	position: absolute !important;
+	bottom: 0;
+	width: inherit;
+}
+
+/*--------------------Faculty Individual-----------------------*/
+.fac-back{
+	background-color: #f8f8ff;
+}
+.fac{
+	background-color: #fff;
+	padding: 0;
+}
+
+.fac-profile img.fac-image-lg{
+	z-index: 0;
+	width: 100%;  
+	margin-bottom: 10px;
+}
+
+.fac-image-profile
+{
+	margin: -90px 0px 0px 50%;
+	transform: translateX(-50%);
+	width: 20%; 
+	border-radius: 50%;
+}
+
+.fac-body{
+	padding: 2rem;
+}	
+.fac-subhead{
+	position: relative;
+}
+.fac-subhead::after{
+	content: "";
+	height: 2px;
+	width: 100%;
+	background-color: #000;
+	position: absolute;
+	display: inline-block;
+}
+.fac-content{
+	padding: 2rem;
+}
+#publications li{
+	padding: 0.3rem;
+}
+
+.clearfix::after{
+	display: block;
+	content: "";
+	clear: both;
+}
+.table-caption{
+	caption-side: top;
+}
+
+/*--------------------------FACULTY PAGES(End)------------------------*/
+
+/*-------------------ADMISSION (Start)-----------------------------*/
+
+.coursename{
+	text-align: center;
+	padding: 66px 0px 66px 0px;
+	font-family: 'Open Sans', sans-serif;
+}
+#admission-cover{
+	background-color: ghostwhite;
+	padding-bottom: 160px;
+	padding-top: 160px;
+}
+#admission{
+	border:9px inset;
+	background-color:white;
+	border-radius: 10px;
+}
+#admission h5{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+}
+
+#admission p{
+	width: 93%;
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 34px;
+	font-size: 20px;
+}
+#admission .padding1{
+	padding-bottom: 60px;
+}
+#admission .padding2{
+	padding-bottom: 66px;
+}
+
+
+#admission button{
+	background: transparent;
+	border:1px solid; 
+}
+
+#admission a{
+	color: black;
+	border:1px solid; 
+	transition: all .3s;
+}
+
+#admission a:hover{
+	background-color: #040;
+	color: white;
+}
+
+/*-------------------ADMISSION (End)---------------------------*/
+
+
+
+
+/*-------------------ABOUT US(Start)----------------------------*/
+.aboutus-subhead h2::before{
+	content: "";
+	background: #040;
+	width: 27%;
+	height: 4px;
+	display:inline-block;
+	margin-right: 2%;
+	border-radius: 10px 0px 0px 10px;
+}
+
+.aboutus-subhead h2::after{
+	content: "";
+	background: #040; 
+	display:inline-block;
+	width: 27%;
+	height: 4px;
+	margin-left: 2%;
+	border-radius: 0px 10px 10px 0px;
+}
+
+#hod .aboutus-subhead h2::before{
+	content: "";
+	background: #040;
+	width: 15%;
+	height: 4px;
+	display:inline-block;
+	margin-right: 2%;
+	border-radius: 10px 0px 0px 10px;
+}
+
+#hod .aboutus-subhead h2::after{
+	content: "";
+	background: #040; 
+	display:inline-block;
+	width: 15%;
+	height: 4px;
+	margin-left: 2%;
+	border-radius: 0px 10px 10px 0px;
+}
+
+
+
+.cont{
+	padding-right: 155px;
+	padding-left: 155px;
+	font-size: 22px;
+	color: #3d3e3d;
+	text-align: center;
+}
+.aboutus-cover{
+	/*background: url(images/radhasir4.jpeg) no-repeat;
+	background-size: cover;
+	background-position:center ;*/
+	background: url("images/radhasir4.jpeg") no-repeat;
+	/*background-repeat: no-repeat;*/
+/*width: 100%;
+height:100%;*/
+background-size: cover;
+background-position:center -60px;
+/*text-align:center;*/
+/*margin:auto;*/
+/*padding:0;*/
+
+}
+
+.aboutus-cover .container-fluid{
+	background-color: #f8f8ff;
+}
+.aboutus-cover .container{
+	background-color: white;
+	padding-bottom: 10px;
+}
+
+.aboutus-head{
+	height: 300px;
+}
+
+.aboutus-head h1{
+	margin: 220px auto 0px auto;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 75px;
+	text-align: center;
+}
+
+.aboutus-upper{
+	background-color:#fff; 
+	border-radius: 20px 20px 0px 0px;
+}
+
+.aboutus-body{
+	background-color:#fff; 
+}
+
+.aboutus-body .media-body{
+	padding-left: 51px;
+}
+
+.hod-img{
+	border-radius: 10px;
+	border:3px groove;
+	float: right;
+	width: 120px;
+	height: auto;
+}
+.hod-cont{
+	padding: 20px 100px 40px 12px;
+	font-size: 20px;
+}
+
+
+/*-------------------ABOUT US(End)----------------------------*/
+
+
+/*-------------------ACTIVITIES(Start)----------------------------*/
+
+#Activities .cont-marg{
+  margin-top: 30px;
+}
+
+#Activities .container{
+  text-align: center;
+}
+
+#Activities .text-item{
+  width: 66.6667%;
+}
+
+#Activities .container h1{
+ margin-top: 6%;
+ font-weight: bold;
+}
+
+#Activities .container .no-jumbo h3{
+  font-size: 2rem;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px;
+  display: inline-block;
+}
+
+#Activities .horizontal-act{
+  border: 0.6px solid #b9aaaa69;
+  margin-bottom: 3%;
+}
+
+
+#Activities .container .no-jumbo{
+
+  padding: 0rem 0rem;
+  background-color: white;
+  color: #222;
+  height: max-content;
+  position: relative;
+  border-radius: 16px;
+  transition: all .2s ease;
+  box-shadow: 0px 6px 35px 0px rgba(146, 128, 128, 0.72);
+  margin-left: 10px;
+  margin-bottom: 2%;
+  text-align: center;
+
+}
+
+#Activities .container .no-jumbo:hover{
+
+  box-shadow: 10px 17.3px 50px 0 rgba(146, 128, 128, 0.72); 
+}
+
+#Activities .container .no-jumbo .image-item{
+  background-color: #f8f8ff;
+  background-position: center center;
+  border-bottom-left-radius: 16px;
+  border-top-left-radius: 16px;
+  border-right: 2px solid #bababd;
+  width: 32%;
+  text-align: center;
+}
+
+#Activities .container .no-jumbo .actpelement{
+
+  font-size: 1rem;
+  font-weight: bold;
+  padding-left: 5px;
+  padding-right: 2px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+}
+
+
+#Activities .image-item a{
+  color: inherit;
+  text-decoration: none;
+}
+
+#Activities .actpelement a{
+  display: block;
+}
+
+
+/*-------------------ACTIVITIES(End)----------------------------*/
+
+/*-----------------------STUDENT(Start)------------------------------*/
+
+
+#student{
+	background-color: #f8f8ff;
+}
+.student div.jumbotron{
+	background-color: white;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 1%;
+}
+
+
+.student .btn-responsive {
+	white-space: normal !important;
+	word-wrap: break-word;
+}
+
+.student h2{
+	font-size: 2rem;
+	margin-bottom: 40px;
+}
+
+#student .subhead-line1 h2::before{
+	content: "";
+	background: #040;
+	width: 27%;
+	height: 4px;
+	display:inline-block;
+	margin-right: 2%;
+	border-radius: 10px 0px 0px 10px;
+}
+#student .subhead-line1 h2::after{
+	content: "";
+	background: #040; 
+	display:inline-block;
+	width: 27%;
+	height: 4px;
+	margin-left: 2%;
+	border-radius: 0px 10px 10px 0px;
+}
+
+
+
+.student .link{
+	font-size: 1.4rem;
+}
+
+.student .container{
+	background-color: white;
+	padding-top: 30px;
+}
+
+.student .card{
+	background-color: #ecefec;
+	border: 1px solid lightgrey;
+}
+
+.student .table{
+	background-color: #ecefec;
+}
+
+.student .btn{
+	box-shadow: black -2px 0px 27px -4px;
+	padding: 0.25rem 1.5rem; 
+}
+
+.student .border1{
+	border-right: 2px solid  #bba8a8;
+}
+
+.student h2{
+	margin-top: 2%;
+}
+
+/*-----------------------STUDENT(End)------------------------------*/
+
+/*-----------------------RESEARCHES(Start)------------------------------*/
+#reseacher
+{
+	background-color: #f8f8ff;
+	font-size: medium;
+	padding-bottom: 1em;
+}
+#reseacher .row
+{
+	margin-left: 0px;
+	margin-right: 0px;
+
+}
+#reseacher #scie .col-md-6
+{
+	padding-bottom: 10px;
+}
+#reseacher #scie .col-md-6 .card-block
+{
+	padding-top: 15px;
+	padding-left: 0;
+}
+#reseacher #scie .col-md-6 .card-block .card-title
+{
+	text-align: center;
+}
+.divstyle1
+{
+	text-align: center !important;
+}
+#reseacher #scie .col-md-12
+{
+	padding-bottom: 10px;
+
+}
+#reseacher #scie .col-md-12 .card-block
+{
+	padding-top: 15px;
+	padding-left: 0;
+}
+#reseacher #scie .col-md-12 .card-block .card-title
+{
+	text-align: center;
+}
+.cardmd9
+{
+	padding-bottom: 10px !important;
+}
+.cardblk
+{
+	padding-top: 15px !important;
+}
+
+
+
+
+.recard
+{
+	width: 88%;
+	margin: auto;
+	margin-bottom: 10px;
+	padding: 0px;
+	border: 0.5px solid #c1c1c1;
+	border-left: 5px #808080 solid;
+}
+.reimage
+{
+	width: 55%;
+	display: block;
+	margin: 1.5em auto;
+}
+#reseacher .card-title
+{
+	color: #0435b7;
+}
+@media screen and (max-width: 767px)
+{
+	.navw1
+	{
+		width: auto;
+	}
+	.navw2
+	{
+		width: auto;
+	}
+	.recard
+	{
+		border-left: none;
+		box-shadow:  1px 1px 10px 0.8px grey;
+		margin-bottom: 10px;
+	}
+	.reimage
+	{
+		width: 30%;
+		display: block;
+		margin: 1em auto;
+	}
+	.card-block
+	{
+		padding-left: 2em;
+		padding-right: 2px;
+	}
+
+}
+@media screen and (min-width:768px ) and (max-width: 991px)
+{
+	.reimage
+	{
+		width: 65%;
+		display: block;
+		margin: 1em auto;
+	}
+}
+
+/*-----------------------RESEARCHES(End)------------------------------*/
+
+
+/*-----------------------Team(Start)------------------------------*/
+
+
+.team .container{
+	margin-bottom: 30px;
+}
+
+.team-cover{
+	padding: 0px;
+
+}
+
+.team-head{
+	background-color: inherit;
+	text-align: center;
+	padding-top: 35px;
+
+}
+
+
+.team-member{
+	margin: auto;
+}
+
+.social-link{
+	font-size: 33px;
+	margin: 0px 5%;
+
+}
+.social-links a{
+	color: #989898;
+}
+.social-links a:hover{
+	color: #3e3e3e;
+}
+
+
+#team-overlay {
+	position: fixed;
+	margin: auto;
+	display: none;
+	width: 100%;
+	height: 100%;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 1500;
+	cursor: pointer;
+}
+
+#team-bottom{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	width: 100%;
+	height: auto;
+	flex-wrap: wrap;
+}
+
+#team-bottom img{
+	max-width: 90%;
+}
+
+#special-thanks{
+	color: white;
+	font-size: 85%;
+	display: block;
+}
+
+#mentors{
+	margin-bottom: 5px;
+}
+#mentors-dropdown{
+	padding-top: 10px;
+}
+
+.flip-card {
+	background-color: transparent;
+	width: auto;
+	height: 300px;
+	perspective: 1000px;
+	margin: 50px 25px;
+}
+
+.flip-card-inner {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	transition: transform 0.7s;
+	transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+	transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	backface-visibility: hidden;
+}
+
+.flip-card-front {
+	background-color: inherit;
+	color: black;
+	z-index: 2;
+}
+.flip-card-front img{
+	height: inherit;
+	width: auto;
+}
+
+.flip-card-back {
+	background-color: inherit;
+	color: black;
+	transform: rotateY(180deg);
+	z-index: 1;
+}
+.flip-card-back img{
+	height: 240px;
+	width: auto;
+	border-radius: 20px;
+}
+
+/*-----------------------Team(End)------------------------------*/
+
+/*-------------------------Media Queries----------------------------*/
+
+@media screen and (max-width: 1199px) {
+
+	/*-------Apllied to all pages(Subhead)-------*/
+
+	/*---subhead-----*/
+	.subhead-line .display-4{
+		font-size: 51px;
+	} 
+
+	.subhead-line h1 i{
+		font-size: 57px;
+	}
+
+	/*=======Index Page========*/
+
+	/*-----Header-------*/
+	.mainhead .jumbotron .institute h1{
+		font-size: 40px;
+	}
+
+	.mainhead .jumbotron .logo{
+		width: 110%;
+	}
+	.mainhead .jumbotron .estd{
+		font-size: 16px;
+	}
+	.mainhead .jumbotron .davv{
+		font-size: 21px;
+	}
+	.gifcus{
+		width: 80px;
+	}
+
+	/*-----Navigation------*/
+	#inner .nav-link{
+		font-size: medium;
+		margin-left: 5px;
+		margin-right: 5px;
+		color: #040 !important;
+		text-align: center; 
+	}
+
+
+	/*----Corses Offered-----*/
+	.coursecover {
+		padding: 35px 30px 75px 30px;
+	}
+
+	/*-----Footer----*/
+
+
+
+
+	/*===========Student=============*/
+	/*------subhead-line------*/
+	#student .subhead-line .display-4{
+		font-size: 39px;
+	}
+	#student .subhead-line h1 i{
+		font-size: 53px;
+	}
+
+	/*==============About Us===============*/
+	.aboutus-cover h1{
+		font-size: 70px;
+	}
+
+	.aboutus-cover h2{
+		font-size: 25px;
+	}
+	.aboutus-cover .cont{
+		font-size: 21px;
+		padding: 2px 82px 0px 82px
+	}
+
+	.aboutus-cover #hod .cont{
+		font-size: 19px !important;
+	}
+	.aboutus-cover i{
+		font-size: 30px;
+	}
+
+}
+@media screen and (max-width: 991px) {
+
+	/*=======Index Page========*/
+	/*------Hedaer------*/
+	.mainhead .jumbotron .institute h1{
+		font-size: 32px;
+	}
+
+	.mainhead .jumbotron .estd{
+		font-size: 13px;
+	}
+
+	.mainhead .jumbotron .davv{
+		font-size: 18px;
+	}
+	.mainhead .jumbotron .logo{
+		width: 130%;
+	}
+
+	.gifcus{
+		width: 55px;
+	}
+
+	/*-----Navigation----*/
+	#inner .nav-link{
+		font-size: small;
+		margin-left: 0px;
+		margin-right: 3px;
+		color: #040 !important;
+		text-align: center; 
+	}
+
+
+	/*-----Footer-----*/
+	#cf .col-md-3{
+		padding-top: 2px; 
+		padding-left: 35px;
+		background-color: #37424b;
+		flex: none;	
+		max-width: inherit;
+	}
+	#cf .col-md-4{
+		flex: none;
+		max-width: inherit;
+	}
+	#cf .col-md-5{
+		margin: 0px auto;
+		flex: none;
+		max-width: inherit;
+	}
+	#cf .col-md-6{
+		padding: 0px;
+	}
+	#cf .col-md-4 h4{
+		margin-left: 2em;
+	}
+	
+
+
+	/*===========Student=============*/
+	/*------subhead-line------*/
+	#student .subhead-line .display-4{
+		font-size: 37px;
+	}
+	#student .subhead-line h1 i{
+		font-size: 46px;
+	}
+
+	/*==============About Us===============*/	
+	.aboutus-cover h1{
+		font-size: 59px;
+	}
+	.aboutus-cover #hod img{
+		width: 118px;
+	}
+	.aboutus-cover #hod .hod-cont{
+		font-size: 19px;
+		padding-right: 20px;	
+	}
+
+}
+
+@media screen and (max-width: 767px) {
+
+	/*-------Apllied to all pages(Subhead)-------*/
+
+	/*---subhead-----*/
+	.subhead-line .display-4{
+		font-size: 43px;
+	}
+
+	.subhead-line h1 i{
+		font-size: 48px;
+	}
+
+	.subhead-line h1::before{
+		width: 20%;
+	}
+
+	.subhead-line h1::after{
+		width: 20%;
+	}
+
+	/*=======Index Page========*/
+
+	/*------Header------*/
+	.mainhead .jumbotron .institute h1{
+		font-size: 5vw;
+		position: relative;
+		right: -30px;
+	}
+	.mainhead .jumbotron .estd{
+		font-size: 11px;
+	}
+
+	.mainhead .jumbotron .davv{
+		font-size: 2.3vw;
+	}
+	.mainhead .jumbotron .logo{
+		width: 20vw;
+		float: left;
+	}	
+	.mainhead .gifcus{
+		display: none;
+	}
+	.mainhead .container{
+		max-width: max-content;
+	}
+	/*-----Navigation------*/
+	.dropdown-menu
+	{
+		box-shadow: none;
+	}
+	#inner ul > li > a:before {
+		display: none;
+	}
+	#inner .nav-link{
+		font-size: medium;
+		text-align: left; 
+		padding-bottom: 10px;
+		margin-left: 0px;
+	}
+	#inner .nav-link:hover
+	{
+		background-color: #f8f8ff;
+
+	}
+	.dropdown-item
+	{
+		font-size: small;
+		font-weight: bold;
+	}
+	#navbarResponsive
+	{
+		margin-top: 2em;
+	}
+	.navbar-toggler
+	{
+		border: 0px;
+		border-color: white;
+		/*outline: none;*/
+	}
+	button:focus
+	{
+		outline: 0px dotted;
+	}
+
+	/*----------Side Nav-----------*/
+	.icon-bar a {
+		font-size: 17px;
+	}
+	.icon-bar-title{
+		font-size: 9px;	
+	}
+
+	/*--------About US--------*/
+	.aboutus .card {
+		padding: 50px 0px 15px 0px;
+	}
+	/*----Corses Offered-----*/
+	.coursecover {
+		padding: 35px 80px 75px 80px;
+	}
+
+	/*---Faculty----*/
+	#myfaculty .col-md {
+		margin-top: 20px;
+	}
+
+	/*---Activities----*/
+
+	#Activities .container .no-jumbo .actpelement{
+		font-size: 12px;
+		padding-bottom: 14px;
+		padding-top: 14px;
+	}
+
+	#Activities .container .no-jumbo h3{
+		font-size: 20px;
+	}
+
+
+	/*===========Student=============*/
+	/*------subhead-line------*/
+	#student .subhead-line1 h2::before{
+		width: 12%;
+	}
+	#student .subhead-line1 h2::after{
+		width: 12%;
+	}
+
+	.student .card{
+		margin-top: 6%;
+	}
+
+	.student-line1{
+		padding-bottom: 0%;
+	}
+
+	.col-md-6{
+		margin-bottom: 5%;
+	}
+
+	#cms{
+		margin-bottom: 0px;
+	}
+
+	.student h2{
+		font-size: 185%;
+	}
+
+	.student .link{
+		font-size: 92%;
+	}
+
+	#h{
+		border: 0px solid black;
+	}
+
+	#student .subhead-line1{
+		padding-top: 0%;
+	}
+
+	.subhead{
+		padding-bottom: 0%;
+	}
+
+	/*==============About Us===============*/
+	.aboutus-cover h1{
+		font-size: 51px;
+	}
+
+	.aboutus-cover h2{
+		font-size: 23px;
+	}
+	.aboutus-cover .cont{
+		font-size: 20px;
+		padding: 0px 30px 0px 30px;
+	}
+	.aboutus-cover i{
+		font-size: 28px;
+	}		
+	.hod-img{
+		display: block;
+		float: none;
+		margin: 30px auto; 
+	}
+
+}
+
+@media screen and (max-width: 575px) {
+
+	/*-------Apllied to all pages(Subhead)-------*/
+
+	.subhead h1 {
+		font-size: 45px;
+	}
+
+	/*---subhead-----*/
+	.subhead-line .display-4{
+		font-size: 37px;
+	}
+
+	.subhead-line h1 i{
+		font-size: 43px;
+	}
+
+	.subhead-line h1::before{
+		width: 15%;
+	}
+
+	.subhead-line h1::after{
+		width: 15%;
+	}
+
+	/*=======Index Page========*/
+
+	/*-----Header-------*/
+	.mainhead .jumbotron .institute h1{
+		font-size: 5vw;
+		float: left;
+		margin-left: -56px;
+		margin-top: 20px;
+	}
+	.mainhead .row{
+		flex-wrap: nowrap;
+	}
+	.mainhead .jumbotron .logo{
+		margin-left: -14px;
+	}
+	.mainhead .jumbotron .estd{
+		font-size: 7px;
+
+	}
+	.mainhead .jumbotron .davv{
+		font-size: 2.9vw;
+	}
+
+	/*-----About Us-----*/
+	.aboutus .card {
+		padding: 30px 0px 0px 0px;
+	}
+
+	.aboutus .card i{
+		font-size: 80px;
+	}
+	.aboutus .card h4{
+		font-size: 20px;
+	}
+
+	/*----Corses Offered-----*/
+	.coursecover {
+		padding: 35px 20px 75px 38px;
+	}
+
+	/*----------Side Nav-----------*/
+	.icon-bar a {
+		font-size: 14px;
+	}
+	.icon-bar-title{
+		font-size: 7px;
+	}
+
+	/*-------Faculty---------*/
+	#myfaculty .card {
+		margin: 10px auto;
+		width: 253px;
+	}
+
+	.subhead-of-faculty {
+		padding: 30px 0px 47px 0px;
+	}
+
+	.subhead-of-faculty h1{
+		font-size: 45px;
+	}
+
+	/*------Activities-------*/
+    
+	#Activities .cont-marg{
+		margin-top: 0px;
+	}
+
+	#Activities .container .display-4{
+		font-size: 35px;
+	}
+
+	
+	#Activities .container .no-jumbo h3{
+		font-size: 13px;
+		margin: 0;
+	}
+
+	#Activities .container .no-jumbo .actpelement{
+		font-size: 9px;
+		padding-left: 6px;
+		padding-bottom: 12px;
+		padding-top: 12px;
+
+
+	}
+
+	#Activities .container .no-jumbo{
+		height: max-content;
+	}
+
+
+	/*===========Student=============*/
+	/*------subhead-line------*/
+	#student .subhead-line .display-4{
+		font-size: 32px;
+	}
+	#student .subhead-line h1 i{
+		font-size: 40px;
+	}
+
+	/*==============About Us===============*/		
+	.aboutus-cover h1{
+		font-size: 45px;
+	}
+
+	.aboutus-cover h2{
+		font-size: 22px;
+	}
+
+	.aboutus-subhead h2::before{	
+		width: 20%;
+	}
+	.aboutus-subhead h2::after{	
+		width: 20%;
+	}
+
+	#hod .aboutus-subhead h2::before{
+		width: 3%;
+	}
+
+	#hod .aboutus-subhead h2::after{
+		width: 3%;
+	}
+	.aboutus-cover .cont{
+		font-size: 18px;
+		padding: 0px 30px 0px 30px;
+	}
+	.aboutus-cover i{
+		font-size: 20px;
+	}
+	.aboutus-cover #hod h2{
+		font-size: 18px;
+	}	
+	.aboutus-cover #hod h3{
+		font-size: 19px;
+	}
+
+	.aboutus-cover #hod img{
+		width: 90px;
+	}
+	.aboutus-cover #hod .hod-cont {
+		padding-top: 10px;
+		font-size: 15px;
+	}
+
+	.aboutus-cover #hod .media-body {
+		padding-left: 30px;
+	}		
+
+	/*========ADMISSION=======*/
+	#admission-cover{
+		padding-bottom: 35px;
+		padding-top: 35px;
+	}
+	#admission-cover .btn-outline-success{
+		margin-top: 15px;
+	} 
+
+	#admission-cover h5{
+		text-align: center;
+		margin-left: 20px;
+	}
+	#admission p{
+		font-size: 18px;
+		text-align: center;
+	}
+
+	#admission-cover .coursename {
+		padding: 36px 0px 46px 0px;
+	}
+
+	#admission .padding1 {
+		padding-bottom: 40px;
+	}
+
+	/*=======Faculty======*/
+	.faculty-cover .faculty-body{
+		padding: 5rem 2rem 2rem 4rem;
+	}
+
+	.faculty-cover .card-block {
+		padding-left: 1em;
+		padding-right: 2px;
+	}
+}
