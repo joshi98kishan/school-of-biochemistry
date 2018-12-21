@@ -831,9 +831,6 @@ html,body{
 .fac-content{
 	padding: 2rem;
 }
-#publications li{
-	padding: 0.3rem;
-}
 
 .clearfix::after{
 	display: block;
