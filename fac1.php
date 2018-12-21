@@ -105,7 +105,7 @@
 						<h2>PUBLICATIONS&nbsp &nbsp &nbsp  </h2>
 					</div>
 					<div class="fac-content" id="publications">
-						<p>Download list of publications from here : &nbsp&nbsp<a href="docs/faculty/Publications_SM_Gokhale.pdf" class="btn btn-info btn-sm" download="Dr.SM_Gokhale_Publicationss">DOWNLOAD</a></p>
+						<p>Download list of publications from here : &nbsp&nbsp<a href="docs/faculty/Publications_SM_Gokhale.pdf" class="btn btn-info btn-sm" target="_blank">DOWNLOAD</a></p>
 					</div>
 				</section>
 			</div>
