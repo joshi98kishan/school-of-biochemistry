@@ -355,16 +355,23 @@
 	</div>
 	<div class="card recard">
 		<div class="row">
-			<div class="col-md-12 cardmd9">
+			<div class="col-md-3" >
+				<img src="images/a1.jpg" class="card-image  image-responsive img-thumbnail reimage" alt="Seema Kelotra">
+			</div>
+			<div class="col-md-9 cardmd9">
 				<div class="card-block cardblk">
-					<h6 class="card-title divstyle1"><strong>Venkat Are</strong></h6>
-					<div class="divstyle1"><span class="profile-topic"><strong>Topic : </strong></span> <span class="profile-topic-detail">Structural and functional characterization of aminopeptidase P fold proteins.</span></div>
-					<div class="divstyle1"><span class="profile-topic"><strong>Supervisor : </strong></span> <span class="profile-topic-detail">Dr. Rekha Gadre</span></div>
-					<div class="divstyle1"><span class="profile-topic"><strong>Co-Supervisor : </strong></span> <span class="profile-topic-detail">Dr. Ravindra Makde</span></div>
+					<h6 class="card-title"><strong>Venkat Narayan Are</strong></h6>
+
+					<div><span class="profile-topic"><strong>Topic :
+					</strong> </span><span class="profile-topic-detail">Structural and functional characterizati-on of Aminopeptidase P fold proteins.</span></div>
+					<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Rekha Gadre</span></div>
+					<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. Ravindra Makde</span></div>
+
 				</div>
 			</div>
 		</div>
 	</div>
+	
 
 
 
