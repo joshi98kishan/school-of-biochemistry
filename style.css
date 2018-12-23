@@ -1105,6 +1105,72 @@ background-position:center -60px;
 
 /*-------------------ACTIVITIES(End)----------------------------*/
 
+/*-------------------ALUMINI Msc(Start)----------------------------*/
+
+#AluminiMSc .cont-marg{
+  margin-top: 30px;
+}
+
+#AluminiMSc .container{
+  text-align: center;
+}
+
+
+#AluminiMSc .container h1{
+ margin-top: 6%;
+ font-weight: bold;
+}
+
+
+#AluminiMSc .horizontal-act{
+  border: 0.6px solid #b9aaaa69;
+  margin-bottom: 3%;
+}
+
+
+#AluminiMSc .container .no-jumbo{
+
+  padding: 0rem 0rem;
+  background-color: white;
+  color: #222;
+  height: max-content;
+  position: relative;
+  border-radius: 16px;
+  transition: all .2s ease;
+  margin-left: 10px;
+  margin-bottom: 2%;
+  text-align: center;
+
+}
+
+#AluminiMSc .container .no-jumbo:hover{
+
+  box-shadow: 10px 17.3px 50px 0 rgba(146, 128, 128, 0.72); 
+}
+
+
+#AluminiMSc .container .no-jumbo .actpelement{
+
+  font-size: 1rem;
+  font-weight: bold;
+  padding-left: 19px;
+  padding-right: 2px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+}
+
+
+#AluminiMSc .image-item a{
+  color: inherit;
+  text-decoration: none;
+}
+
+#AluminiMSc .actpelement a{
+  display: block;
+}
+
+/*-------------------ALUMINI Msc(Start)----------------------------*/
+
 /*-------------------STUDENT(Start)----------------------------*/
 
 #student{
@@ -1721,6 +1787,17 @@ background-position:center -60px;
 	#Activities .container .no-jumbo h3{
 		font-size: 20px;
 	}
+	
+	/*---Alumini (Msc)----*/
+	#AluminiMSc .container .no-jumbo .actpelement{
+         font-size: 12px;
+         padding-bottom: 14px;
+         padding-top: 14px;
+        }
+
+        #AluminiMSc .container .no-jumbo h3{
+           font-size: 20px;
+        }
 
 	/*===========Student=============*/
 	/*------subhead-line------*/
@@ -1905,8 +1982,35 @@ background-position:center -60px;
 	#Activities .container .no-jumbo{
 		height: max-content;
 	}
+	
+	/*------Alumini (Msc)-------*/
+	#AluminiMSc .cont-marg{
+        margin-top: 0px;
+        }
+
+	#AluminiMSc .container .display-4{
+	   font-size: 35px;
+	 }
 
 
+	 #AluminiMSc .container .no-jumbo h3{
+	   font-size: 13px;
+	   margin: 0;
+	 }
+
+	 #AluminiMSc .container .no-jumbo .actpelement{
+	   font-size: 9px;
+	   padding-left: 14px;
+	   padding-bottom: 12px;
+	   padding-top: 12px;
+	 }
+
+	 #AluminiMSc .container .no-jumbo{
+	   height: max-content;
+	 } 
+	
+	
+	
 	/*===========Student=============*/
 	/*------subhead-line------*/
 	#student .subhead-line .display-4{
