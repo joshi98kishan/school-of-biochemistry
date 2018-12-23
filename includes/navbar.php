@@ -33,7 +33,7 @@
 					<li class="nav-item dropdown"><a class="nav-link r p navw3" ><strong>ALUMNI &nbsp;</strong><i class="fas fa-caret-down"></i></a>
 						<div class="dropdown-menu ">
 							<a href="msc.php" class="linkst"><div class="dropdown-item" id="dr">M.Sc.</div></a>
-							<a href="phd.php" class="linkst"><div class="dropdown-item" id="dr">Ph.D.</div></a>
+							<a href="alumni-phd.php" class="linkst"><div class="dropdown-item" id="dr">Ph.D.</div></a>
 						</div>
 					</li>
 					
