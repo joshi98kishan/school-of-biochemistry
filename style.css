@@ -124,7 +124,8 @@ html,body{
 	box-shadow: 5px 30px 40px -20px;
 }
 .navbar{
-	padding: 20px;
+	padding: 20px 5px 20px 5px;
+
 	background-color: #fff !important; 
 }
 .navbar-nav{
@@ -137,6 +138,10 @@ html,body{
 .navw2
 {
 	width: 9em;
+}
+.navw3
+{
+	width: 6em !important;
 }
 #inner .nav-link{
 	margin-left: 19px;
@@ -1179,6 +1184,10 @@ background-position:center -60px;
 	{
 		width: auto;
 	}
+	.navw3
+	{
+		width: auto;
+	}
 	.recard
 	{
 		border-left: none;
@@ -1379,7 +1388,7 @@ background-position:center -60px;
 
 	/*-----Navigation------*/
 	#inner .nav-link{
-		font-size: medium;
+		font-size: small;
 		margin-left: 5px;
 		margin-right: 5px;
 		color: #040 !important;
@@ -1452,7 +1461,7 @@ background-position:center -60px;
 
 	/*-----Navigation----*/
 	#inner .nav-link{
-		font-size: small;
+		font-size: 1.5vw;
 		margin-left: 0px;
 		margin-right: 3px;
 		color: #040 !important;
