@@ -19,7 +19,7 @@
 
 	
 	<div id="AluminiMSc" class="container-fluid">
-		<div class="container"><h1 class="display-4">ALUMINI (Msc.)</h1></div>
+		<div class="container"><h1 class="display-4">ALUMINI (M.Sc.)</h1></div>
 		<div class="container cont-marg" id="cont-margs">
 			<hr class="horizontal-act">
 
