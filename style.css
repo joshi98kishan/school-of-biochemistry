@@ -232,14 +232,15 @@ html,body{
 
 /*--------------------SIDE NAV----------------------*/
 
-.icon-bar {
+.side-nav {
 	position: fixed;
 	top: 55%;
 	transform: translateY(-50%);
 	z-index: 1000;
+	right: 0;
 }
 
-.icon-bar a {
+.side-nav a {
 	display: block;
 	text-align: center;
 	padding: 2px;
@@ -249,12 +250,12 @@ html,body{
 	text-decoration: none;
 }
 
-.icon-bar a:hover {
+.side-nav a:hover {
 	background-color: #000;
 	color: #fff;
 }
 
-.icon-bar-title{
+.side-nav-title{
 	font-size: 10px;
 	font-weight: bolder;
 }
@@ -262,7 +263,7 @@ html,body{
 .notices {
 	background: #55ACEE;
 	color: white;
-	border-radius: 0px 10px 0px 0px;
+	border-radius: 10px 0px 0px 0px;
 }
 
 .timetable {
@@ -278,7 +279,7 @@ html,body{
 .calendar {
 	background: #3B5998;
 	color: white;
-	border-radius: 0px 0px 10px 0px;
+	border-radius: 0px 0px 0px 10px;
 }
 
 /*----------SLIDER---------*/
@@ -1689,10 +1690,10 @@ background-position:center -60px;
 	}
 
 	/*----------Side Nav-----------*/
-	.icon-bar a {
+	.side-nav a {
 		font-size: 17px;
 	}
-	.icon-bar-title{
+	.side-nav-title{
 		font-size: 9px;	
 	}
 
@@ -1856,10 +1857,10 @@ background-position:center -60px;
 	}
 
 	/*----------Side Nav-----------*/
-	.icon-bar a {
+	.side-nav a {
 		font-size: 14px;
 	}
-	.icon-bar-title{
+	.side-nav-title{
 		font-size: 7px;
 	}
 
