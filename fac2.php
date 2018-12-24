@@ -141,7 +141,7 @@
 						<h2>PUBLICATIONS</h2>
 					</div>
 					<div class="fac-content" id="publications">
-						<p>Download list of publications from here : &nbsp&nbsp<a href="docs/faculty/Publications_Rekha_Gadre.pdf" class="btn btn-info btn-sm" target="_blank">DOWNLOAD</a></p>
+						<p>Download list of publications from here : &nbsp&nbsp<a href="docs/faculty/Publications_RekhaGadre.pdf" class="btn btn-info btn-sm" target="_blank">DOWNLOAD</a></p>
 					</div>
 				</section>
 			</div>
