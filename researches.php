@@ -82,7 +82,7 @@
 		
 
 	<!--ONGOING-->
-	<div class="row" id="sub">
+	<div class="row researchers-subhead" id="sub">
 		<div class="col-md">
 			<div class="subhead-line">
 				<h1 class="display-4">Research Scholars&nbsp;<i class="fas fa-user-graduate"></i></h1>

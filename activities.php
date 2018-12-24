@@ -20,9 +20,18 @@
 	
 	
 	<div id="Activities" class="container-fluid">
-		<div class="container"><h1 class="display-4">ACTIVITIES</h1></div>
+		<!-- <div class="container"><h1 class="display-4">ACTIVITIES</h1></div> -->
+		
+		<div class="row" id="sub">
+			<div class="col-md">
+				<div class="subhead-line">
+					<h1 class="display-4">Activities</h1>
+				</div>
+			</div>
+		</div>
+
 		<div class="container cont-marg" id="cont-margs">
-			<hr class="horizontal-act">
+			<!-- <hr class="horizontal-act"> -->
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
 					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>16/05/2018</h3></div></a>
