@@ -85,7 +85,7 @@
 	<div class="row" id="sub">
 		<div class="col-md">
 			<div class="subhead-line">
-				<h1 class="display-4">Ongoing&nbsp;<i class="fas fa-user-graduate"></i></h1>
+				<h1 class="display-4">Research Scholars&nbsp;<i class="fas fa-user-graduate"></i></h1>
 			</div>
 		</div>
 	</div>
