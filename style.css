@@ -124,7 +124,7 @@ html,body{
 	box-shadow: 5px 30px 40px -20px;
 }
 .navbar{
-	padding: 20px 5px 20px 5px;
+	padding: 20px 3px 20px 3px;
 
 	background-color: #fff !important; 
 }
@@ -141,7 +141,7 @@ html,body{
 }
 .navw3
 {
-	width: 6em !important;
+	width: 7em !important;
 }
 #inner .nav-link{
 	margin-left: 19px;
