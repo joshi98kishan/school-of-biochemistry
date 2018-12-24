@@ -1258,6 +1258,15 @@ background-position:center -60px;
 	font-size: medium;
 	padding-bottom: 1em;
 }
+
+.researchers-subhead .subhead-line h1::before{
+	width: 20%;
+}
+
+.researchers-subhead .subhead-line h1::after{
+	width: 20%;
+}
+
 #reseacher .row
 {
 	margin-left: 0px;
@@ -1668,6 +1677,26 @@ background-position:center -60px;
 		padding-right: 20px;	
 	}
 
+
+	/*=============RESEARCHERS=============*/
+	.researchers-subhead .subhead-line h1::before{
+		width: 10%;
+	}
+
+	.researchers-subhead .subhead-line h1::after{
+		width: 10%;
+	}
+
+	/*=============Alumni-M.Sc.============*/
+	#AluminiMSc .subhead-line h1::before{
+		width: 10%;
+	}
+
+	#AluminiMSc .subhead-line h1::after{
+		width: 10%;
+	}
+
+
 }
 
 @media screen and (max-width: 767px) {
@@ -1866,6 +1895,15 @@ background-position:center -60px;
 		margin: 30px auto; 
 	}
 
+	/*=============RESEARCHERS=============*/
+	.researchers-subhead .subhead-line h1::before{
+		width: 5%;
+	}
+
+	.researchers-subhead .subhead-line h1::after{
+		width: 5%;
+	}
+
 }
 
 @media screen and (max-width: 575px) {
@@ -1886,11 +1924,11 @@ background-position:center -60px;
 	}
 
 	.subhead-line h1::before{
-		width: 15%;
+		display: none;
 	}
 
 	.subhead-line h1::after{
-		width: 15%;
+		display: none;
 	}
 
 	/*=======Index Page========*/
@@ -2020,6 +2058,13 @@ background-position:center -60px;
 	#student .subhead-line h1 i{
 		font-size: 40px;
 	}
+	#student .subhead-line1 h2::before{
+		display: none;
+	}
+	#student .subhead-line1 h2::after{
+		display: none;
+	}
+
 
 	/*==============About Us===============*/		
 	.aboutus-cover h1{
@@ -2031,18 +2076,18 @@ background-position:center -60px;
 	}
 
 	.aboutus-subhead h2::before{	
-		width: 20%;
+		display: none;
 	}
 	.aboutus-subhead h2::after{	
-		width: 20%;
+		display: none;
 	}
 
 	#hod .aboutus-subhead h2::before{
-		width: 3%;
+		display: none;
 	}
 
 	#hod .aboutus-subhead h2::after{
-		width: 3%;
+		display: none;
 	}
 	.aboutus-cover .cont{
 		font-size: 18px;

@@ -24,13 +24,13 @@
 	 		<!-- <div>
 	 			<h1 class="display-3" style="text-align: center; padding-top: 7%;">STUDENTS</h1>
 	 		</div> -->
-	 		<div class="container" style="background-color: inherit;">
-	 			<div class="row">
-	 				<div class="col-md-12 subhead">
-	 					<h1 class="display-4"><strong>STUDENT</strong></h1>
-	 				</div>
-	 			</div>
-	 		</div>
+			<div class="row" id="sub">
+				<div class="col-md">
+					<div class="subhead-line">
+						<h1 class="display-4">Student</h1>
+					</div>
+				</div>
+			</div>
 
 
 	 		<div class="container" style="margin-top: 2%;">
