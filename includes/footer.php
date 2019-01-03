@@ -35,7 +35,7 @@
 						</td>
 						<td>
 
-							<span>0731-2460276&nbsp;&nbsp;,&nbsp;&nbsp;0731-2590783</span>
+							<span>0731-2460276 (O)&nbsp;&nbsp;,&nbsp;&nbsp;0731-2590783 (R)</span>
 						</td>
 					</tr>
 					<tr class="trstyle">

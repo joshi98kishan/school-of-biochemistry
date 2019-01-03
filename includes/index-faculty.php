@@ -20,7 +20,6 @@
 						<img src="images/fac2.jpeg" class="card-img-top img-thumbnail" id="sir-ki-image">
 						<div class="card-body">
 							<h4 class="card-title">Dr. Rekha Gadre</h4>
-							<small>Ph.D.<br> DAVV, Indore (1985)</small>
 						</div>
 					</div>
 				</a>
@@ -34,7 +33,6 @@
 						<img src="images/fac1.jpeg" class="card-img-top img-thumbnail" id="sir-ki-image">
 						<div class="card-body">
 							<h4 class="card-title">Dr. S.M. Gokhale</h4>
-							<small>Ph.D. Biochemistry<br> Bombay University (1986)</small>
 						</div>
 					</div>
 				</a>
@@ -50,7 +48,6 @@
 						<img src="images/fac3.jpeg" class="card-img-top img-thumbnail" id="sir-ki-image">
 						<div class="card-body">
 							<h4 class="card-title">Dr. Meeta Jain</h4>
-							<small>Ph.D.<br> DAVV, Indore (1995)</small>
 						</div>
 					</div>
 				</a>
