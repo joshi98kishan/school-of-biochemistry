@@ -48,10 +48,18 @@
 				</div>
 			</div>
 
+			<div class="row padding1">
+				<div class="col-md-1"></div>
+				<div class="col-md-11">
+					<h5>Ph.D. Course Work</h5>
+					<p> Ph.D. program includes Ph.D. Course Work (six months duration). </p>
+				</div>
+			</div>
+
 			<div class="row padding2">
 				<div class="col-md-1"></div>
 				<div class="col-md-11">
-					<a  class="btn btn-outline-success" href="docs/ProgramsandAdmissionProcedure2018.pdf" target="_blank">More Information</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a  class="btn btn-outline-success" href="docs/Guidelines for Applicants2018.pdf" target="_blank">DET Guidelines</a>&nbsp;&nbsp;&nbsp;&nbsp;
 					<a class="btn btn-outline-success" href="docs/Ph.D.-Fee-Structure.pdf" target="_blank">Fee Structure</a>
 				</div>
 			</div>

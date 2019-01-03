@@ -119,10 +119,43 @@
 									<tr>
 										<th scope="row">7</th>
 										<td>Mr Jayesh Vaishnav</td>
-										<td>----</td>
+										<td>2018</td>
 										<td>
 											Effect of salt stress on chlorophyll metabolism and antioxidative system in maize.
 										</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+						<div class="table-responsive">
+							<table class="table">
+								<caption class="table-caption">Ph.D. On-Going</caption>
+								<thead>
+									<tr>
+										<th scope="col">#</th>
+										<th scope="col">Name</th>
+										<th scope="col">Year</th>
+										<th scope="col">Title</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<th scope="row">1</th>
+										<td>Ms. Mamta Hirve</td>
+										<td>From 2015</td>
+										<td> Effect of metal (Cu and Cr) and water deficit stress on chlorophyll biosynthesis and antioxidative system in maize.</td>
+									</tr>
+									<tr>
+										<th scope="row">2</th>
+										<td>Ms. Shruti Shukla</td>
+										<td>From 2016</td>
+										<td>Assessment of conditions affecting Agrobacterium mediated transformation efficiency in soybean (Glycine max , (L.) Merril).</td>
+									</tr>
+									<tr>
+										<th scope="row">3</th>
+										<td>Ms. Nisha Agrawal</td>
+										<td>From 2017</td>
+										<td>Marker assisted development of genetic stocks for photoperiodic and long juvenile traits in Soybean [Glycine max (L.) Merril] variety SL958.</td>
 									</tr>
 								</tbody>
 							</table>
@@ -134,7 +167,7 @@
 						<h2>PUBLICATIONS</h2>
 					</div>
 					<div class="fac-content" id="publications">
-						<p>Download list of publications from here : &nbsp&nbsp<a href="docs/faculty/Publications_MeetaJain.pdf" class="btn btn-info btn-sm" target="_blank">DOWNLOAD</a></p>
+						<p><a href="docs/faculty/Publications_MeetaJain.pdf" class="btn btn-info btn-sm" target="_blank">List of Publications</a></p>
 					</div>
 				</section>
 			</div>

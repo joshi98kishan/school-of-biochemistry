@@ -32,6 +32,29 @@
 			<div class="row padding1">
 				<div class="col-md-1"></div>
 				<div class="col-md-11">
+					<p> The PG program has four semesters with durations as follows: </p>
+					<table class="table table-borderless">
+						<thead>
+							<tr>
+								<th>Semester</th>
+								<th>Duration</th>
+							</tr>
+						</thead>
+						<tr>
+							<td>I and III</td>
+							<td>July-Dec (Odd Semesters)</td>
+						</tr>
+						<tr>
+							<td>II and IV</td>
+							<td>Jan-May (Even Semesters)</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+
+			<div class="row padding1">
+				<div class="col-md-1"></div>
+				<div class="col-md-11">
 					<h5>Eligibility For Admission</h5>
 					<p> The candidates having B.Sc. degree of
 						Biological Sciences with chemistry as one of the subjects are eligible for
@@ -52,8 +75,8 @@
 			<div class="row padding2">
 				<div class="col-md-1"></div>
 				<div class="col-md-11">
-					<a  class="btn btn-outline-success" href="docs/ProgramsandAdmissionProcedure2018.pdf" target="_blank">More Information</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a class="btn btn-outline-success" href="docs/M.Sc-Fee-Structure.pdf" target="_blank">Fee Structure</a>
+					<a  class="btn btn-outline-success" href="docs/Brochure_CET2018_280418.pdf" target="_blank">CET Brochure</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a class="btn btn-outline-success" href="docs/M.Sc.-Fee-Structure.pdf" target="_blank">Fee Structure</a>
 				</div>
 			</div>
 		</div>

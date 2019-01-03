@@ -35,7 +35,7 @@
 	 				</div>
 	 				<div class="col-md-9">
 	 					<div class="card-block">
-	 						<a href="fac2.php"><h4 class="card-title"><strong>DR. REKHA GDRE</strong></h4></a>
+	 						<a href="fac2.php"><h4 class="card-title"><strong>Dr. Rekha Gadre</strong></h4></a>
 	 						<h5><strong>Professor & Head</strong></h5>
 	 						<div><span class="profile-topic">PhD : </span><span class="profile-topic-detail">Devi Ahilya Vishwavidyalaya, Indore(1985)</span></div>
 	 						<div><span class="profile-topic">Research Interests :</span><span class="profile-topic-detail">Enzymology/Plant Biochemistry</span></div>
@@ -52,7 +52,7 @@
 	 				</div>
 	 				<div class="col-md-9">
 	 					<div class="card-block">
-	 						<a href="fac1.php"><h4 class="card-title"><strong>DR. S.M. GOKHALE</strong></h4></a>
+	 						<a href="fac1.php"><h4 class="card-title"><strong>Dr. S.M. Gokhale</strong></h4></a>
 	 						<h5><strong>Reader</strong></h5>
 	 						<div><span class="profile-topic">PhD :</span><span class="profile-topic-detail">Biochemistry, Bombay University (1986)
 	 						</span></div>
@@ -71,7 +71,7 @@
 	 				</div>
 	 				<div class="col-md-6">
 	 					<div class="card-block">
-	 						<a href="fac3.php"><h4 class="card-title"><strong>DR. MEETA JAIN</strong></h4></a>
+	 						<a href="fac3.php"><h4 class="card-title"><strong>Dr. Meeta Jain</strong></h4></a>
 	 						<h5><strong>Reader</strong></h5>
 	 						<div><span class="profile-topic">PhD :</span><span class="profile-topic-detail">Devi Ahilya Vishwavidyalaya, Indore(1985)</span></div>
 	 						<div><span class="profile-topic">Research Interests :</span><span class="profile-topic-detail">Plant Biochemistry</span></div>
