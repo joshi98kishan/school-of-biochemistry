@@ -128,8 +128,14 @@
 									<tr>
 										<th scope="row">1</th>
 										<td>Ms. Radhika Chinchalkar</td>
-										<td>Appld. 2013</td>
+										<td>From 2013</td>
 										<td>Studies on effects of metallic nutrients, Mn, Ni and Zn, in relation to chlorophyll metabolism and oxidative stress in maize.</td>
+									</tr>
+									<tr>
+										<th scope="row">2</th>
+										<td>Ms. Kritika Pathak</td>
+										<td>From 2016</td>
+										<td>Interactive Effects Of Heavy Metals (Al,Ni,Mn) In Relation To Oxidative Stress And Nitrogen Assimilation In Wheat(Triticum Species).</td>
 									</tr>
 								</tbody>
 							</table>
@@ -141,7 +147,7 @@
 						<h2>PUBLICATIONS</h2>
 					</div>
 					<div class="fac-content" id="publications">
-						<p>Download list of publications from here : &nbsp&nbsp<a href="docs/faculty/Publications_RekhaGadre.pdf" class="btn btn-info btn-sm" target="_blank">DOWNLOAD</a></p>
+						<p><a href="docs/faculty/Publications_RekhaGadre.pdf" class="btn btn-info btn-sm" target="_blank">List of Publications</a></p>
 					</div>
 				</section>
 			</div>

@@ -25,7 +25,7 @@
 		<div class="row" id="sub">
 			<div class="col-md">
 				<div class="subhead-line">
-					<h1 class="display-4">Scientist&nbsp;<i class="fas fa-user-md"></i></h1>
+					<h1 class="display-4">Scientists&nbsp;<i class="fas fa-user-md"></i></h1>
 				</div>
 			</div>
 		</div>
@@ -40,7 +40,7 @@
 						<div class="card-block">
 							<h6 class="card-title"><strong>Dr. Amit Singh Yadav </strong></h6>
 							<br>
-							<div class="divstyle1"><span class="profile-topic"><strong>Designation </strong></span> <span class="profile-topic-detail"><br>Senior Research Associate(Pool Scientist)</span></div>
+							<div class="divstyle1"><span class="profile-topic"><strong>Designation </strong></span> <span class="profile-topic-detail"><br>Senior Research Associate (Pool Scientist - CSIR)</span></div>
 						</div>
 					</div>
 				</div>
@@ -52,9 +52,9 @@
 					</div>
 					<div class="col-md-6">
 						<div class="card-block">
-							<h6 class="card-title"><strong>Dr. Suneeta Kataria</strong></h6>
+							<h6 class="card-title"><strong>Dr. Sunita Kataria</strong></h6>
 							<br>
-							<div class="divstyle1"><span class="profile-topic"><strong>Designation  </strong></span> <span class="profile-topic-detail"><br>	Woman Scientist</span></div>
+							<div class="divstyle1"><span class="profile-topic"><strong>Designation  </strong></span> <span class="profile-topic-detail"><br>	Woman Scientist (DST)</span></div>
 						</div>
 					</div>
 				</div>
@@ -66,9 +66,9 @@
 					</div>
 					<div class="col-md-6">
 						<div class="card-block">
-							<h6 class="card-title"><strong>Dr. Suneeta Shukla</strong></h6>
+							<h6 class="card-title"><strong>Dr. Sunita Shukla</strong></h6>
 							<br>
-							<div class="divstyle1"><span class="profile-topic"><strong>Designation  </strong></span> <span class="profile-topic-detail"><br>	Woman Scientist</span></div>
+							<div class="divstyle1"><span class="profile-topic"><strong>Designation  </strong></span> <span class="profile-topic-detail"><br>	Woman Scientist (ICMR)</span></div>
 						</div>
 					</div>
 				</div>

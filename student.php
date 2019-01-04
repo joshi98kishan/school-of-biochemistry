@@ -44,7 +44,7 @@
 	 						<br>
 	 						<br>
 	 						<div style="float: none;">
-	 							<span> <a class="link btn btn-success  btn-responsive" href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>Download PDF</a></span>
+	 							<span> <a class="link btn btn-success  btn-responsive" href="docs/Academic Calender 2018 - 19.PDF" target="_blank">Download PDF</a></span>
 	 						</div>
 	 					</div>
 	 				</div>
@@ -59,13 +59,13 @@
 	 						<div class="row">
 	 							<div class="col-md-6">
 	 								<span style="float: left;">
-	 									<h4>M.Sc.&nbsp;&nbsp;&nbsp;&nbsp;<span> <a href="docs/MScSyllabus2017-19.PDF" class="btn btn-success btn-sm" target="_blank" download>PDF</a></span></h4>
+	 									<h4>M.Sc.&nbsp;&nbsp;&nbsp;&nbsp;<span> <a href="docs/MScSyllabus2017-19.PDF" class="btn btn-success btn-sm" target="_blank">PDF</a></span></h4>
 	 								</span>
 	 							</div>
 
 	 							<div class="col-md-6">
 	 								<span style="float: left;">
-	 									<h4>Ph.D.&nbsp;&nbsp;&nbsp;&nbsp;<span> <a href="#" class="btn btn-success btn-sm" target="_blank" download>PDF</a></span></h4>
+	 									<h4>Ph.D.&nbsp;&nbsp;&nbsp;&nbsp;<span> <a href="#" class="btn btn-success btn-sm" target="_blank">PDF</a></span></h4>
 	 								</span>
 	 							</div>
 	 						</div>
@@ -93,15 +93,15 @@
 	 									<tbody>
 	 										<tr>
 	 											<td>I (July – Dec)</td>
-	 											<td><a href="docs/semIbio.PDF" target="_blank" download>Download PDF</a></td>
+	 											<td><a href="docs/semIbio.PDF" target="_blank">Download PDF</a></td>
 	 										</tr>
 	 										<tr>
 	 											<td>II (Jan – May)</td>
-	 											<td><a href="docs/Sem-IITimeTable2018Toupload12042018.PDF" target="_blank" download>Download PDF</a></td>
+	 											<td><a href="docs/Sem-IITimeTable2018Toupload12042018.PDF" target="_blank">Download PDF</a></td>
 	 										</tr>
 	 										<tr>
 	 											<td>III (July – Dec)</td>
-	 											<td><a href="docs/semIIIbio.pdf" target="_blank" download>Download PDF</a></td>
+	 											<td><a href="docs/semIIIbio.pdf" target="_blank">Download PDF</a></td>
 	 										</tr>
 	 									</tbody>
 	 								</table>
@@ -124,7 +124,7 @@
 	 									</thead>
 	 									<tbody>
 	 										<tr>
-	 											<td><a href="docs/Ph.DCourseWorkTimeTable12042018.PDF" target="_blank" download>Download PDF</a></td>
+	 											<td><a href="docs/Ph.DCourseWorkTimeTable12042018.PDF" target="_blank">Download PDF</a></td>
 	 											<td>&nbsp &nbsp</td>
 	 										</tr>
 	 										<tr>
@@ -164,23 +164,23 @@
 	 									<tbody>
 	 										<tr>
 	 											<td>Unit test I</td>
-	 											<td><a href="docs/TestsIJuly-Dec2018.PDF" target="_blank" download>Download PDF</a></td>
-	 											<td><a href="docs/Sem-IIUnitTest ITimeTableToupload12042018.PDF" target="_blank" download>Download PDF</a></td>
+	 											<td><a href="docs/TestsIJuly-Dec2018.PDF" target="_blank">Download PDF</a></td>
+	 											<td><a href="docs/Sem-IIUnitTest ITimeTableToupload12042018.PDF" target="_blank">Download PDF</a></td>
 	 										</tr>
 	 										<tr>
 	 											<td>Unit test II</td>
-	 											<td><a href="docs/TestIIJuly-Dec2018.PDF" target="_blank" download>Download PDF</a></td>
-	 											<td><a href="docs/Sem-II Unit Test III Time Table To upload.PDF" target="_blank" download>Download PDF</a></td>
+	 											<td><a href="docs/TestIIJuly-Dec2018.PDF" target="_blank">Download PDF</a></td>
+	 											<td><a href="docs/Sem-II Unit Test III Time Table To upload.PDF" target="_blank">Download PDF</a></td>
 	 										</tr>
 	 										<tr>
 	 											<td>Unit test III </td>
-	 											<td><a href="docs/TestsIII,July-Dec 2018.PDF" target="_blank" download>Download PDF</a></td>
-	 											<td><a href="docs/Sem-II Unit Test III Time Table To upload.PDF" target="_blank" download> Download PDF</a></td>
+	 											<td><a href="docs/TestsIII,July-Dec 2018.PDF" target="_blank">Download PDF</a></td>
+	 											<td><a href="docs/Sem-II Unit Test III Time Table To upload.PDF" target="_blank"> Download PDF</a></td>
 	 										</tr>
 	 										<tr>
 	 											<td>Final Sem exam</td>
-	 											<td><a href="docs/Sem Exam Dec 2018.PDF" target="_blank" download>Download PDF</a></td>
-	 											<td><a href="docs/Sem-II Final Exam Time Table To upload.PDF" target="_blank" download>Download PDF</a></td>
+	 											<td><a href="docs/Sem Exam Dec 2018.PDF" target="_blank">Download PDF</a></td>
+	 											<td><a href="docs/Sem-II Final Exam Time Table To upload.PDF" target="_blank">Download PDF</a></td>
 	 										</tr>
 	 									</tbody>
 	 								</table>
@@ -198,7 +198,7 @@
 
 	 									<tbody>
 	 										<tr>
-	 											<td><a href="docs/Ph.D20042018.PDF" target="_blank" download>Download PDF</a></td>
+	 											<td><a href="docs/Ph.D20042018.PDF" target="_blank">Download PDF</a></td>
 	 										</tr>
 	 										<tr>
 	 											<td>&nbsp &nbsp &nbsp &nbsp</td>

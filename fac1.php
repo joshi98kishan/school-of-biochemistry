@@ -95,9 +95,39 @@
 								</tbody>
 							</table>
 						</div>
-						<p>
-							Four M.Phil and Sixteen M.Sc. students were supervised for dissertation work.
-						</p>
+						<div class="table-responsive">
+							<table class="table">
+								<caption class="table-caption">Ph.D. On-Going</caption>
+								<thead>
+									<tr>
+										<th scope="col">#</th>
+										<th scope="col">Name</th>
+										<th scope="col">Year</th>
+										<th scope="col">Title</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<th scope="row">1</th>
+										<td>Ms. Vinny Punjabi</td>
+										<td>From 2013</td>
+										<td> Analysis of alterations of erythrocyte proteins exposed to oxidative stress.</td>
+									</tr>
+									<tr>
+										<th scope="row">2</th>
+										<td>Ms. Pooja Yadav</td>
+										<td>From 2015</td>
+										<td>Structural and functional characterization of serine peptidases of S9 and S51 MEROPS families.</td>
+									</tr>
+									<tr>
+										<th scope="row">3</th>
+										<td>Ms. Priyanka Mittal</td>
+										<td>From 2017</td>
+										<td>Bowman Birk inhibitor and Lunasin in Glycine max: genetic variability, environmental effects, validation of associated markers and their fate during processing.</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
 					</div>
 				</section>
 				<section>
@@ -105,7 +135,7 @@
 						<h2>PUBLICATIONS&nbsp &nbsp &nbsp  </h2>
 					</div>
 					<div class="fac-content" id="publications">
-						<p>Download list of publications from here : &nbsp&nbsp<a href="docs/faculty/Publications_SMGokhale.pdf" class="btn btn-info btn-sm" target="_blank">DOWNLOAD</a></p>
+						<p><a href="docs/faculty/Publications_SMGokhale.pdf" class="btn btn-info btn-sm" target="_blank">List of Publications</a></p>
 					</div>
 				</section>
 			</div>

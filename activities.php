@@ -34,13 +34,13 @@
 			<!-- <hr class="horizontal-act"> -->
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>16/05/2018</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>16/05/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">A talk on “Cellular Senescence and its role in aging and disease”   
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -48,13 +48,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>19/04/2018</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>19/04/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Three day Workshop on “Practical Experiences of Meditation” 
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -62,13 +62,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>22/03/2018</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>22/03/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Health cards for Students of the department 
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -90,13 +90,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>18/01/2018</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>18/01/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">M.Sc. Semester II students attended Training Programme  
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -104,13 +104,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>10/01/2018</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>10/01/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Dr. Meeta Jain attended World Environment Congress  
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -118,13 +118,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>05/01/2018</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>05/01/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Dr Sunita Shukla participated in International Symposium 
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -138,7 +138,7 @@
 				<div class="text-item">
 
 					<div class="actpelement">Dr Sunita Kataria participated in International Conference 
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -146,13 +146,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>27/11/2017</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>27/11/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Dr Sunita Shukla participated in National Workshop  
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -160,13 +160,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>22/11/2017</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>22/11/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Mr Venkat Narayan Are participated in Central Zone Convention of Anvention 2017  
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -174,13 +174,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>06/11/2017</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>06/11/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Mr Venkat Narayan Are presented a Poster and Paper of Anvention 2017  
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -188,13 +188,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>23/10/2017</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>23/10/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Students’ Participation in GIAN  
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -202,13 +202,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>23/10/2017</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>23/10/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Students’ Election Activities  
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -230,13 +230,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>24/08/2017</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>24/08/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Registration of students on NCS portal  
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -244,13 +244,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download><div class="display-4 text-block"><h3>10/07/2017</h3></div></a>
+					<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank"><div class="display-4 text-block"><h3>10/07/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Guru Poornima Mahotsav  
-						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank" download>click here for more</a>
+						<a href="docs/Academic Calender 2018 - 19.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>

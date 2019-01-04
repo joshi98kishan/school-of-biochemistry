@@ -14,7 +14,7 @@
 		<div class="carousel-item  active">
 			<img src="images/carousel1.jpeg">
 			<div class="carousel-caption">
-				<h3>Welcome to DAVV</h3>
+				<h3>Welcome to Devi Ahilya Vishwavidhyalaya</h3>
 			</div>
 		</div>
 		<div class="carousel-item">
