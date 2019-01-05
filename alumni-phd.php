@@ -33,104 +33,25 @@
 		<!--END AWARDEES-->
 		<div class="container" >
 			
-
+			<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r5.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Ritu Tyagi">
+						<img src="images/r3.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Ankita Joshi">
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Ritu Tyagi  (2009-2015)</strong></h6>
+							<h6 class="card-title"><strong>Ankita Joshi  (2013-2018)</strong></h6>
 							<div><span class="profile-topic"><strong>Topic :
-							</strong> </span><span class="profile-topic-detail">
-							Metabonomic approach for the identification of biomarker for tungsten based alloy heavy metal induced chemical toxicity using NMR spectroscopy and imaging.</span></div>
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Deepak Bhatnagar</span></div>
-							<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. Poonam Rana</span></div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-
-			<div class="card recard">
-				<div class="row">
-					<div class="col-md-3" >
-						<img src="images/r8.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Deepti Dixit">
-					</div>
-					<div class="col-md-9 cardmd9">
-						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Deepti Dixit  (2009-2014)</strong></h6>
-
-							<div><span class="profile-topic"><strong>Topic :
-							</strong> </span><span class="profile-topic-detail">
-							Antioxidant and radioprotective effects of herbal and natural products against gamma irradiation induced oxidative stress.</span></div>
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Deepak Bhatnagar</span></div>
-
-						</div>
-					</div>
-				</div>
-			</div>
-
-
-			<div class="card recard">
-				<div class="row">
-					<div class="col-md-3" >
-						<img src="images/r6.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Ankit Kelotra">
-					</div>
-					<div class="col-md-9 cardmd9">
-						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Ankit Kelotra  (2009-2016)</strong></h6>
-
-							<div><span class="profile-topic"><strong>Topic :
-							</strong> </span><span class="profile-topic-detail">
-							Computational Drug design for some crucial target proteins in psoriasis.</span></div>
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. S.M. Gokhale</span></div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-
-			<div class="card recard">
-				<div class="row">
-					<div class="col-md-3" >
-						<img src="images/r4.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Swati Tiwary">
-					</div>
-					<div class="col-md-9 cardmd9">
-						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Swati Tiwary  (2009-2015)</strong></h6>
-							<div><span class="profile-topic"><strong>Topic :
-							</strong> </span><span class="profile-topic-detail">Osmotic stress induced changes in chlorophyll metabolism and antioxidative system in maize leaves.
-
+							</strong> </span><span class="profile-topic-detail">Antioxidative, antidiabetic and antiinflammatory activity of some of the herbal products.
 							</span></div>
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Meeta Jain</span></div>
-
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Deepak Bhatnagar</span></div>
 						</div>
 					</div>
 				</div>
 			</div>
 
-
-			<div class="card recard">
-				<div class="row">
-					<div class="col-md-3" >
-						<img src="images/r7.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Seema Kelotra">
-					</div>
-					<div class="col-md-9 cardmd9">
-						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Seema Kelotra  (2009-2016)</strong></h6>
-
-							<div><span class="profile-topic"><strong>Topic :
-							</strong> </span><span class="profile-topic-detail">Ligand binding studies with some caspases using computational methods.</span></div>
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Meeta Jain</span></div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-
-
+			
 			<div class="card recard">
 				<div class="row">
 						<div class="col-md-3" >
@@ -151,8 +72,42 @@
 				</div>
 			</div>
 
+			<div class="card recard">
+				<div class="row">
+					<div class="col-md-3" >
+						<img src="images/a1.jpg" class="card-image  image-responsive img-thumbnail reimage" alt="Seema Kelotra">
+					</div>
+					<div class="col-md-9 cardmd9">
+						<div class="card-block cardblk">
+							<h6 class="card-title"><strong>Venkat Narayan Are  (2014-2018)</strong></h6>
 
+							<div><span class="profile-topic"><strong>Topic :
+							</strong> </span><span class="profile-topic-detail">Structural and functional characterizati-on of Aminopeptidase P fold proteins.</span></div>
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Rekha Gadre</span></div>
+							<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. Ravindra Makde</span></div>
 
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="card recard">
+				<div class="row">
+					<div class="col-md-3">
+						<img src="images/r11.jpeg" class="img-thumbnail image-responsive card-image reimage" alt="Antariksh Tyagi">
+					</div>
+					<div class="col-md-9 cardmd9">
+						<div class="card-block cardblk">
+							<h6 class="card-title"><strong>Antariksh Tyagi  (2010-2017)</strong></h6>
+
+							<div><span class="profile-topic"><strong>Topic :
+							</strong> </span><span class="profile-topic-detail">Studies on global gene expression and adaptability of different ecotypes of Arabidopsis thaliana along altitudinal gradient.</span></div>
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. S.M. Gokhale</span></div>
+							<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. Sribash Roy</span></div>
+						</div>
+					</div>
+				</div>
+			</div>
 
 			<div class="card recard">
 				<div class="row">
@@ -171,26 +126,6 @@
 					</div>
 				</div>
 			</div>
-
-
-			<div class="card recard">
-				<div class="row">
-					<div class="col-md-3" >
-						<img src="images/r12.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Reena Rawal">
-					</div>
-					<div class="col-md-9 cardmd9">
-						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Reena Rawal  (2010-2016)</strong></h6>
-
-							<div><span class="profile-topic"><strong>Topic :
-							</strong> </span><span class="profile-topic-detail">Introgression of null allele of lipoxygenase-2 into high yielding soybean cultivar using Marker-Assisted Selection.</span></div>
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. S.M. Gokhale</span></div>
-							<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. Vineet Kumar </span></div>
-						</div>
-					</div>
-				</div>
-			</div>
-
 
 			<div class="card recard">
 				<div class="row">
@@ -212,45 +147,23 @@
 				</div>
 			</div>
 
-
-			<div class="card recard">
-				<div class="row">
-					<div class="col-md-3">
-						<img src="images/r11.jpeg" class="img-thumbnail image-responsive card-image reimage" alt="Antariksh Tyagi">
-					</div>
-					<div class="col-md-9 cardmd9">
-						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Antariksh Tyagi  (2010-2017)</strong></h6>
-
-							<div><span class="profile-topic"><strong>Topic :
-							</strong> </span><span class="profile-topic-detail">Studies on global gene expression and adaptability of different ecotypes of Arabidopsis thaliana along altitudinal gradient.</span></div>
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. S.M. Gokhale</span></div>
-							<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. Sribash Roy</span></div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r9.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Sharad Saurabh">
+						<img src="images/r6.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Ankit Kelotra">
 					</div>
-					<div class="col-md-9 cardmd9" >
+					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Sharad Saurabh  (2010-2015)</strong></h6>
+							<h6 class="card-title"><strong>Ankit Kelotra  (2009-2016)</strong></h6>
 
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">
-							Purification and characterization of MBLs from wild species of genus Allium and cloning of genes.</span></div>
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Meeta  Jain</span></div>
-							<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. P.K. Singh</span></div>
+							Computational Drug design for some crucial target proteins in psoriasis.</span></div>
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. S.M. Gokhale</span></div>
 						</div>
 					</div>
 				</div>
 			</div>
-
 
 			<div class="card recard">
 				<div class="row">
@@ -273,22 +186,36 @@
 				</div>
 			</div>
 
+			<div class="card recard">
+				<div class="row">
+					<div class="col-md-3" >
+						<img src="images/r12.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Reena Rawal">
+					</div>
+					<div class="col-md-9 cardmd9">
+						<div class="card-block cardblk">
+							<h6 class="card-title"><strong>Reena Rawal  (2010-2016)</strong></h6>
+
+							<div><span class="profile-topic"><strong>Topic :
+							</strong> </span><span class="profile-topic-detail">Introgression of null allele of lipoxygenase-2 into high yielding soybean cultivar using Marker-Assisted Selection.</span></div>
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. S.M. Gokhale</span></div>
+							<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. Vineet Kumar </span></div>
+						</div>
+					</div>
+				</div>
+			</div>
 
 			<div class="card recard">
 				<div class="row">
-					<!-- <div class="col-md-3" >
-						<img src="images/r10.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Prakash Malviya">
-					</div> -->
-					<div class="col-md-12 cardmd12 divstyle1">
+					<div class="col-md-3" >
+						<img src="images/r7.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Seema Kelotra">
+					</div>
+					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Harsha Lad  (2011-2015)</strong></h6>
+							<h6 class="card-title"><strong>Seema Kelotra  (2009-2016)</strong></h6>
 
-							<!-- <div><span class="profile-topic"><strong>Topic :
-							</strong> </span><span class="profile-topic-detail">
-								Studies on physiological and biochemical changes in relation to grain yield, quality and drought tolerance in durum wheat genotypes.
-
-							</span></div> -->
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. D. Bhatnagar</span></div>
+							<div><span class="profile-topic"><strong>Topic :
+							</strong> </span><span class="profile-topic-detail">Ligand binding studies with some caspases using computational methods.</span></div>
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Meeta Jain</span></div>
 						</div>
 					</div>
 				</div>
@@ -315,6 +242,43 @@
 				</div>
 			</div>
 
+			<div class="card recard">
+				<div class="row">
+					<!-- <div class="col-md-3" >
+						<img src="images/r10.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Prakash Malviya">
+					</div> -->
+					<div class="col-md-12 cardmd12 divstyle1">
+						<div class="card-block cardblk">
+							<h6 class="card-title"><strong>Harsha Lad  (2011-2015)</strong></h6>
+
+							<!-- <div><span class="profile-topic"><strong>Topic :
+							</strong> </span><span class="profile-topic-detail">
+								Studies on physiological and biochemical changes in relation to grain yield, quality and drought tolerance in durum wheat genotypes.
+
+							</span></div> -->
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. D. Bhatnagar</span></div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="card recard">
+				<div class="row">
+					<div class="col-md-3" >
+						<img src="images/r5.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Ritu Tyagi">
+					</div>
+					<div class="col-md-9 cardmd9">
+						<div class="card-block cardblk">
+							<h6 class="card-title"><strong>Ritu Tyagi  (2009-2015)</strong></h6>
+							<div><span class="profile-topic"><strong>Topic :
+							</strong> </span><span class="profile-topic-detail">
+							Metabonomic approach for the identification of biomarker for tungsten based alloy heavy metal induced chemical toxicity using NMR spectroscopy and imaging.</span></div>
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Deepak Bhatnagar</span></div>
+							<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. Poonam Rana</span></div>
+						</div>
+					</div>
+				</div>
+			</div>
 
 			<div class="card recard" >
 				<div class="row">
@@ -335,23 +299,68 @@
 				</div>
 			</div>
 
-
 			<div class="card recard">
 				<div class="row">
 					<div class="col-md-3" >
-						<img src="images/r3.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Ankita Joshi">
+						<img src="images/r9.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Sharad Saurabh">
 					</div>
-					<div class="col-md-9 cardmd9">
+					<div class="col-md-9 cardmd9" >
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Ankita Joshi  (2013-2018)</strong></h6>
+							<h6 class="card-title"><strong>Sharad Saurabh  (2010-2015)</strong></h6>
+
 							<div><span class="profile-topic"><strong>Topic :
-							</strong> </span><span class="profile-topic-detail">Antioxidative, antidiabetic and antiinflammatory activity of some of the herbal products.
-							</span></div>
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Deepak Bhatnagar</span></div>
+							</strong> </span><span class="profile-topic-detail">
+							Purification and characterization of MBLs from wild species of genus Allium and cloning of genes.</span></div>
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Meeta  Jain</span></div>
+							<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. P.K. Singh</span></div>
 						</div>
 					</div>
 				</div>
 			</div>
+
+			<div class="card recard">
+				<div class="row">
+					<div class="col-md-3" >
+						<img src="images/r4.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Swati Tiwary">
+					</div>
+					<div class="col-md-9 cardmd9">
+						<div class="card-block cardblk">
+							<h6 class="card-title"><strong>Swati Tiwary  (2009-2015)</strong></h6>
+							<div><span class="profile-topic"><strong>Topic :
+							</strong> </span><span class="profile-topic-detail">Osmotic stress induced changes in chlorophyll metabolism and antioxidative system in maize leaves.
+
+							</span></div>
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Meeta Jain</span></div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="card recard">
+				<div class="row">
+					<div class="col-md-3" >
+						<img src="images/r8.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Deepti Dixit">
+					</div>
+					<div class="col-md-9 cardmd9">
+						<div class="card-block cardblk">
+							<h6 class="card-title"><strong>Deepti Dixit  (2009-2014)</strong></h6>
+
+							<div><span class="profile-topic"><strong>Topic :
+							</strong> </span><span class="profile-topic-detail">
+							Antioxidant and radioprotective effects of herbal and natural products against gamma irradiation induced oxidative stress.</span></div>
+							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Deepak Bhatnagar</span></div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+
+			
 
 			<div class="card recard">
 				<div class="row">
@@ -371,25 +380,6 @@
 				</div>
 			</div>
 
-
-			<div class="card recard">
-				<div class="row">
-					<div class="col-md-3" >
-						<img src="images/a1.jpg" class="card-image  image-responsive img-thumbnail reimage" alt="Seema Kelotra">
-					</div>
-					<div class="col-md-9 cardmd9">
-						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Venkat Narayan Are  (2014-2018)</strong></h6>
-
-							<div><span class="profile-topic"><strong>Topic :
-							</strong> </span><span class="profile-topic-detail">Structural and functional characterizati-on of Aminopeptidase P fold proteins.</span></div>
-							<div><span class="profile-topic"><strong>Superviser : </strong></span> <span class="profile-topic-detail">Dr. Rekha Gadre</span></div>
-							<div><span class="profile-topic"><strong>Co-Superviser : </strong></span> <span class="profile-topic-detail">Dr. Ravindra Makde</span></div>
-
-						</div>
-					</div>
-				</div>
-			</div>
 
 </div>
 </div>
