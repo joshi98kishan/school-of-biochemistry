@@ -43,8 +43,17 @@ html,body{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 800;
 }
+
+
+/*++++++++++++++++++++++*/
+.subhead-line h1{
+	font-size: 40px;
+}
+
+
+
 .subhead-line h1 i{
-	font-size: 70px ;
+	font-size: 70px;
 }
 .subhead-line h1::before{
 	content: "";
@@ -1517,16 +1526,6 @@ background-position:center -60px;
 @media screen and (max-width: 1199px) {
 
 	/*-------Apllied to all pages(Subhead)-------*/
-
-	/*---subhead-----*/
-	.subhead-line .display-4{
-		font-size: 51px;
-	} 
-
-	.subhead-line h1 i{
-		font-size: 57px;
-	}
-
 	/*=======Index Page========*/
 
 	/*-----Header-------*/
@@ -1705,11 +1704,11 @@ background-position:center -60px;
 
 	/*---subhead-----*/
 	.subhead-line .display-4{
-		font-size: 43px;
+		font-size: 39px;
 	}
 
 	.subhead-line h1 i{
-		font-size: 48px;
+		font-size: 38px;
 	}
 
 	.subhead-line h1::before{
@@ -1919,9 +1918,9 @@ background-position:center -60px;
 		font-size: 37px;
 	}
 
-	.subhead-line h1 i{
+	/*.subhead-line h1 i{
 		font-size: 43px;
-	}
+	}*/
 
 	.subhead-line h1::before{
 		display: none;
@@ -2055,9 +2054,9 @@ background-position:center -60px;
 	#student .subhead-line .display-4{
 		font-size: 32px;
 	}
-	#student .subhead-line h1 i{
+	/*#student .subhead-line h1 i{
 		font-size: 40px;
-	}
+	}*/
 	#student .subhead-line1 h2::before{
 		display: none;
 	}
