@@ -22,9 +22,11 @@
 
 
 		<!-- <div class="container"><h1 class="display-4">ALUMINI (M.Sc.)</h1></div> -->
-		<div class="col-md">
-			<div class="subhead-line">
-				<h1 class="display-4">Alumni-M.Sc.&nbsp;<i class="fas fa-user-graduate"></i></h1>
+		<div class="row" id="sub">
+			<div class="col-md">
+				<div class="subhead-line">
+					<h1 class="display-4">Alumni-M.Sc.&nbsp;<i class="fas fa-award "></i></h1>
+				</div>
 			</div>
 		</div>
 		<div class="container cont-marg" id="cont-margs">
