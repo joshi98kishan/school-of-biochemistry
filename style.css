@@ -308,12 +308,15 @@ html,body{
 .carousel-caption{
 	background-color: rgba(0, 0, 0,0.5);
 	width: max-content;
-	padding: 2%;
+	padding: 1.3%;
 	margin: auto;
 }
-.carousel-caption h3{
-	font-size: 2.5vw;
-}
+
+/*-------Carousel----------*/
+	.carousel-caption h1{
+		font-size: 2.1rem;
+	}
+
 .carousel-indicators li{
 	width: 1vw;
 	height: 3px;
@@ -734,8 +737,9 @@ html,body{
 	position: relative;
 	padding:0;
 	background-image: url("images/faculty_background.jpeg");
-	background-size: 100%;
-	background-repeat: repeat-x;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
 	background-color: #f5f5f5;
 }
 
@@ -746,12 +750,14 @@ html,body{
 	color: #fff;
 	vertical-align: bottom;
 	padding-bottom: 0;
-	padding-top: 197px;
-	margin-bottom: -21px;
+	padding-top: 80px;
+	margin-bottom: -16px;
 }
 
 .faculty-cover .display-4{
 	font-weight: bold;
+	font-size: 3.2rem;
+
 }
 
 .faculty-body{
@@ -763,7 +769,7 @@ html,body{
 .faculty-body .card{
 	transition: all 0.1s ease-in-out;
 	border: none;
-	padding: 50px 0px 70px 0px;  
+	padding: 10px 0px 60px 0px;  
 }
 
 .faculty-body a{
@@ -1031,84 +1037,84 @@ background-position:center -60px;
 /*-------------------ACTIVITIES(Start)----------------------------*/
 
 #Activities .cont-marg{
-  margin-top: 30px;
+	margin-top: 30px;
 }
 
 #Activities .container{
-  text-align: center;
+	text-align: center;
 }
 
 #Activities .text-item{
-  width: 66.6667%;
+	width: 66.6667%;
 }
 
 #Activities .container h1{
- margin-top: 6%;
- font-weight: bold;
+	margin-top: 6%;
+	font-weight: bold;
 }
 
 #Activities .container .no-jumbo h3{
-  font-size: 2rem;
-  font-weight: bold;
-  text-shadow: 1px 1px 2px;
-  display: inline-block;
+	font-size: 2rem;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px;
+	display: inline-block;
 }
 
 #Activities .horizontal-act{
-  border: 0.6px solid #b9aaaa69;
-  margin-bottom: 3%;
+	border: 0.6px solid #b9aaaa69;
+	margin-bottom: 3%;
 }
 
 
 #Activities .container .no-jumbo{
 
-  padding: 0rem 0rem;
-  background-color: white;
-  color: #222;
-  height: max-content;
-  position: relative;
-  border-radius: 16px;
-  transition: all .2s ease;
-  box-shadow: 0px 6px 35px 0px rgba(146, 128, 128, 0.72);
-  margin-left: 10px;
-  margin-bottom: 2%;
-  text-align: center;
+	padding: 0rem 0rem;
+	background-color: white;
+	color: #222;
+	height: max-content;
+	position: relative;
+	border-radius: 16px;
+	transition: all .2s ease;
+	box-shadow: 0px 6px 35px 0px rgba(146, 128, 128, 0.72);
+	margin-left: 10px;
+	margin-bottom: 2%;
+	text-align: center;
 
 }
 
 #Activities .container .no-jumbo:hover{
 
-  box-shadow: 10px 17.3px 50px 0 rgba(146, 128, 128, 0.72); 
+	box-shadow: 10px 17.3px 50px 0 rgba(146, 128, 128, 0.72); 
 }
 
 #Activities .container .no-jumbo .image-item{
-  background-color: #f8f8ff;
-  background-position: center center;
-  border-bottom-left-radius: 16px;
-  border-top-left-radius: 16px;
-  border-right: 2px solid #bababd;
-  width: 32%;
-  text-align: center;
+	background-color: #f8f8ff;
+	background-position: center center;
+	border-bottom-left-radius: 16px;
+	border-top-left-radius: 16px;
+	border-right: 2px solid #bababd;
+	width: 32%;
+	text-align: center;
 }
 
 #Activities .container .no-jumbo .actpelement{
 
-  font-size: 1rem;
-  font-weight: bold;
-  padding-left: 5px;
-  padding-right: 2px;
-  padding-top: 21px;
-  padding-bottom: 21px;
+	font-size: 1rem;
+	font-weight: bold;
+	padding-left: 5px;
+	padding-right: 2px;
+	padding-top: 21px;
+	padding-bottom: 21px;
 }
 
 
 #Activities .image-item a{
-  color: inherit;
-  text-decoration: none;
+	color: inherit;
+	text-decoration: none;
 }
 
 #Activities .actpelement a{
-  display: block;
+	display: block;
 }
 
 
@@ -1117,65 +1123,65 @@ background-position:center -60px;
 /*-------------------ALUMINI Msc(Start)----------------------------*/
 
 #AluminiMSc .cont-marg{
-  margin-top: 30px;
+	margin-top: 30px;
 }
 
 #AluminiMSc .container{
-  text-align: center;
+	text-align: center;
 }
 
 
 #AluminiMSc .container h1{
- margin-top: 6%;
- font-weight: bold;
+	margin-top: 6%;
+	font-weight: bold;
 }
 
 
 #AluminiMSc .horizontal-act{
-  border: 0.6px solid #b9aaaa69;
-  margin-bottom: 3%;
+	border: 0.6px solid #b9aaaa69;
+	margin-bottom: 3%;
 }
 
 
 #AluminiMSc .container .no-jumbo{
 
-  padding: 0rem 0rem;
-  background-color: white;
-  color: #222;
-  height: max-content;
-  position: relative;
-  border-radius: 16px;
-  transition: all .2s ease;
-  margin-left: 10px;
-  margin-bottom: 2%;
-  text-align: center;
+	padding: 0rem 0rem;
+	background-color: white;
+	color: #222;
+	height: max-content;
+	position: relative;
+	border-radius: 16px;
+	transition: all .2s ease;
+	margin-left: 10px;
+	margin-bottom: 2%;
+	text-align: center;
 
 }
 
 #AluminiMSc .container .no-jumbo:hover{
 
-  box-shadow: 10px 17.3px 50px 0 rgba(146, 128, 128, 0.72); 
+	box-shadow: 10px 17.3px 50px 0 rgba(146, 128, 128, 0.72); 
 }
 
 
 #AluminiMSc .container .no-jumbo .actpelement{
 
-  font-size: 1rem;
-  font-weight: bold;
-  padding-left: 19px;
-  padding-right: 2px;
-  padding-top: 21px;
-  padding-bottom: 21px;
+	font-size: 1rem;
+	font-weight: bold;
+	padding-left: 19px;
+	padding-right: 2px;
+	padding-top: 21px;
+	padding-bottom: 21px;
 }
 
 
 #AluminiMSc .image-item a{
-  color: inherit;
-  text-decoration: none;
+	color: inherit;
+	text-decoration: none;
 }
 
 #AluminiMSc .actpelement a{
-  display: block;
+	display: block;
 }
 
 /*-------------------ALUMINI Msc(Start)----------------------------*/
@@ -1556,6 +1562,10 @@ background-position:center -60px;
 		text-align: center; 
 	}
 
+	/*-------Carousel----------*/
+	.carousel-caption h1{
+		font-size: 2rem;
+	}
 
 	/*----Corses Offered-----*/
 	.coursecover {
@@ -1596,6 +1606,16 @@ background-position:center -60px;
 		font-size: 30px;
 	}
 
+	/*===========FACULTY INDIVIDUAL=========*/
+
+	.fac-profile-title h1{
+		font-size: 2rem;
+	}
+
+	.fac-subhead h2{
+		font-size: 1.8rem;
+	}
+
 }
 @media screen and (max-width: 991px) {
 
@@ -1629,6 +1649,11 @@ background-position:center -60px;
 		text-align: center; 
 	}
 
+
+	/*-------Carousel----------*/
+	.carousel-caption h1{
+		font-size: 1.6rem;
+	}
 
 	/*-----Footer-----*/
 	#cf .col-md-3{
@@ -1696,6 +1721,17 @@ background-position:center -60px;
 		width: 10%;
 	}
 
+	/*===========FACULTY====================*/
+
+	.faculty-cover .display-4{
+		font-size: 3.1rem;
+	}
+
+	/*===========FACULTY INDIVIDUAL=========*/
+
+	.fac-subhead h2{
+		font-size: 1.6rem;
+	}
 
 }
 
@@ -1746,8 +1782,7 @@ background-position:center -60px;
 		max-width: max-content;
 	}
 	/*-----Navigation------*/
-	.dropdown-menu
-	{
+	.dropdown-menu{
 		box-shadow: none;
 	}
 	#inner ul > li > a:before {
@@ -1759,29 +1794,30 @@ background-position:center -60px;
 		padding-bottom: 10px;
 		margin-left: 0px;
 	}
-	#inner .nav-link:hover
-	{
+	#inner .nav-link:hover{
 		background-color: #f8f8ff;
 
 	}
-	.dropdown-item
-	{
+	.dropdown-item{
 		font-size: small;
 		font-weight: bold;
 	}
-	#navbarResponsive
-	{
+	#navbarResponsive{
 		margin-top: 2em;
 	}
-	.navbar-toggler
-	{
+	.navbar-toggler{
 		border: 0px;
 		border-color: white;
 		/*outline: none;*/
 	}
-	button:focus
-	{
+	button:focus{
 		outline: 0px dotted;
+	}
+
+
+	/*-------Carousel----------*/
+	.carousel-caption h1{
+		font-size: 1.3rem;
 	}
 
 	/*----------Side Nav-----------*/
@@ -1820,14 +1856,14 @@ background-position:center -60px;
 	
 	/*---Alumini (Msc)----*/
 	#AluminiMSc .container .no-jumbo .actpelement{
-         font-size: 12px;
-         padding-bottom: 14px;
-         padding-top: 14px;
-        }
+		font-size: 12px;
+		padding-bottom: 14px;
+		padding-top: 14px;
+	}
 
-        #AluminiMSc .container .no-jumbo h3{
-           font-size: 20px;
-        }
+	#AluminiMSc .container .no-jumbo h3{
+		font-size: 20px;
+	}
 
 	/*===========Student=============*/
 	/*------subhead-line------*/
@@ -1902,8 +1938,23 @@ background-position:center -60px;
 
 	.researchers-subhead .subhead-line h1::after{
 		width: 5%;
+
 	}
 
+	/*===========FACULTY====================*/
+
+	.fac{
+		font-size: 15px;
+	}
+
+	.faculty-cover .display-4{
+		font-size: 2.8rem;
+	}
+
+	.fac-image-profile
+	{
+		margin: -50px 0px 0px 50%;
+	}
 }
 
 @media screen and (max-width: 575px) {
@@ -1924,7 +1975,7 @@ background-position:center -60px;
 	}
 	/*.subhead-line h1 i{
 		font-size: 43px;
-	}*/
+		}*/
 
 	.subhead-line h1::before{
 		display: none;
@@ -1969,7 +2020,13 @@ background-position:center -60px;
 		font-size: 20px;
 	}
 
-	/*----Corses Offered-----*/
+
+	/*-------Carousel----------*/
+	.carousel-caption h1{
+		font-size: 0.7rem;
+	}
+
+	/*----Courses Offered-----*/
 	.coursecover {
 		padding: 35px 20px 75px 38px;
 	}
@@ -1995,9 +2052,9 @@ background-position:center -60px;
 	.subhead-of-faculty h1{
 		font-size: 45px;
 	}
-	
+
 	/*------Activities-------*/
-    
+
 	#Activities .cont-marg{
 		margin-top: 0px;
 	}
@@ -2006,7 +2063,7 @@ background-position:center -60px;
 		font-size: 35px;
 	}
 
-	
+
 	#Activities .container .no-jumbo h3{
 		font-size: 13px;
 		margin: 0;
@@ -2017,140 +2074,156 @@ background-position:center -60px;
 		padding-left: 6px;
 		padding-bottom: 12px;
 		padding-top: 12px;
-
-
 	}
 
 	#Activities .container .no-jumbo{
 		height: max-content;
 	}
-	
+
 	/*------Alumini (Msc)-------*/
 	#AluminiMSc .cont-marg{
-        margin-top: 0px;
-        }
+		margin-top: 0px;
+	}
 
 	#AluminiMSc .container .display-4{
-	   font-size: 35px;
-	 }
+		font-size: 35px;
+	}
 
 
-	 #AluminiMSc .container .no-jumbo h3{
-	   font-size: 13px;
-	   margin: 0;
-	 }
+	#AluminiMSc .container .no-jumbo h3{
+		font-size: 13px;
+		margin: 0;
+	}
 
-	 #AluminiMSc .container .no-jumbo .actpelement{
-	   font-size: 9px;
-	   padding-left: 14px;
-	   padding-bottom: 12px;
-	   padding-top: 12px;
-	 }
+	#AluminiMSc .container .no-jumbo .actpelement{
+		font-size: 9px;
+		padding-left: 14px;
+		padding-bottom: 12px;
+		padding-top: 12px;
+	}
 
-	 #AluminiMSc .container .no-jumbo{
-	   height: max-content;
-	 } 
-	
-	
-	
+	#AluminiMSc .container .no-jumbo{
+		height: max-content;
+	} 
+
+
+
 	/*===========Student=============*/
 	/*------subhead-line------*/
 	#student .subhead-line .display-4{
-		font-size: 30px;
+		font-size: 32px;
 	}
 	/*#student .subhead-line h1 i{
 		font-size: 40px;
-	}*/
-	#student .subhead-line1 h2::before{
-		display: none;
-	}
-	#student .subhead-line1 h2::after{
-		display: none;
-	}
+		}*/
+		#student .subhead-line1 h2::before{
+			display: none;
+		}
+		#student .subhead-line1 h2::after{
+			display: none;
+		}
 
 
-	/*==============About Us===============*/		
-	.aboutus-cover h1{
-		font-size: 45px;
-	}
+		/*==============About Us===============*/		
+		.aboutus-cover h1{
+			font-size: 45px;
+		}
 
-	.aboutus-cover h2{
-		font-size: 22px;
-	}
+		.aboutus-cover h2{
+			font-size: 22px;
+		}
 
-	.aboutus-subhead h2::before{	
-		display: none;
-	}
-	.aboutus-subhead h2::after{	
-		display: none;
-	}
+		.aboutus-subhead h2::before{	
+			display: none;
+		}
+		.aboutus-subhead h2::after{	
+			display: none;
+		}
 
-	#hod .aboutus-subhead h2::before{
-		display: none;
-	}
+		#hod .aboutus-subhead h2::before{
+			display: none;
+		}
 
-	#hod .aboutus-subhead h2::after{
-		display: none;
-	}
-	.aboutus-cover .cont{
-		font-size: 18px;
-		padding: 0px 30px 0px 30px;
-	}
-	.aboutus-cover i{
-		font-size: 20px;
-	}
-	.aboutus-cover #hod h2{
-		font-size: 18px;
-	}	
-	.aboutus-cover #hod h3{
-		font-size: 19px;
-	}
+		#hod .aboutus-subhead h2::after{
+			display: none;
+		}
+		.aboutus-cover .cont{
+			font-size: 18px;
+			padding: 0px 30px 0px 30px;
+		}
+		.aboutus-cover i{
+			font-size: 20px;
+		}
+		.aboutus-cover #hod h2{
+			font-size: 18px;
+		}	
+		.aboutus-cover #hod h3{
+			font-size: 19px;
+		}
 
-	.aboutus-cover #hod img{
-		width: 90px;
-	}
-	.aboutus-cover #hod .hod-cont {
-		padding-top: 10px;
-		font-size: 15px;
-	}
+		.aboutus-cover #hod img{
+			width: 90px;
+		}
+		.aboutus-cover #hod .hod-cont {
+			padding-top: 10px;
+			font-size: 15px;
+		}
 
-	.aboutus-cover #hod .media-body {
-		padding-left: 30px;
-	}		
+		.aboutus-cover #hod .media-body {
+			padding-left: 30px;
+		}		
 
-	/*========ADMISSION=======*/
-	#admission-cover{
-		padding-bottom: 35px;
-		padding-top: 35px;
-	}
-	#admission-cover .btn-outline-success{
-		margin-top: 15px;
-	} 
+		/*========ADMISSION=======*/
+		#admission-cover{
+			padding-bottom: 35px;
+			padding-top: 35px;
+		}
+		#admission-cover .btn-outline-success{
+			margin-top: 15px;
+		} 
 
-	#admission-cover h5{
-		text-align: center;
-		margin-left: 20px;
-	}
-	#admission p{
-		font-size: 18px;
-		text-align: center;
-	}
+		#admission-cover h5{
+			text-align: center;
+			margin-left: 20px;
+		}
+		#admission p{
+			font-size: 18px;
+			text-align: center;
+		}
 
-	#admission-cover .coursename {
-		padding: 36px 0px 46px 0px;
-	}
+		#admission-cover .coursename {
+			padding: 36px 0px 46px 0px;
+		}
 
-	#admission .padding1 {
-		padding-bottom: 40px;
-	}
+		#admission .padding1 {
+			padding-bottom: 40px;
+		}
 
-	/*=======Faculty======*/
-	.faculty-cover .faculty-body{
-		padding: 5rem 2rem 2rem 4rem;
-	}
+		/*===========FACULTY====================*/
+		.faculty-cover .faculty-body{
+			padding: 5rem 2rem 2rem 4rem;
+		}
 
-	.faculty-cover .card-block {
-		padding-left: 1em;
-		padding-right: 2px;
+		.faculty-cover .card-block {
+			padding-left: 1em;
+			padding-right: 2px;
+		}
+
+		.faculty-cover .display-4{
+			font-size: 2.3rem;
+		}
+
+		/*===========FACULTY INDIVIDUAL=========*/
+
+		.fac{
+			font-size: 14px;
+		}
+
+		.fac-profile-title h1{
+			font-size: 1.8rem;
+		}
+
+		.fac-subhead h2{
+			font-size: 1.4rem;
+		}
 	}
-}
