@@ -47,14 +47,13 @@ html,body{
 
 /*++++++++++++++++++++++*/
 .subhead-line h1{
-	font-size: 40px;
+	font-size: 32px;
 }
-
-
 
 .subhead-line h1 i{
-	font-size: 70px;
+	font-size: 35px;
 }
+
 .subhead-line h1::before{
 	content: "";
 	background: #040;
@@ -1211,7 +1210,9 @@ background-position:center -60px;
 	font-size: 2rem;
 	margin-bottom: 40px;
 }
-
+#student .subhead-line1 h2{
+	font-size: 28px;
+}
 #student .subhead-line1 h2::before{
 	content: "";
 	background: #040;
@@ -1579,7 +1580,7 @@ background-position:center -60px;
 	/*===========Student=============*/
 	/*------subhead-line------*/
 	#student .subhead-line .display-4{
-		font-size: 39px;
+		font-size: 32px;
 	}
 	#student .subhead-line h1 i{
 		font-size: 53px;
@@ -1683,7 +1684,7 @@ background-position:center -60px;
 	/*===========Student=============*/
 	/*------subhead-line------*/
 	#student .subhead-line .display-4{
-		font-size: 37px;
+		font-size: 31px;
 	}
 	#student .subhead-line h1 i{
 		font-size: 46px;
@@ -1740,11 +1741,11 @@ background-position:center -60px;
 
 	/*---subhead-----*/
 	.subhead-line .display-4{
-		font-size: 39px;
+		font-size: 31px;
 	}
 
 	.subhead-line h1 i{
-		font-size: 38px;
+		font-size: 34px;
 	}
 
 	.subhead-line h1::before{
@@ -1966,9 +1967,12 @@ background-position:center -60px;
 
 	/*---subhead-----*/
 	.subhead-line .display-4{
-		font-size: 37px;
+		font-size: 30px;
 	}
 
+	.subhead-line h1 i {
+    	font-size: 32px;
+	}
 	/*.subhead-line h1 i{
 		font-size: 43px;
 		}*/
