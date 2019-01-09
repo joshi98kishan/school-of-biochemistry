@@ -14,25 +14,25 @@
 		<div class="carousel-item  active">
 			<img src="images/carousel1.jpeg">
 			<div class="carousel-caption">
-				<h3>Welcome to Devi Ahilya Vishwavidhyalaya</h3>
+				<h1>Welcome to Devi Ahilya Vishwavidhyalaya</h1>
 			</div>
 		</div>
 		<div class="carousel-item">
 			<img src="images/s3.jpeg">
 			<div class="carousel-caption">
-				<h3>Garden</h3>
+				<h1>Garden</h1>
 			</div>
 		</div>
 		<div class="carousel-item">
 			<img src="images/carousel3.jpeg">
 			<div class="carousel-caption">
-				<h3>School of Biochemistry</h3>
+				<h1>School of Biochemistry</h1>
 			</div>
 		</div>
 		<div class="carousel-item">
 			<img src="images/carousel2.jpeg">
 			<div class="carousel-caption">
-				<h3>Laboratory</h3>
+				<h1>Laboratory</h1>
 			</div>
 		</div>
 
