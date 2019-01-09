@@ -313,9 +313,9 @@ html,body{
 }
 
 /*-------Carousel----------*/
-	.carousel-caption h1{
-		font-size: 2.1rem;
-	}
+.carousel-caption h1{
+	font-size: 2.1rem;
+}
 
 .carousel-indicators li{
 	width: 1vw;
@@ -1453,6 +1453,9 @@ background-position:center -60px;
 	position: absolute;
 	top: 50%;
 	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 	width: 100%;
 	height: auto;
@@ -1489,19 +1492,44 @@ background-position:center -60px;
 	width: 100%;
 	height: 100%;
 	text-align: center;
+	
 	transition: transform 0.7s;
+	-webkit-transition: transform 0.7s;
+	-moz-transition: transform 0.7s;
+	-o-transition: transform 0.7s;
+	-ms-transition: transform 0.7s;
+
 	transform-style: preserve-3d;
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
 }
 
 .flip-card:hover .flip-card-inner {
 	transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(180deg);
+	-o-transform: rotateY(180deg);
+	-ms-transform: rotateY(180deg);
 }
 
 .flip-card-front, .flip-card-back {
 	position: absolute;
 	width: 100%;
 	height: 100%;
+
 	backface-visibility: hidden;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-o-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+
+	transform: rotateX(0deg); /*This fixed the isue of mirror image of front side after flipping*/
+	-webkit-transform: rotateX(0deg);
+	-moz-transform: rotateX(0deg);
+	-o-transform: rotateX(0deg);
+	-ms-transform: rotateX(0deg);
 }
 
 .flip-card-front {
@@ -1518,6 +1546,10 @@ background-position:center -60px;
 	background-color: inherit;
 	color: black;
 	transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(180deg);
+	-o-transform: rotateY(180deg);
+	-ms-transform: rotateY(180deg);
 	z-index: 1;
 }
 .flip-card-back img{
@@ -1971,148 +2003,148 @@ background-position:center -60px;
 	}
 
 	.subhead-line h1 i {
-    	font-size: 32px;
+		font-size: 32px;
 	}
 	/*.subhead-line h1 i{
 		font-size: 43px;
 		}*/
 
-	.subhead-line h1::before{
-		display: none;
-	}
+		.subhead-line h1::before{
+			display: none;
+		}
 
-	.subhead-line h1::after{
-		display: none;
-	}
+		.subhead-line h1::after{
+			display: none;
+		}
 
-	/*=======Index Page========*/
+		/*=======Index Page========*/
 
-	/*-----Header-------*/
-	.mainhead .jumbotron .institute h1{
-		font-size: 5vw;
-		float: left;
-		margin-left: -56px;
-		margin-top: 20px;
-	}
-	.mainhead .row{
-		flex-wrap: nowrap;
-	}
-	.mainhead .jumbotron .logo{
-		margin-left: -14px;
-	}
-	.mainhead .jumbotron .estd{
-		font-size: 7px;
+		/*-----Header-------*/
+		.mainhead .jumbotron .institute h1{
+			font-size: 5vw;
+			float: left;
+			margin-left: -56px;
+			margin-top: 20px;
+		}
+		.mainhead .row{
+			flex-wrap: nowrap;
+		}
+		.mainhead .jumbotron .logo{
+			margin-left: -14px;
+		}
+		.mainhead .jumbotron .estd{
+			font-size: 7px;
 
-	}
-	.mainhead .jumbotron .davv{
-		font-size: 2.9vw;
-	}
+		}
+		.mainhead .jumbotron .davv{
+			font-size: 2.9vw;
+		}
 
-	/*-----About Us-----*/
-	.aboutus .card {
-		padding: 30px 0px 0px 0px;
-	}
+		/*-----About Us-----*/
+		.aboutus .card {
+			padding: 30px 0px 0px 0px;
+		}
 
-	.aboutus .card i{
-		font-size: 80px;
-	}
-	.aboutus .card h4{
-		font-size: 20px;
-	}
-
-
-	/*-------Carousel----------*/
-	.carousel-caption h1{
-		font-size: 0.7rem;
-	}
-
-	/*----Courses Offered-----*/
-	.coursecover {
-		padding: 35px 20px 75px 38px;
-	}
-
-	/*----------Side Nav-----------*/
-	.side-nav a {
-		font-size: 14px;
-	}
-	.side-nav-title{
-		font-size: 7px;
-	}
-
-	/*-------Faculty---------*/
-	#myfaculty .card {
-		margin: 10px auto;
-		width: 253px;
-	}
-
-	.subhead-of-faculty {
-		padding: 30px 0px 47px 0px;
-	}
-
-	.subhead-of-faculty h1{
-		font-size: 45px;
-	}
-
-	/*------Activities-------*/
-
-	#Activities .cont-marg{
-		margin-top: 0px;
-	}
-
-	#Activities .container .display-4{
-		font-size: 35px;
-	}
+		.aboutus .card i{
+			font-size: 80px;
+		}
+		.aboutus .card h4{
+			font-size: 20px;
+		}
 
 
-	#Activities .container .no-jumbo h3{
-		font-size: 13px;
-		margin: 0;
-	}
+		/*-------Carousel----------*/
+		.carousel-caption h1{
+			font-size: 0.7rem;
+		}
 
-	#Activities .container .no-jumbo .actpelement{
-		font-size: 9px;
-		padding-left: 6px;
-		padding-bottom: 12px;
-		padding-top: 12px;
-	}
+		/*----Courses Offered-----*/
+		.coursecover {
+			padding: 35px 20px 75px 38px;
+		}
 
-	#Activities .container .no-jumbo{
-		height: max-content;
-	}
+		/*----------Side Nav-----------*/
+		.side-nav a {
+			font-size: 14px;
+		}
+		.side-nav-title{
+			font-size: 7px;
+		}
 
-	/*------Alumini (Msc)-------*/
-	#AluminiMSc .cont-marg{
-		margin-top: 0px;
-	}
+		/*-------Faculty---------*/
+		#myfaculty .card {
+			margin: 10px auto;
+			width: 253px;
+		}
 
-	#AluminiMSc .container .display-4{
-		font-size: 35px;
-	}
+		.subhead-of-faculty {
+			padding: 30px 0px 47px 0px;
+		}
 
+		.subhead-of-faculty h1{
+			font-size: 45px;
+		}
 
-	#AluminiMSc .container .no-jumbo h3{
-		font-size: 13px;
-		margin: 0;
-	}
+		/*------Activities-------*/
 
-	#AluminiMSc .container .no-jumbo .actpelement{
-		font-size: 9px;
-		padding-left: 14px;
-		padding-bottom: 12px;
-		padding-top: 12px;
-	}
+		#Activities .cont-marg{
+			margin-top: 0px;
+		}
 
-	#AluminiMSc .container .no-jumbo{
-		height: max-content;
-	} 
+		#Activities .container .display-4{
+			font-size: 35px;
+		}
 
 
+		#Activities .container .no-jumbo h3{
+			font-size: 13px;
+			margin: 0;
+		}
 
-	/*===========Student=============*/
-	/*------subhead-line------*/
-	#student .subhead-line .display-4{
-		font-size: 32px;
-	}
+		#Activities .container .no-jumbo .actpelement{
+			font-size: 9px;
+			padding-left: 6px;
+			padding-bottom: 12px;
+			padding-top: 12px;
+		}
+
+		#Activities .container .no-jumbo{
+			height: max-content;
+		}
+
+		/*------Alumini (Msc)-------*/
+		#AluminiMSc .cont-marg{
+			margin-top: 0px;
+		}
+
+		#AluminiMSc .container .display-4{
+			font-size: 35px;
+		}
+
+
+		#AluminiMSc .container .no-jumbo h3{
+			font-size: 13px;
+			margin: 0;
+		}
+
+		#AluminiMSc .container .no-jumbo .actpelement{
+			font-size: 9px;
+			padding-left: 14px;
+			padding-bottom: 12px;
+			padding-top: 12px;
+		}
+
+		#AluminiMSc .container .no-jumbo{
+			height: max-content;
+		} 
+
+
+
+		/*===========Student=============*/
+		/*------subhead-line------*/
+		#student .subhead-line .display-4{
+			font-size: 32px;
+		}
 	/*#student .subhead-line h1 i{
 		font-size: 40px;
 		}*/
