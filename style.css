@@ -767,7 +767,7 @@ html,body{
 .faculty-body .card{
 	transition: all 0.1s ease-in-out;
 	border: none;
-	padding: 50px 0px 70px 0px;  
+	padding: 10px 0px 60px 0px;  
 }
 
 .faculty-body a{
