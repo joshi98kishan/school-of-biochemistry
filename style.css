@@ -974,7 +974,7 @@ html,body{
 	text-align: center;
 }
 .aboutus-cover{
-	background: url("images/about_us_background.jpeg") no-repeat;
+	background: url("images/aboutus_background.jpeg") no-repeat;
 	background-size: cover;
 	background-position:center -60px;
 }
