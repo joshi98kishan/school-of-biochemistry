@@ -25,7 +25,11 @@
 						<div class="dropdown-menu ">
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Academic Calender</div></a>
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Course Material &amp; Syllabus</div></a>
+							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">On-Going Batches</div></a>
+							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Generic Course</div></a>
+							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Course Outcome</div></a>
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Time Table</div></a>
+							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Feedback</div></a>
 						</div>
 					</li>
 					<li class="nav-item"><a class="nav-link r p" href="researches.php"><strong>RESEARCHERS</strong></a></li>
