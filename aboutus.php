@@ -80,6 +80,54 @@
 		
 	</div>
 
+		<div class="wrap">
+	<!-- Define all of the tiles: -->
+
+		<div class="aboutus-subhead subhead">
+						<h2>INSTRUMENTS&nbsp;<i class="fas fa-user-tie"></i></h2>
+		</div>
+	<div class="box">
+		<div class="boxInner">
+			<img src="http://www.dwuser.com/education/content/creating-responsive-tiled-layout-with-pure-css/images/demo/7.jpg"/>
+			<div class="titleBox">
+				Butterfly
+			</div>
+		</div>
+	</div>
+	<div class="box">
+		<div class="boxInner">
+			<img src="http://www.dwuser.com/education/content/creating-responsive-tiled-layout-with-pure-css/images/demo/1.jpg"/>
+			<div class="titleBox">
+				An old greenhouse
+			</div>
+		</div>
+	</div>
+	<div class="box">
+		<div class="boxInner">
+			<img src="http://www.dwuser.com/education/content/creating-responsive-tiled-layout-with-pure-css/images/demo/2.jpg"/>
+			<div class="titleBox">
+				Purple wildflowers
+			</div>
+		</div>
+	</div>
+	<div class="box">
+		<div class="boxInner">
+			<img src="http://www.dwuser.com/education/content/creating-responsive-tiled-layout-with-pure-css/images/demo/3.jpg"/>
+			<div class="titleBox">
+				A birdfeeder
+			</div>
+		</div>
+	</div>
+	<div class="box">
+		<div class="boxInner">
+			<img src="http://www.dwuser.com/education/content/creating-responsive-tiled-layout-with-pure-css/images/demo/10.jpg"/>
+			<div class="titleBox">
+				Crocus close-up
+			</div>
+		</div>
+	</div>
+</div>
+
 	
 	<!--------------------------ABOUT US(End)--------------------------->
 
