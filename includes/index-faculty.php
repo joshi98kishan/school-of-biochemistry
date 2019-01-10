@@ -7,7 +7,7 @@
 
 		<div class="row">
 			<div class="col-md subhead-of-faculty">
-				<h1 class="display-4"><strong>Faculty</strong></h1>
+				<h1><strong>Faculty</strong></h1>
 			</div>
 		</div>
 

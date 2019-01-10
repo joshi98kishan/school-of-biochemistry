@@ -8,7 +8,7 @@
 
 		<div class="row">
 			<div class="col-md subhead">
-				<h1 class="display-4"><strong>Courses Offered</strong></h1>
+				<h1><strong>Courses Offered</strong></h1>
 			</div>
 		</div>
 
