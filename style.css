@@ -1194,25 +1194,31 @@ background-position:center -60px;
 .student div.jumbotron{
 	background-color: white;
 	text-align: center;
-	display: flex;
+    display: flex;
 	align-items: center;
 	justify-content: center;
 	padding-top: 1%;
+	margin-bottom: 0%;
 }
 
 
 .student .btn-responsive {
-	white-space: normal !important;
-	word-wrap: break-word;
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+
+#student .subhead{
+	text-align: center;
+	padding: 30px 0px 20px 0px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 800;
 }
 
 .student h2{
-	font-size: 2rem;
+	font-size: 1.7rem;
 	margin-bottom: 40px;
 }
-#student .subhead-line1 h2{
-	font-size: 28px;
-}
+
 #student .subhead-line1 h2::before{
 	content: "";
 	background: #040;
@@ -1232,15 +1238,17 @@ background-position:center -60px;
 	border-radius: 0px 10px 10px 0px;
 }
 
-
+.student .display-4{
+	font-size: 3rem;
+} 
 
 .student .link{
-	font-size: 1.4rem;
+	font-size: 0.9rem;
 }
 
 .student .container{
-	background-color: white;
-	padding-top: 30px;
+   background-color: white;
+   padding-top: 30px;
 }
 
 .student .card{
@@ -1261,9 +1269,17 @@ background-position:center -60px;
 	border-right: 2px solid  #bba8a8;
 }
 
-.student h2{
-	margin-top: 2%;
+.student h4{
+	font-size: 1.2rem;
 }
+
+.student .card-body{
+	font-size: 0.9rem;
+}
+
+/*.student h2{
+	margin-top: 2%;
+}*/
 
 /*-----------------------STUDENT(End)------------------------------*/
 
@@ -2007,255 +2023,248 @@ background-position:center -60px;
 	}
 	/*.subhead-line h1 i{
 		font-size: 43px;
-		}*/
+	}*/
 
-		.subhead-line h1::before{
-			display: none;
-		}
-
-		.subhead-line h1::after{
-			display: none;
-		}
-
-		/*=======Index Page========*/
-
-		/*-----Header-------*/
-		.mainhead .jumbotron .institute h1{
-			font-size: 5vw;
-			float: left;
-			margin-left: -56px;
-			margin-top: 20px;
-		}
-		.mainhead .row{
-			flex-wrap: nowrap;
-		}
-		.mainhead .jumbotron .logo{
-			margin-left: -14px;
-		}
-		.mainhead .jumbotron .estd{
-			font-size: 7px;
-
-		}
-		.mainhead .jumbotron .davv{
-			font-size: 2.9vw;
-		}
-
-		/*-----About Us-----*/
-		.aboutus .card {
-			padding: 30px 0px 0px 0px;
-		}
-
-		.aboutus .card i{
-			font-size: 80px;
-		}
-		.aboutus .card h4{
-			font-size: 20px;
-		}
-
-
-		/*-------Carousel----------*/
-		.carousel-caption h1{
-			font-size: 0.7rem;
-		}
-
-		/*----Courses Offered-----*/
-		.coursecover {
-			padding: 35px 20px 75px 38px;
-		}
-
-		/*----------Side Nav-----------*/
-		.side-nav a {
-			font-size: 14px;
-		}
-		.side-nav-title{
-			font-size: 7px;
-		}
-
-		/*-------Faculty---------*/
-		#myfaculty .card {
-			margin: 10px auto;
-			width: 253px;
-		}
-
-		.subhead-of-faculty {
-			padding: 30px 0px 47px 0px;
-		}
-
-		.subhead-of-faculty h1{
-			font-size: 45px;
-		}
-
-		/*------Activities-------*/
-
-		#Activities .cont-marg{
-			margin-top: 0px;
-		}
-
-		#Activities .container .display-4{
-			font-size: 35px;
-		}
-
-
-		#Activities .container .no-jumbo h3{
-			font-size: 13px;
-			margin: 0;
-		}
-
-		#Activities .container .no-jumbo .actpelement{
-			font-size: 9px;
-			padding-left: 6px;
-			padding-bottom: 12px;
-			padding-top: 12px;
-		}
-
-		#Activities .container .no-jumbo{
-			height: max-content;
-		}
-
-		/*------Alumini (Msc)-------*/
-		#AluminiMSc .cont-marg{
-			margin-top: 0px;
-		}
-
-		#AluminiMSc .container .display-4{
-			font-size: 35px;
-		}
-
-
-		#AluminiMSc .container .no-jumbo h3{
-			font-size: 13px;
-			margin: 0;
-		}
-
-		#AluminiMSc .container .no-jumbo .actpelement{
-			font-size: 9px;
-			padding-left: 14px;
-			padding-bottom: 12px;
-			padding-top: 12px;
-		}
-
-		#AluminiMSc .container .no-jumbo{
-			height: max-content;
-		} 
-
-
-
-		/*===========Student=============*/
-		/*------subhead-line------*/
-		#student .subhead-line .display-4{
-			font-size: 32px;
-		}
-	/*#student .subhead-line h1 i{
-		font-size: 40px;
-		}*/
-		#student .subhead-line1 h2::before{
-			display: none;
-		}
-		#student .subhead-line1 h2::after{
-			display: none;
-		}
-
-
-		/*==============About Us===============*/		
-		.aboutus-cover h1{
-			font-size: 45px;
-		}
-
-		.aboutus-cover h2{
-			font-size: 22px;
-		}
-
-		.aboutus-subhead h2::before{	
-			display: none;
-		}
-		.aboutus-subhead h2::after{	
-			display: none;
-		}
-
-		#hod .aboutus-subhead h2::before{
-			display: none;
-		}
-
-		#hod .aboutus-subhead h2::after{
-			display: none;
-		}
-		.aboutus-cover .cont{
-			font-size: 18px;
-			padding: 0px 30px 0px 30px;
-		}
-		.aboutus-cover i{
-			font-size: 20px;
-		}
-		.aboutus-cover #hod h2{
-			font-size: 18px;
-		}	
-		.aboutus-cover #hod h3{
-			font-size: 19px;
-		}
-
-		.aboutus-cover #hod img{
-			width: 90px;
-		}
-		.aboutus-cover #hod .hod-cont {
-			padding-top: 10px;
-			font-size: 15px;
-		}
-
-		.aboutus-cover #hod .media-body {
-			padding-left: 30px;
-		}		
-
-		/*========ADMISSION=======*/
-		#admission-cover{
-			padding-bottom: 35px;
-			padding-top: 35px;
-		}
-		#admission-cover .btn-outline-success{
-			margin-top: 15px;
-		} 
-
-		#admission-cover h5{
-			text-align: center;
-			margin-left: 20px;
-		}
-		#admission p{
-			font-size: 18px;
-			text-align: center;
-		}
-
-		#admission-cover .coursename {
-			padding: 36px 0px 46px 0px;
-		}
-
-		#admission .padding1 {
-			padding-bottom: 40px;
-		}
-
-		/*===========FACULTY====================*/
-		.faculty-cover .faculty-body{
-			padding: 5rem 2rem 2rem 4rem;
-		}
-
-		.faculty-cover .card-block {
-			padding-left: 1em;
-			padding-right: 2px;
-		}
-
-		.faculty-cover .display-4{
-			font-size: 2.3rem;
-		}
-
-		/*===========FACULTY INDIVIDUAL=========*/
-
-		.fac{
-			font-size: 14px;
-		}
-
-		.fac-profile-title h1{
-			font-size: 1.8rem;
-		}
-
-		.fac-subhead h2{
-			font-size: 1.4rem;
-		}
+	.subhead-line h1::before{
+		display: none;
 	}
+
+	.subhead-line h1::after{
+		display: none;
+	}
+
+	/*=======Index Page========*/
+
+	/*-----Header-------*/
+	.mainhead .jumbotron .institute h1{
+		font-size: 5vw;
+		float: left;
+		margin-left: -56px;
+		margin-top: 20px;
+	}
+	.mainhead .row{
+		flex-wrap: nowrap;
+	}
+	.mainhead .jumbotron .logo{
+		margin-left: -14px;
+	}
+	.mainhead .jumbotron .estd{
+		font-size: 7px;
+
+	}
+	.mainhead .jumbotron .davv{
+		font-size: 2.9vw;
+	}
+
+	/*-----About Us-----*/
+	.aboutus .card {
+		padding: 30px 0px 0px 0px;
+	}
+
+	.aboutus .card i{
+		font-size: 80px;
+	}
+	.aboutus .card h4{
+		font-size: 20px;
+	}
+
+	/*----Corses Offered-----*/
+	.coursecover {
+		padding: 35px 20px 75px 38px;
+	}
+
+	/*----------Side Nav-----------*/
+	.side-nav a {
+		font-size: 14px;
+	}
+	.side-nav-title{
+		font-size: 7px;
+	}
+
+	/*-------Faculty---------*/
+	#myfaculty .card {
+		margin: 10px auto;
+		width: 253px;
+	}
+
+	.subhead-of-faculty {
+		padding: 30px 0px 47px 0px;
+	}
+
+	.subhead-of-faculty h1{
+		font-size: 45px;
+	}
+	
+	/*------Activities-------*/
+    
+	#Activities .cont-marg{
+		margin-top: 0px;
+	}
+
+	#Activities .container .display-4{
+		font-size: 35px;
+	}
+
+	
+	#Activities .container .no-jumbo h3{
+		font-size: 13px;
+		margin: 0;
+	}
+
+	#Activities .container .no-jumbo .actpelement{
+		font-size: 9px;
+		padding-left: 6px;
+		padding-bottom: 12px;
+		padding-top: 12px;
+
+
+	}
+
+	#Activities .container .no-jumbo{
+		height: max-content;
+	}
+	
+	/*------Alumini (Msc)-------*/
+	#AluminiMSc .cont-marg{
+        margin-top: 0px;
+        }
+
+	#AluminiMSc .container .display-4{
+	   font-size: 35px;
+	 }
+
+
+	 #AluminiMSc .container .no-jumbo h3{
+	   font-size: 13px;
+	   margin: 0;
+	 }
+
+	 #AluminiMSc .container .no-jumbo .actpelement{
+	   font-size: 9px;
+	   padding-left: 14px;
+	   padding-bottom: 12px;
+	   padding-top: 12px;
+	 }
+
+	 #AluminiMSc .container .no-jumbo{
+	   height: max-content;
+	 } 
+	
+	
+	
+	/*===========Student=============*/
+	/*------subhead-line------*/
+	#student .subhead-line .display-4{
+		font-size: 32px;
+	}
+	#student .subhead-line h1 i{
+		font-size: 40px;
+	}
+
+	.student .display-4{
+		font-size: 2.4rem;
+	}
+
+	.student h2{
+		font-size: 136%;
+	}
+
+	#student .subhead{
+		padding: 10px 0px 10px 0px;
+	}
+
+	.student .link{
+		font-size: 74%;
+	}
+
+	.student .btn{
+		padding: 0.23rem 0.5rem;
+	}
+
+
+	/*==============About Us===============*/		
+	.aboutus-cover h1{
+		font-size: 45px;
+	}
+
+	.aboutus-cover h2{
+		font-size: 22px;
+	}
+
+	.aboutus-subhead h2::before{	
+		display: none;
+	}
+	.aboutus-subhead h2::after{	
+		display: none;
+	}
+
+	#hod .aboutus-subhead h2::before{
+		display: none;
+	}
+
+	#hod .aboutus-subhead h2::after{
+		display: none;
+	}
+	.aboutus-cover .cont{
+		font-size: 18px;
+		padding: 0px 30px 0px 30px;
+	}
+	.aboutus-cover i{
+		font-size: 20px;
+	}
+	.aboutus-cover #hod h2{
+		font-size: 18px;
+	}	
+	.aboutus-cover #hod h3{
+		font-size: 19px;
+	}
+
+	.aboutus-cover #hod img{
+		width: 90px;
+	}
+	.aboutus-cover #hod .hod-cont {
+		padding-top: 10px;
+		font-size: 15px;
+	}
+
+	.aboutus-cover #hod .media-body {
+		padding-left: 30px;
+	}		
+
+	/*========ADMISSION=======*/
+	#admission-cover{
+		padding-bottom: 35px;
+		padding-top: 35px;
+	}
+	#admission-cover .btn-outline-success{
+		margin-top: 15px;
+	} 
+
+	#admission-cover h5{
+		text-align: center;
+		margin-left: 20px;
+	}
+	#admission p{
+		font-size: 18px;
+		text-align: center;
+	}
+
+	#admission-cover .coursename {
+		padding: 36px 0px 46px 0px;
+	}
+
+	#admission .padding1 {
+		padding-bottom: 40px;
+	}
+
+	/*=======Faculty======*/
+	.faculty-cover .faculty-body{
+		padding: 5rem 2rem 2rem 4rem;
+	}
+
+	.faculty-cover .card-block {
+		padding-left: 1em;
+		padding-right: 2px;
+	}
+}
+
