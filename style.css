@@ -1188,25 +1188,31 @@ background-position:center -60px;
 .student div.jumbotron{
 	background-color: white;
 	text-align: center;
-	display: flex;
+    display: flex;
 	align-items: center;
 	justify-content: center;
 	padding-top: 1%;
+	margin-bottom: 0%;
 }
 
 
 .student .btn-responsive {
-	white-space: normal !important;
-	word-wrap: break-word;
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+
+#student .subhead{
+	text-align: center;
+	padding: 30px 0px 20px 0px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 800;
 }
 
 .student h2{
-	font-size: 2rem;
+	font-size: 1.7rem;
 	margin-bottom: 40px;
 }
-#student .subhead-line1 h2{
-	font-size: 28px;
-}
+
 #student .subhead-line1 h2::before{
 	content: "";
 	background: #040;
@@ -1226,15 +1232,17 @@ background-position:center -60px;
 	border-radius: 0px 10px 10px 0px;
 }
 
-
+.student .display-4{
+	font-size: 3rem;
+} 
 
 .student .link{
-	font-size: 1.4rem;
+	font-size: 0.9rem;
 }
 
 .student .container{
-	background-color: white;
-	padding-top: 30px;
+   background-color: white;
+   padding-top: 30px;
 }
 
 .student .card{
@@ -1255,9 +1263,17 @@ background-position:center -60px;
 	border-right: 2px solid  #bba8a8;
 }
 
-.student h2{
-	margin-top: 2%;
+.student h4{
+	font-size: 1.2rem;
 }
+
+.student .card-body{
+	font-size: 0.9rem;
+}
+
+/*.student h2{
+	margin-top: 2%;
+}*/
 
 /*-----------------------STUDENT(End)------------------------------*/
 
@@ -2056,16 +2072,30 @@ background-position:center -60px;
 	/*===========Student=============*/
 	/*------subhead-line------*/
 	#student .subhead-line .display-4{
-		font-size: 30px;
+		font-size: 32px;
 	}
-	/*#student .subhead-line h1 i{
+	#student .subhead-line h1 i{
 		font-size: 40px;
-	}*/
-	#student .subhead-line1 h2::before{
-		display: none;
 	}
-	#student .subhead-line1 h2::after{
-		display: none;
+
+	.student .display-4{
+		font-size: 2.4rem;
+	}
+
+	.student h2{
+		font-size: 136%;
+	}
+
+	#student .subhead{
+		padding: 10px 0px 10px 0px;
+	}
+
+	.student .link{
+		font-size: 74%;
+	}
+
+	.student .btn{
+		padding: 0.23rem 0.5rem;
 	}
 
 
