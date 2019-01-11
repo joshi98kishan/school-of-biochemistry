@@ -56,7 +56,7 @@
 						<div class="row">
 							<div class="col-md-4">
 								<span style="float: left;">
-									<h4>M.Sc. previous</h4>
+									<h4>M.Sc. (Previous)</h4>
 									<br>
 									<div><a href="docs/MSc UTD Syllabus 2017-19.pdf" class="btn btn-success btn-sm" target="_blank">PDF</a></div>
 								</span>
@@ -64,7 +64,7 @@
 
 							<div class="col-md-4">
 								<span style="float: left;">
-									<h4>M.Sc. next</h4>
+									<h4>M.Sc. (Final)</h4>
 									<br>
 									<div> <a href="docs/MSc UTD Syllabus 2018-20.pdf" class="btn btn-success btn-sm" target="_blank">PDF</a></div>
 								</span>
@@ -74,7 +74,7 @@
 								<span style="float: left;">
 									<h4>Ph.D. (Course Work)</h4>
 									<br>
-									<div> <a href="docs/MScSyllabus2017-19.PDF" class="btn btn-success btn-sm" target="_blank">PDF</a></div>
+									<div> <a href="docs/PhD Course Work Syllabus - 2017 (1).PDF" class="btn btn-success btn-sm" target="_blank">PDF</a></div>
 								</span>
 							</div>
 						</div>
@@ -159,7 +159,9 @@
 						<br>
 						<br>
 						<div style="float: none;">
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/Academic Calender 2018 - 19.PDF" target="_blank">Download PDF</a></span>
+							<span class="button_small"> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Biochemistry 2018-20 (Previous).PDF" target="_blank">M.Sc. (Previous)</a></span>&nbsp &nbsp
+
+							<span class="button_small"> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Biochemistry 2017-19 (Final).PDF" target="_blank">M.Sc. (Final) &nbsp &nbsp</a></span>
 						</div>
 					</div>
 				</div>
@@ -167,12 +169,12 @@
 				<div id="h" class="col-md-4 border1" id="student-calender">
 					<div>
 						<div id="acalender">
-							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Generic Course <i class="fa fa-calendar" aria-hidden="true"></i></h2>
+							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Generic Courses <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 						</div>
 						<br>
 						<br>
 						<div style="float: none;">
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/Academic Calender 2018 - 19.PDF" target="_blank">Download PDF</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Generic Courses.PDF" target="_blank">Download PDF</a></span>
 						</div>
 					</div>
 				</div>
@@ -185,7 +187,7 @@
 						<br>
 						<br>
 						<div style="float: none;">
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/CourseOutcome.PDF" target="_blank">Download PDF</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Programme Outcome.PDF" target="_blank">Download PDF</a></span>
 						</div>
 					</div>
 				</div>
@@ -275,9 +277,9 @@
 						<br>
 						<br>
 						<div style="float: none;">
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/FeedBack M.Sc. May 2018.PDF" target="_blank">M.Sc. Feedback</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feed Back M Sc May 2018.PDF" target="_blank">M.Sc. Feedback</a></span>
 							&nbsp;&nbsp;&nbsp;
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/FeedBack Ph.D. May 2018.PDF" target="_blank">Ph.D. Feedback</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feedback Ph.D. May 18.PDF" target="_blank">Ph.D. Feedback</a></span>
 						</div>
 					</div>
 				</div>

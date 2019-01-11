@@ -1314,6 +1314,10 @@ html,body{
 	padding: 0.25rem 1.5rem; 
 }
 
+.student .button_small .btn{
+    padding: 0.25rem 0.5rem;
+}
+
 .student .border1{
 	border-right: 2px solid  #bba8a8;
 }

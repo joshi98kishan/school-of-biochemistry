@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Side nav bar</title>
+    <style type="text/css">
+    	
+    	.menu ul{
+           list-style: none;
+           margin: 0;
+           padding: 0;
+           background-color: #f1f1f1;
+           width: 25%;
+           height: 100%;
+           position: fixed;
+    	}
+
+    	.menu li {
+    		padding: 15px;
+                    
+    	}
+
+    	/*.menu ul ul {
+    		transition: all 0.3s;
+    		display: none;
+    	}*/
+
+    	/*.menu ul li:hover>ul {
+    		display: block;
+    	} */
+
+    	li a{
+    		display: block;
+    		color: #000;
+    		padding: 8px 16px;
+    		text-decoration: none;
+    	}
+
+    	li a:hover{
+    		background-color: #555;
+    		color: white;
+    	}
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="menu">
+    	<ul>
+    		<li><a href="#">Home</a></li>
+    		<li><a href="#">Users</a></li>
+    		  <ul>
+    		  	<li><a href="#">Student</a></li>
+    		  	<li><a href="#">Admin</a></li>
+    		  </ul>
+    		<li><a href="#">Rental</a></li>
+    		<li><a href="#">Last</a></li>  
+    	</ul>
+    </div>
+
+</body>
+</html>
