@@ -17,7 +17,7 @@
 	<!-- Side Nav -->
 	<?php include 'includes/sidenav.php';?>
 
-	<!-------------- STUDENT (Start) ------------------->
+	<!-------------- STUDENT (Start) -------------------->
 
 	<div class="student" id="student">
 		
