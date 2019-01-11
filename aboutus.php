@@ -80,8 +80,7 @@
 		
 	</div>
 
-		<div class="wrap">
-	<!-- Define all of the tiles: -->
+<!-- 		<div class="wrap">
 
 		<div class="aboutus-subhead subhead">
 						<h2>INSTRUMENTS&nbsp;<i class="fas fa-user-tie"></i></h2>
@@ -126,6 +125,53 @@
 			</div>
 		</div>
 	</div>
+</div> -->
+
+<div class="container-fluid">
+	<div class="row" id="sub">
+		<div class="col-md subhead-line">
+			<h1 class="display-4"><strong>Equipments</strong></h1>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="card col-md-4" >
+				<img class="card-img-top" src="images/infrastructure1.jpeg" alt="Card image cap" height="270">
+				<div class="card-body">
+					<h5 class="card-title"> Library</h5>
+				</div>
+			</div>
+	
+			<div class="card col-md-4">
+				<img class="card-img-top" src="images/infrastructure3.jpeg" alt="Card image cap" height="270">
+				<div class="card-body">
+					<h5 class="card-title"> Library</h5>
+				</div>
+			</div>
+	
+			<div class="card col-md-4" >
+				<img class="card-img-top" src="images/infrastructure2.jpeg" alt="Card image cap" height="270">
+				<div class="card-body">
+					<h5 class="card-title"> Lab</h5>
+				</div >
+			</div>
+		</div>
+		<div class="row">
+	
+			<div class="card col-md-4">
+				<img class="card-img-top" src="images/infrastructure4.jpeg" alt="Card image cap" height="270">
+				<div class="card-body">
+					<h5 class="card-title"> Seminar Hall</h5>
+				</div>
+			</div>
+	
+			<div class="card col-md-4">
+				<img class="card-img-top" src="images/infrastructure5.jpeg" alt="Card image cap" height="270">
+				<div class="card-body">
+					<h5 class="card-title"> Seminar Hall</h5>
+				</div>
+			</div>
+		</div>
 </div>
 
 	

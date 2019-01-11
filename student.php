@@ -56,7 +56,7 @@
 						<div class="row">
 							<div class="col-md-4">
 								<span style="float: left;">
-									<h4>M.Sc. previous</h4>
+									<h4>M.Sc. (Previous)</h4>
 									<br>
 									<div><a href="docs/MSc UTD Syllabus 2017-19.pdf" class="btn btn-success btn-sm" target="_blank">PDF</a></div>
 								</span>
@@ -64,7 +64,7 @@
 
 							<div class="col-md-4">
 								<span style="float: left;">
-									<h4>M.Sc. next</h4>
+									<h4>M.Sc. (Final)</h4>
 									<br>
 									<div> <a href="docs/MSc UTD Syllabus 2018-20.pdf" class="btn btn-success btn-sm" target="_blank">PDF</a></div>
 								</span>

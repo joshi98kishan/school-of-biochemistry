@@ -40,7 +40,7 @@
 				<div class="text-item">
 
 					<div class="actpelement">A talk on “Cellular Senescence and its role in aging and disease”   
-						<a href="16.PDF" target="_blank">click here for more</a>
+						<a href="docs/16.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
