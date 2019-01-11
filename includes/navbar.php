@@ -32,7 +32,12 @@
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Feedback</div></a>
 						</div>
 					</li>
-					<li class="nav-item"><a class="nav-link r p" href="researches.php"><strong>RESEARCHERS</strong></a></li>
+					<li class="nav-item dropdown"><a class="nav-link r p" href="#"><strong>RESEARCH &nbsp;</strong><i class="fas fa-caret-down"></i></a>
+					<div class="dropdown-menu ">
+						<a href="researchers.php" class="linkst"><div class="dropdown-item" id="dr">Researchers</div></a>
+				        <a href="facilities.php" class="linkst"><div class="dropdown-item" id="dr">Facilities</div></a>
+					</div>
+					</li>
 					<li class="nav-item"><a class="nav-link r p" href="activities.php"><strong>ACTIVITIES</strong></a></li>
 					<li class="nav-item dropdown"><a class="nav-link r p navw3" ><strong>ALUMNI &nbsp;</strong><i class="fas fa-caret-down"></i></a>
 						<div class="dropdown-menu ">
