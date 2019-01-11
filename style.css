@@ -367,6 +367,66 @@ html,body{
 	text-align: center;
 }
 
+/*body {
+    margin: 0;
+    padding: 0;
+    background: #EEE;
+    font: 10px/13px 'Lucida Sans',sans-serif;
+}*/
+.wrap {
+    overflow: hidden;
+    margin: 10px;
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.box {
+    float: left;
+    position: relative;
+    width: 20%;
+    padding-bottom: 20%;
+}
+
+.boxInner {
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    bottom: 10px;
+    overflow: hidden;
+}
+ .boxInner img { width: 100% }
+
+
+@media only screen and (max-width:480px) { 
+    /* Smartphone view: 1 tile */
+    .box {
+        width: 100%;
+        padding-bottom: 100%;
+    }
+}
+@media only screen and (max-width:650px) and (min-width:481px) { 
+    /* Tablet view: 2 tiles */
+    .box {
+        width: 50%;
+        padding-bottom: 50%;
+    }
+}
+@media only screen and (max-width:1050px) and (min-width:651px) { 
+    /* Small desktop / ipad view: 3 tiles */
+    .box {
+        width: 33.3%;
+        padding-bottom: 33.3%;
+    }
+}
+@media only screen and (max-width:1290px) and (min-width:1051px) { 
+    /* Medium desktop: 4 tiles */
+    .box {
+        width: 25%;
+        padding-bottom: 25%;
+    }
+}
+
 
 
 
@@ -759,7 +819,7 @@ html,body{
 .faculty-cover .display-4{
 	margin-bottom: -65px;
 	font-weight: bold;
-	font-size: 2.7rem;
+	font-size: 2rem;
 	color: #004816;
 }
 
@@ -1645,10 +1705,6 @@ html,body{
 
 	/*===========FACULTY====================*/
 
-	.faculty-cover .display-4{
-		font-size: 2.2rem;
-	}
-
 	.faculty-cover .jumbotron{
 		padding-top: 26vw;
 	}
@@ -1769,10 +1825,6 @@ html,body{
 	}
 
 	/*===========FACULTY====================*/
-
-	.faculty-cover .display-4{
-		font-size: 2.1rem;
-	}
 
 	.faculty-cover .jumbotron{
 		padding-top: 31vw;
@@ -1998,9 +2050,9 @@ html,body{
 		font-size: 15px;
 	}
 
-	/*.faculty-cover .display-4{
-		font-size: 2.4rem;
-	}*/
+	.faculty-cover .display-4{
+		font-size: 1.9rem;
+	}
 
 	.fac-image-profile
 	{
@@ -2263,7 +2315,7 @@ html,body{
 	/*=======Faculty======*/
 
 	.faculty-cover .display-4{
-		font-size: 1.9rem;
+		font-size: 1.8rem;
 	}
 
 	.faculty-cover .faculty-body{
