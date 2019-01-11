@@ -819,7 +819,7 @@ html,body{
 .faculty-cover .display-4{
 	margin-bottom: -65px;
 	font-weight: bold;
-	font-size: 2.7rem;
+	font-size: 2rem;
 	color: #004816;
 }
 
@@ -1705,10 +1705,6 @@ html,body{
 
 	/*===========FACULTY====================*/
 
-	.faculty-cover .display-4{
-		font-size: 2.2rem;
-	}
-
 	.faculty-cover .jumbotron{
 		padding-top: 26vw;
 	}
@@ -1829,10 +1825,6 @@ html,body{
 	}
 
 	/*===========FACULTY====================*/
-
-	.faculty-cover .display-4{
-		font-size: 2.1rem;
-	}
 
 	.faculty-cover .jumbotron{
 		padding-top: 31vw;
@@ -2058,9 +2050,9 @@ html,body{
 		font-size: 15px;
 	}
 
-	/*.faculty-cover .display-4{
-		font-size: 2.4rem;
-	}*/
+	.faculty-cover .display-4{
+		font-size: 1.9rem;
+	}
 
 	.fac-image-profile
 	{
@@ -2323,7 +2315,7 @@ html,body{
 	/*=======Faculty======*/
 
 	.faculty-cover .display-4{
-		font-size: 1.9rem;
+		font-size: 1.8rem;
 	}
 
 	.faculty-cover .faculty-body{
