@@ -98,7 +98,7 @@
 			<div class="card col-md-4">
 				<img class="card-img-top" src="images/infrastructure3.jpeg" alt="Card image cap" height="270">
 				<div class="card-body">
-					<h5 class="card-title"> Library</h5>
+					<h5 class="card-title"> M.Sc. Lecture Hall</h5>
 				</div>
 			</div>
 	
