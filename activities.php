@@ -32,6 +32,144 @@
 
 		<div class="container cont-marg" id="cont-margs">
 			<!-- <hr class="horizontal-act"> -->
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/29oct.PDF" target="_blank"><div class="display-4 text-block"><h3>29/10/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">School of Biochemistry organised a Seminar on “Advances in Biochemical Research”
+					<a href="docs/29oct.PDF" target="_blank">click here for more</a>   
+					</div>
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>24/10/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">M.Sc. students (08) participated in the “Vote Indore Vote” 2 and 5 Km Marathan organized District Administration, Indore. (Photographs)   
+					</div>
+
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>03/10/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Ms Mamta Hirve presented a poster titled “Combined effects of chromium and water deficit stress on seedling characteristics in maize” and awarded Consolation Prize in National Seminar on Recent Trends in Basic Sciences – RTBS 2018 orgaised by Department of Chemistry, Autonomous Holkar Science College, Indore on 3rd & 4th October 2018.
+						
+					</div>
+
+				</div>
+			</div>
+
+			
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>02/10/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">On the occasion of Gandhi Jayanti M.Sc. students participated in the cleaning work in the vicinity of the building under “Swacchhata hi Seva” Abhiyaan. (Photographs)  
+					</div>
+
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>28/09/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Dr Sunita Kataria presented paper titled “  “ and was awarded Best Oral Presentation in National Conference on Innovations in Food, Environment and Healthcare 2018 held on 28th and 29th September 2018 organised by School of Biotechnology and Bioinformatics, D.Y. patil Deemed to be University, CBD Belapur, Navi Mumbai, Maharashtra.   
+					</div>
+
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>05/09/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Teachers Day was celebrated in the School. Students honoured Faculty and Staff by presenting plantlets. They organized various cultural and entertainment activities. (Photographs)  
+					</div>
+
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>23/08/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Ms Kritika Pathak presented paper titled “Interactiactive Effect of pH and Temperature on Germination of Two Indian Wheat Species” in 6th International Conference on Biological and Medical Sciences (ICBMS 2018) Seoul, South Korea August 22-24, 2018.   
+					</div>
+
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>18/08/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Model Carrear Counselling Activity – Briefing of M.Sc. Sem I and Sem III students about the Center by Mr Rahul Omar and nomination of representative.   
+					</div>
+
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>12/08/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">M.Sc. students participated in “Twelve Km Tiranga Abhiyan” held in Indore between Mhow Naka Square and Chanakya Puri at 9.00 AM to 10 AM. (Photographs) 
+					</div>
+
+				</div>
+			</div>
+
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/20july (2).PDF" target="_blank"><div class="display-4 text-block"><h3>20/07/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">	
+Plantation Activity by M.Sc. students in the Departmental Garden held    
+						<a href="20july (2).PDF" target="_blank">click here for more</a>
+					</div>
+
+				</div>
+			</div>
+
+
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
 					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>16/05/2018</h3></div></a>
