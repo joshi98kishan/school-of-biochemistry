@@ -279,7 +279,7 @@
 						<div style="float: none;">
 							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feed Back M Sc May 2018.PDF" target="_blank">M.Sc. Feedback</a></span>
 							&nbsp;&nbsp;&nbsp;
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feedback Ph.D. May 18.PDF" target="_blank">Ph.D. Feedback</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feedback Ph.D. May 18.PDF" target="_blank">Ph.D. Coursework Feedback</a></span>
 						</div>
 					</div>
 				</div>

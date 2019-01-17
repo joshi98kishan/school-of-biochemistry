@@ -105,7 +105,7 @@
 			<div class="card col-md-4" >
 				<img class="card-img-top" src="images/infrastructure2.jpeg" alt="Card image cap" height="270">
 				<div class="card-body">
-					<h5 class="card-title"> Loboratory</h5>
+					<h5 class="card-title"> Laboratory</h5>
 				</div >
 			</div>
 		</div>
