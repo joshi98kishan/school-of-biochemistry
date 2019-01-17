@@ -37,10 +37,10 @@
 
 			<div class="card recard">
 				<div class="row">
-					<!-- <div class="col-md-3" >
-						<img src="images/r10.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Prakash Malviya">
-					</div> -->
-					<div class="col-md-12 cardmd12 divstyle1">
+					<div class="col-md-3" >
+						<img src="images/juliana.jpg" class="card-image  image-responsive img-thumbnail reimage" alt="Juliana Sarangthem">
+					</div>
+					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
 							<h6 class="card-title"><strong>Ms. Juliana Sarangthem  (2007-2011)</strong></h6>
 
