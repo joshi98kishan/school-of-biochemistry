@@ -71,21 +71,21 @@
 			<div class="card col-md-4" >
 				<img class="card-img-top" src="images/eq1.jpg" alt="Card image cap" height="270">
 				<div class="card-body">
-					<h5 class="card-title"> title</h5>
+					<h5 class="card-title"> Magnet</h5>
 				</div>
 			</div>
 	
 			<div class="card col-md-4">
 				<img class="card-img-top" src="images/eq2.jpg" alt="Card image cap" height="270">
 				<div class="card-body">
-					<h5 class="card-title"> title</h5>
+					<h5 class="card-title"> Plant Growth Chamber</h5>
 				</div>
 			</div>
 	
 			<div class="card col-md-4" >
 				<img class="card-img-top" src="images/eq3.jpg" alt="Card image cap" height="270">
 				<div class="card-body">
-					<h5 class="card-title"> title</h5>
+					<h5 class="card-title"> PCR</h5>
 				</div >
 			</div>
 		</div>
@@ -94,21 +94,21 @@
 			<div class="card col-md-4">
 				<img class="card-img-top" src="images/eq4.jpg" alt="Card image cap" height="270">
 				<div class="card-body">
-					<h5 class="card-title"> title</h5>
+					<h5 class="card-title"> ELISA Reader</h5>
 				</div>
 			</div>
 	
 			<div class="card col-md-4">
 				<img class="card-img-top" src="images/eq5.jpg" alt="Card image cap" height="270">
 				<div class="card-body">
-					<h5 class="card-title"> title</h5>
+					<h5 class="card-title"> Cold Room</h5>
 				</div>
 			</div>
 	
 			<div class="card col-md-4">
 				<img class="card-img-top" src="images/eq6.jpg" alt="Card image cap" height="270">
 				<div class="card-body">
-					<h5 class="card-title">title</h5>
+					<h5 class="card-title">HPLC</h5>
 				</div>
 			</div>
 		</div>
