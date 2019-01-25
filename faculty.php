@@ -73,7 +73,7 @@
 	 					<div class="card-block">
 	 						<a href="fac3.php"><h4 class="card-title"><strong>Dr. Meeta Jain</strong></h4></a>
 	 						<h5><strong>Reader</strong></h5>
-	 						<div><span class="profile-topic">PhD :</span><span class="profile-topic-detail">Devi Ahilya Vishwavidyalaya, Indore(1985)</span></div>
+	 						<div><span class="profile-topic">PhD :</span><span class="profile-topic-detail">Devi Ahilya Vishwavidyalaya, Indore(1995)</span></div>
 	 						<div><span class="profile-topic">Research Interests :</span><span class="profile-topic-detail">Plant Biochemistry</span></div>
 	 						<div><span class="profile-topic">E-mail :</span><span class="profile-topic-detail">meetajainind@yahoo.com</span></div>
 	 						<a href="fac3.php" class="btn btn-primary btn-sm full-profile">Full Profile</a>

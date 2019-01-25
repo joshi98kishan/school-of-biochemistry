@@ -21,7 +21,7 @@
 
 	<div class="student" id="student">
 		
-		<div class="row" id="sub">
+		<div class="row" id="sub" style="margin: 0;">
 			<div class="col-md">
 				<div class="subhead-line">
 					<h1 class="display-4">Students</h1>

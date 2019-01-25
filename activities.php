@@ -41,19 +41,20 @@
 				<div class="text-item">
 
 					<div class="actpelement">School of Biochemistry organised a Seminar on “Advances in Biochemical Research”
-					<a href="docs/29oct.PDF" target="_blank">click here for more</a>   
+						<a href="docs/29oct.PDF" target="_blank">click here for more</a>   
 					</div>
 				</div>
 			</div>
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>24/10/2018</h3></div></a>
+					<a href="docs/24oct.PDF" target="_blank"><div class="display-4 text-block"><h3>24/10/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">M.Sc. students (08) participated in the “Vote Indore Vote” 2 and 5 Km Marathan organized District Administration, Indore. (Photographs)   
+					<div class="actpelement">M.Sc. students (08) participated in the “Vote Indore Vote” 2 and 5 Km Marathan organized District Administration, Indore. 
+						<a href="docs/24oct.PDF" target="_blank">photographs</a>    
 					</div>
 
 				</div>
@@ -61,7 +62,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>03/10/2018</h3></div></a>
+					<a><div class="display-4 text-block"><h3>03/10/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
@@ -77,12 +78,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>02/10/2018</h3></div></a>
+					<a href="docs/2oct.PDF" target="_blank"><div class="display-4 text-block"><h3>02/10/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">On the occasion of Gandhi Jayanti M.Sc. students participated in the cleaning work in the vicinity of the building under “Swacchhata hi Seva” Abhiyaan. (Photographs)  
+					<div class="actpelement">On the occasion of Gandhi Jayanti M.Sc. students participated in the cleaning work in the vicinity of the building under “Swacchhata hi Seva” Abhiyaan.
+						<a href="docs/2oct.PDF" target="_blank">photographs</a>   
 					</div>
 
 				</div>
@@ -90,7 +92,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>28/09/2018</h3></div></a>
+					<a><div class="display-4 text-block"><h3>28/09/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
@@ -103,12 +105,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>05/09/2018</h3></div></a>
+					<a href="docs/5sept.PDF" target="_blank"><div class="display-4 text-block"><h3>05/09/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">Teachers Day was celebrated in the School. Students honoured Faculty and Staff by presenting plantlets. They organized various cultural and entertainment activities. (Photographs)  
+					<div class="actpelement">Teachers Day was celebrated in the School. Students honoured Faculty and Staff by presenting plantlets. They organized various cultural and entertainment activities.
+						<a href="docs/5sept.PDF" target="_blank">photographs</a>   
 					</div>
 
 				</div>
@@ -116,7 +119,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>23/08/2018</h3></div></a>
+					<a><div class="display-4 text-block"><h3>23/08/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
@@ -129,7 +132,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>18/08/2018</h3></div></a>
+					<a><div class="display-4 text-block"><h3>18/08/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
@@ -142,28 +145,27 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>12/08/2018</h3></div></a>
+					<a href="docs/12aug.PDF" target="_blank"><div class="display-4 text-block"><h3>12/08/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">M.Sc. students participated in “Twelve Km Tiranga Abhiyan” held in Indore between Mhow Naka Square and Chanakya Puri at 9.00 AM to 10 AM. (Photographs) 
+					<div class="actpelement">M.Sc. students participated in “Twelve Km Tiranga Abhiyan” held in Indore between Mhow Naka Square and Chanakya Puri at 9.00 AM to 10 AM.
+						<a href="docs/12aug.PDF" target="_blank">photographs</a>  
 					</div>
 
 				</div>
 			</div>
 
-
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/20july (2).PDF" target="_blank"><div class="display-4 text-block"><h3>20/07/2018</h3></div></a>
+					<a><div class="display-4 text-block"><h3>21/07/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">	
-Plantation Activity by M.Sc. students in the Departmental Garden held    
-						<a href="20july (2).PDF" target="_blank">click here for more</a>
+						M.Sc. students participated in two days seminar on “Chromatographic and mass Spectroscopic Techniques” Hosted by P.G. Tech Research Institute, Indore in collaboration with Chromatographic Society of India supported by MPCOST, Bhopal on July 20-21, 2018.    
 					</div>
 
 				</div>
@@ -172,13 +174,29 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/16.PDF" target="_blank"><div class="display-4 text-block"><h3>16/05/2018</h3></div></a>
+					<a href="docs/20july.PDF" target="_blank"><div class="display-4 text-block"><h3>20/07/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">	
+						Plantation Activity by M.Sc. students in the Departmental Garden held    
+						<a href="docs/20july.PDF" target="_blank">click here for more</a>
+					</div>
+
+				</div>
+			</div>
+
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/16.pdf" target="_blank"><div class="display-4 text-block"><h3>16/05/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">A talk on “Cellular Senescence and its role in aging and disease”   
-						<a href="16.PDF" target="_blank">click here for more</a>
+						<a href="docs/16.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -200,13 +218,12 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/14.PDF" target="_blank"><div class="display-4 text-block"><h3>22/03/2018</h3></div></a>
+					<a><div class="display-4 text-block"><h3>27/03/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">Health cards for Students of the department 
-						<a href="docs/14.PDF" target="_blank">click here for more</a>
+					<div class="actpelement">Ms. Pooja Yadav (Research scholar) participated in National Workshop “Practical protein crystallography using PX beamline at Indus-2 synchrotron” organized by Raja Ramanna Centre for Advanced in Technology (RRCAT), Indore, India, 27-28 
 					</div>
 
 				</div>
@@ -214,13 +231,12 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/13.PDF"><div class="display-4 text-block"><h3>14/03/2018</h3></div></a>
+					<a><div class="display-4 text-block"><h3>22/03/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">Mr Venkat Narayan Are participated in Final round of Anvention 2017  
-						<a href="docs/13.PDF">click here for more</a>
+					<div class="actpelement">Health cards for Students of the department were prepared at Health Center, DAV, Indore on 22.3.2018. 
 					</div>
 
 				</div>
@@ -228,13 +244,12 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/12.PDF" target="_blank"><div class="display-4 text-block"><h3>18/01/2018</h3></div></a>
+					<a><div class="display-4 text-block"><h3>14/03/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">M.Sc. Semester II students attended Training Programme  
-						<a href="docs/12.PDF" target="_blank">click here for more</a>
+					<div class="actpelement">Mr Venkat Narayan Are participated in Final round of Anvention 2017 in National Convention held on Mar 14-16 2018 at Chitkara University, Punjab under basic sciences with the topic of the paper  “Characterization of prokaryotic aminopeptidase P proteins for recombinant bradykinin hormone production”.   
 					</div>
 
 				</div>
@@ -242,13 +257,12 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/11.PDF" target="_blank"><div class="display-4 text-block"><h3>10/01/2018</h3></div></a>
+					<a><div class="display-4 text-block"><h3>18/01/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">Dr. Meeta Jain attended World Environment Congress  
-						<a href="docs/11.PDF" target="_blank">click here for more</a>
+					<div class="actpelement">Fifteen M.Sc. Semester II students attended Training Program organized by Model Career Center, DAVV, Indore on 18- 19 Jan 2018.   
 					</div>
 
 				</div>
@@ -256,13 +270,14 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/10.PDF" target="_blank"><div class="display-4 text-block"><h3>05/01/2018</h3></div></a>
+					<a><div class="display-4 text-block"><h3>10/01/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">Dr Sunita Shukla participated in International Symposium 
-						<a href="docs/10.PDF" target="_blank">click here for more</a>
+					<div class="actpelement">Dr. Meeta Jain attended World Environment Congress (3rd World Research Journals 
+						Congress) held at Banglore on 10-12 Jan 2018, chaired one session and obtained Best 
+						Presentation Award titled “Salt stress induced effects on biochemical parameters in etiolated maize leaf segments during greening” 
 					</div>
 
 				</div>
@@ -270,7 +285,20 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/9.PDF"><div class="display-4 text-block"><h3>02/12/2017</h3></div></a>
+					<a><div class="display-4 text-block"><h3>05/01/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Dr Sunita Shukla participated in International Symposium on Emerging Trends in Biosciences and Biomedical Technologies organized by IIT, Indore on 5-6 Jan 2018. Presented the paper titled “Assessment of antioxidant activity of Quercus infectoria extract and its efficacy in wound healing using Optical Coherence Tomography” 
+					</div>
+
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/9.PDF" target="_blank"><div class="display-4 text-block"><h3>02/12/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
@@ -284,13 +312,12 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/8.PDF" target="_blank"><div class="display-4 text-block"><h3>27/11/2017</h3></div></a>
+					<a><div class="display-4 text-block"><h3>27/11/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">Dr Sunita Shukla participated in National Workshop  
-						<a href="docs/8.PDF" target="_blank">click here for more</a>
+					<div class="actpelement">Dr Sunita Shukla participated in National Workshop on “Identification and Characterization of Phytochemicals using HRMS Instruments” held at SAIF, CSIR-CDRI, Lucknow - 27-29 Nov 2017. 
 					</div>
 
 				</div>
@@ -298,13 +325,12 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/7.PDF" target="_blank"><div class="display-4 text-block"><h3>22/11/2017</h3></div></a>
+					<a><div class="display-4 text-block"><h3>22/11/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">Mr Venkat Narayan Are participated in Central Zone Convention of Anvention 2017  
-						<a href="docs/7.PDF" target="_blank">click here for more</a>
+					<div class="actpelement">Mr Venkat Narayan Are participated in Central Zone Convention of Anvention 2017held on Nov. 22-23 2017 at Ravenshaw University, Cuttack, Odisha with the topic of the paper  “Characterization of prokaryotic aminopeptidase P proteins for recombinant bradykinin hormone production” and won Best paper presentation award. 
 					</div>
 
 				</div>
@@ -312,13 +338,12 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/6.PDF" target="_blank"><div class="display-4 text-block"><h3>06/11/2017</h3></div></a>
+					<a><div class="display-4 text-block"><h3>06/11/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">Mr Venkat Narayan Are presented a Poster and Paper of Anvention 2017  
-						<a href="docs/6.PDF" target="_blank">click here for more</a>
+					<div class="actpelement">Mr Venkat Narayan Are presented a Poster and Paper titled “Characterization of widely conserved prokaryotic small aminopeptidase P proteins of industrial importance” on 6/11/2017 for selection in Central Zone Convention of Anvention 2017 to be held on Nov. 22-23 2017 at Ravenshaw University, Cuttack, Odisha.  
 					</div>
 
 				</div>
@@ -326,13 +351,12 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/5.PDF" target="_blank"><div class="display-4 text-block"><h3>23/10/2017</h3></div></a>
+					<a><div class="display-4 text-block"><h3>03/11/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">Students’ Participation in GIAN  
-						<a href="docs/5.PDF" target="_blank">click here for more</a>
+					<div class="actpelement">Ms. Pooja Yadav (Research scholar) presented a Poster in National Conference on “Protein Structure and Dynamics in Health and Agriculture” organized by Jamia Millia Islamia University, New Delhi, India, 3-4 Nov 2017.
 					</div>
 
 				</div>
@@ -340,13 +364,15 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/4.PDF" target="_blank"><div class="display-4 text-block"><h3>23/10/2017</h3></div></a>
+					<a><div class="display-4 text-block"><h3>23/10/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">Students’ Election Activities  
-						<a href="docs/4.PDF" target="_blank">click here for more</a>
+					<div class="actpelement">Students’ Participation in GIAN. 
+						Global Institute of Academic Network (GIAN) was organized by IIT, Indore. 	 
+						Thirty two students participated in GIAN Program titled “How Next Generation Sequencing 
+						(NGS) is Untying the Knots in Viral Pathogenesis” held at IIT, Indore  from 23rd – 30th Oct 2017. 
 					</div>
 
 				</div>
@@ -354,13 +380,28 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/3.PDF"><div class="display-4 text-block"><h3>05/09/2017</h3></div></a>
+					<a><div class="display-4 text-block"><h3>23/10/2017</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Students’ Election Activities 
+						Students’ Election was held in Devi Ahilya Vishwavidyalaya between 23-30 Oct 2017.  
+						Class Representatives of M.Sc. I and III semesters were nominated. Sem I – S. Priyanka 	Sem III – Arshiya Khan 
+					</div>
+
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/3.PDF" target="_blank"><div class="display-4 text-block"><h3>05/09/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Teachers Day Celebration  
-						<a href="docs/3.PDF">click here for more</a>
+						<a href="docs/3.PDF" target="_blank">click here for more</a>
 					</div>
 
 				</div>
@@ -368,13 +409,13 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/2.PDF" target="_blank"><div class="display-4 text-block"><h3>24/08/2017</h3></div></a>
+					<a><div class="display-4 text-block"><h3>24/08/2017</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">Registration of students on NCS portal  
-						<a href="docs/2.PDF" target="_blank">click here for more</a>
+					<div class="actpelement">Registration of students on NCS portal 
+						Students of M.Sc. III Sem were registered on National Career Service (NCS) portal by Model Career Center (MCC) young professional Mr. Rahul Omar on 24/8/2017. 
 					</div>
 
 				</div>
@@ -393,6 +434,47 @@ Plantation Activity by M.Sc. students in the Departmental Garden held
 
 				</div>
 			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a><div class="display-4 text-block"><h3>15/02/2016</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Ms. Pooja Yadav (Research scholar) participated in National Workshop “Computational Biotechnology at the Nanoscale: CCP4” organized by Regional Centre for Biotechnology, Faridabad, India, 15-20 Feb, 2016
+					</div>
+
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a><div class="display-4 text-block"><h3>15/04/2016</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Ms. Pooja Yadav (Research scholar) participated in National Workshop “Structural Biology: An Introduction to Protein Crystallography” organized by National Institute of Mental Health & Neurosciences (NIMHANS), Bengaluru, India, 15-18 April, 2015
+					</div>
+
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a><div class="display-4 text-block"><h3>22/02/2014</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Ms. Reena Rawal (Research scholar) presented a Paper in “International Soybean Research Conference-SOYCON 2014 (Mitigating productivity constraints in Soybean for sustainable agriculture)” organized by Directorate of Soybean Research, Indore, India from 22-24 Feb 2014. 
+					</div>
+
+				</div>
+			</div>
+
+
 			
 
 		</div>
