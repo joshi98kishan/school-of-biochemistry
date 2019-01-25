@@ -249,7 +249,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Mr Venkat Narayan (Research Scholar) Are participated in Final round of Anvention 2017 in National Convention held on Mar 14-16 2018 at Chitkara University, Punjab under basic sciences with the topic of the paper  “Characterization of prokaryotic aminopeptidase P proteins for recombinant bradykinin hormone production”.   
+					<div class="actpelement">Mr Venkat Narayan Are (Research scholar) participated in Final round of Anvention 2017 in National Convention held on Mar 14-16 2018 at Chitkara University, Punjab under basic sciences with the topic of the paper  “Characterization of prokaryotic aminopeptidase P proteins for recombinant bradykinin hormone production”.   
 					</div>
 
 				</div>
@@ -275,7 +275,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Dr. Meeta Jain (Leader) attended World Environment Congress (3rd World Research Journals 
+					<div class="actpelement">Dr. Meeta Jain (Reader) attended World Environment Congress (3rd World Research Journals 
 						Congress) held at Banglore on 10-12 Jan 2018, chaired one session and obtained Best 
 						Presentation Award titled “Salt stress induced effects on biochemical parameters in etiolated maize leaf segments during greening” 
 					</div>
@@ -330,7 +330,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Mr Venkat Narayan (Research scholar) Are participated in Central Zone Convention of Anvention 2017held on Nov. 22-23 2017 at Ravenshaw University, Cuttack, Odisha with the topic of the paper  “Characterization of prokaryotic aminopeptidase P proteins for recombinant bradykinin hormone production” and won Best paper presentation award. 
+					<div class="actpelement">Mr Venkat Narayan Are (Research scholar) participated in Central Zone Convention of Anvention 2017held on Nov. 22-23 2017 at Ravenshaw University, Cuttack, Odisha with the topic of the paper  “Characterization of prokaryotic aminopeptidase P proteins for recombinant bradykinin hormone production” and won Best paper presentation award. 
 					</div>
 
 				</div>
@@ -343,7 +343,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Mr Venkat Narayan (Research scholar) Are presented a Poster and Paper titled “Characterization of widely conserved prokaryotic small aminopeptidase P proteins of industrial importance” on 6/11/2017 for selection in Central Zone Convention of Anvention 2017 to be held on Nov. 22-23 2017 at Ravenshaw University, Cuttack, Odisha.  
+					<div class="actpelement">Mr Venkat Narayan Are (Research scholar) presented a Poster and Paper titled “Characterization of widely conserved prokaryotic small aminopeptidase P proteins of industrial importance” on 6/11/2017 for selection in Central Zone Convention of Anvention 2017 to be held on Nov. 22-23 2017 at Ravenshaw University, Cuttack, Odisha.  
 					</div>
 
 				</div>
