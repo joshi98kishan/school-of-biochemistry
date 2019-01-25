@@ -67,7 +67,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Ms Mamta Hirve presented a poster titled “Combined effects of chromium and water deficit stress on seedling characteristics in maize” and awarded Consolation Prize in National Seminar on Recent Trends in Basic Sciences – RTBS 2018 orgaised by Department of Chemistry, Autonomous Holkar Science College, Indore on 3rd & 4th October 2018.
+					<div class="actpelement">Ms Mamta Hirve (Reseacrh Scholar) presented a poster titled “Combined effects of chromium and water deficit stress on seedling characteristics in maize” and awarded Consolation Prize in National Seminar on Recent Trends in Basic Sciences – RTBS 2018 orgaised by Department of Chemistry, Autonomous Holkar Science College, Indore on 3rd & 4th October 2018.
 						
 					</div>
 
@@ -97,7 +97,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Dr Sunita Kataria presented paper titled “  “ and was awarded Best Oral Presentation in National Conference on Innovations in Food, Environment and Healthcare 2018 held on 28th and 29th September 2018 organised by School of Biotechnology and Bioinformatics, D.Y. patil Deemed to be University, CBD Belapur, Navi Mumbai, Maharashtra.   
+					<div class="actpelement">Dr Sunita Kataria (Woman scientist) presented paper titled “  “ and was awarded Best Oral Presentation in National Conference on Innovations in Food, Environment and Healthcare 2018 held on 28th and 29th September 2018 organised by School of Biotechnology and Bioinformatics, D.Y. patil Deemed to be University, CBD Belapur, Navi Mumbai, Maharashtra.   
 					</div>
 
 				</div>
@@ -124,7 +124,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Ms Kritika Pathak presented paper titled “Interactiactive Effect of pH and Temperature on Germination of Two Indian Wheat Species” in 6th International Conference on Biological and Medical Sciences (ICBMS 2018) Seoul, South Korea August 22-24, 2018.   
+					<div class="actpelement">Ms Kritika Pathak (Research Scholar) presented paper titled “Interactiactive Effect of pH and Temperature on Germination of Two Indian Wheat Species” in 6th International Conference on Biological and Medical Sciences (ICBMS 2018) Seoul, South Korea August 22-24, 2018.   
 					</div>
 
 				</div>
@@ -223,7 +223,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Ms. Pooja Yadav (Research scholar) participated in National Workshop “Practical protein crystallography using PX beamline at Indus-2 synchrotron” organized by Raja Ramanna Centre for Advanced in Technology (RRCAT), Indore, India, 27-28 
+					<div class="actpelement">Ms. Pooja Yadav (Research scholar) participated in National Workshop “Practical protein crystallography using PX beamline at Indus-2 synchrotron” organized by Raja Ramanna Centre for Advanced Technology (RRCAT), Indore, India, 27-28 March 2018.
 					</div>
 
 				</div>
@@ -249,7 +249,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Mr Venkat Narayan Are participated in Final round of Anvention 2017 in National Convention held on Mar 14-16 2018 at Chitkara University, Punjab under basic sciences with the topic of the paper  “Characterization of prokaryotic aminopeptidase P proteins for recombinant bradykinin hormone production”.   
+					<div class="actpelement">Mr Venkat Narayan (Research Scholar) Are participated in Final round of Anvention 2017 in National Convention held on Mar 14-16 2018 at Chitkara University, Punjab under basic sciences with the topic of the paper  “Characterization of prokaryotic aminopeptidase P proteins for recombinant bradykinin hormone production”.   
 					</div>
 
 				</div>
@@ -275,7 +275,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Dr. Meeta Jain attended World Environment Congress (3rd World Research Journals 
+					<div class="actpelement">Dr. Meeta Jain (Leader) attended World Environment Congress (3rd World Research Journals 
 						Congress) held at Banglore on 10-12 Jan 2018, chaired one session and obtained Best 
 						Presentation Award titled “Salt stress induced effects on biochemical parameters in etiolated maize leaf segments during greening” 
 					</div>
@@ -290,7 +290,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Dr Sunita Shukla participated in International Symposium on Emerging Trends in Biosciences and Biomedical Technologies organized by IIT, Indore on 5-6 Jan 2018. Presented the paper titled “Assessment of antioxidant activity of Quercus infectoria extract and its efficacy in wound healing using Optical Coherence Tomography” 
+					<div class="actpelement">Dr Sunita Shukla (Woman scientist) participated in International Symposium on Emerging Trends in Biosciences and Biomedical Technologies organized by IIT, Indore on 5-6 Jan 2018. Presented the paper titled “Assessment of antioxidant activity of Quercus infectoria extract and its efficacy in wound healing using Optical Coherence Tomography” 
 					</div>
 
 				</div>
@@ -303,7 +303,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Dr Sunita Kataria participated in International Conference 
+					<div class="actpelement">Dr Sunita Kataria (Woman scientist) participated in International Conference 
 						<a href="docs/9.PDF" target="_blank">click here for more</a>
 					</div>
 
@@ -317,7 +317,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Dr Sunita Shukla participated in National Workshop on “Identification and Characterization of Phytochemicals using HRMS Instruments” held at SAIF, CSIR-CDRI, Lucknow - 27-29 Nov 2017. 
+					<div class="actpelement">Dr Sunita Shukla (Woman scientist) participated in National Workshop on “Identification and Characterization of Phytochemicals using HRMS Instruments” held at SAIF, CSIR-CDRI, Lucknow - 27-29 Nov 2017. 
 					</div>
 
 				</div>
@@ -330,7 +330,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Mr Venkat Narayan Are participated in Central Zone Convention of Anvention 2017held on Nov. 22-23 2017 at Ravenshaw University, Cuttack, Odisha with the topic of the paper  “Characterization of prokaryotic aminopeptidase P proteins for recombinant bradykinin hormone production” and won Best paper presentation award. 
+					<div class="actpelement">Mr Venkat Narayan (Research scholar) Are participated in Central Zone Convention of Anvention 2017held on Nov. 22-23 2017 at Ravenshaw University, Cuttack, Odisha with the topic of the paper  “Characterization of prokaryotic aminopeptidase P proteins for recombinant bradykinin hormone production” and won Best paper presentation award. 
 					</div>
 
 				</div>
@@ -343,7 +343,7 @@
 
 				<div class="text-item">
 
-					<div class="actpelement">Mr Venkat Narayan Are presented a Poster and Paper titled “Characterization of widely conserved prokaryotic small aminopeptidase P proteins of industrial importance” on 6/11/2017 for selection in Central Zone Convention of Anvention 2017 to be held on Nov. 22-23 2017 at Ravenshaw University, Cuttack, Odisha.  
+					<div class="actpelement">Mr Venkat Narayan (Research scholar) Are presented a Poster and Paper titled “Characterization of widely conserved prokaryotic small aminopeptidase P proteins of industrial importance” on 6/11/2017 for selection in Central Zone Convention of Anvention 2017 to be held on Nov. 22-23 2017 at Ravenshaw University, Cuttack, Odisha.  
 					</div>
 
 				</div>
