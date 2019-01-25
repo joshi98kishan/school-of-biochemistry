@@ -37,10 +37,10 @@
 
 			<div class="card recard">
 				<div class="row">
-					<!-- <div class="col-md-3" >
-						<img src="images/r10.jpeg" class="card-image  image-responsive img-thumbnail reimage" alt="Prakash Malviya">
-					</div> -->
-					<div class="col-md-12 cardmd12 divstyle1">
+					<div class="col-md-3" >
+						<img src="images/juliana.jpg" class="card-image  image-responsive img-thumbnail reimage" alt="Juliana Sarangthem">
+					</div>
+					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
 							<h6 class="card-title"><strong>Ms. Juliana Sarangthem  (2007-2011)</strong></h6>
 
@@ -161,10 +161,9 @@
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
 							<h6 class="card-title"><strong>Harsha Lad  (2011-2015)</strong></h6>
-							<!-- <div><span class="profile-topic"><strong>Topic :
+							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">
-								Isolation and characterization of Drought related NAC
-							transcription factor from Cotton roots (Gossypium herbacium).</span></div> -->
+								Antioxidative and antiarthritic activity of herbal products in rheumatoid arthritis.</span></div>
 							<div><span class="profile-topic"><strong>Supervisor : </strong></span> <span class="profile-topic-detail">Dr. D.Bhatnagar</span></div>
 						</div>
 					</div>

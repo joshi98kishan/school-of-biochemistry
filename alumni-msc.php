@@ -35,7 +35,7 @@
 			<div class="no-jumbo row text-center">
 				<div class="text-item">
 					<div class="actpelement">
-						<a href="docs/M Sc Biochemistry 2016-18.docx" target="_blank" download>M Sc Biochemistry 2016-18</a>
+						<a href="docs/M Sc Biochemistry 2016-18.pdf" target="_blank">M Sc Biochemistry 2016-18</a>
 					</div>
 				</div>
 			</div>
@@ -43,7 +43,7 @@
 			<div class="no-jumbo row text-center">
 				<div class="text-item">
 					<div class="actpelement">
-						<a href="docs/M Sc Biochemistry 2015-17.docx" target="_blank" download>M Sc Biochemistry 2015-17</a>
+						<a href="docs/M Sc Biochemistry 2015-17.pdf" target="_blank">M Sc Biochemistry 2015-17</a>
 					</div>
 				</div>
 			</div>
@@ -51,7 +51,7 @@
 			<div class="no-jumbo row text-center">
 				<div class="text-item">
 					<div class="actpelement">
-						<a href="docs/M Sc Biochemistry 2014-16.docx" target="_blank" download>M Sc Biochemistry 2014-16</a>
+						<a href="docs/M Sc Biochemistry 2014-16.pdf" target="_blank">M Sc Biochemistry 2014-16</a>
 					</div>
 				</div>
 			</div>
@@ -59,7 +59,7 @@
 			<div class="no-jumbo row text-center">
 				<div class="text-item">
 					<div class="actpelement">
-						<a href="docs/M Sc Biochemistry 2013-15.docx" target="_blank" download>M Sc Biochemistry 2013-15</a>
+						<a href="docs/M Sc Biochemistry 2013-15.pdf" target="_blank">M Sc Biochemistry 2013-15</a>
 					</div>
 				</div>
 			</div>
@@ -67,7 +67,7 @@
 			<div class="no-jumbo row text-center">
 				<div class="text-item">
 					<div class="actpelement">
-						<a href="docs/M Sc Biochemistry 2012-14.docx" target="_blank" download>M Sc Biochemistry 2012-14</a>
+						<a href="docs/M Sc Biochemistry 2012-14.pdf" target="_blank">M Sc Biochemistry 2012-14</a>
 					</div>
 				</div>
 			</div>
@@ -75,7 +75,7 @@
 			<div class="no-jumbo row text-center">
 				<div class="text-item">
 					<div class="actpelement">
-						<a href="docs/M Sc Biochemistry 2011-13.docx" target="_blank" download>M Sc Biochemistry 2011-13</a>
+						<a href="docs/M Sc Biochemistry 2011-13.pdf" target="_blank">M Sc Biochemistry 2011-13</a>
 					</div>
 				</div>
 			</div>
@@ -85,22 +85,14 @@
 			<div class="no-jumbo row text-center">
 				<div class="text-item">
 					<div class="actpelement">
-						<a href="docs/M Sc Biochemistry 2010-12.docx" target="_blank" download>M Sc Biochemistry 2010-12</a>
+						<a href="docs/M Sc Biochemistry 2010-12.pdf" target="_blank">M Sc Biochemistry 2010-12</a>
 					</div>
 				</div>
 			</div>
 			<div class="no-jumbo row text-center">
 				<div class="text-item">
 					<div class="actpelement">
-						<a href="docs/M Sc Biochemistry 2009-11.docx" target="_blank" download>M Sc Biochemistry 2009-11</a>
-					</div>
-				</div>
-			</div>
-
-			<div class="no-jumbo row text-center">
-				<div class="text-item">
-					<div class="actpelement">
-						<a href="docs/M Sc Biochemistry 2008-10.docx" target="_blank" download>M Sc Biochemistry 2008-10</a>
+						<a href="docs/M Sc Biochemistry 2009-11.pdf" target="_blank">M Sc Biochemistry 2009-11</a>
 					</div>
 				</div>
 			</div>
@@ -108,7 +100,7 @@
 			<div class="no-jumbo row text-center">
 				<div class="text-item">
 					<div class="actpelement">
-						<a href="docs/M Sc Biochemistry 2007-09.docx" target="_blank" download>M Sc Biochemistry 2007-09</a>
+						<a href="docs/M Sc Biochemistry 2008-10.pdf" target="_blank">M Sc Biochemistry 2008-10</a>
 					</div>
 				</div>
 			</div>
@@ -116,7 +108,15 @@
 			<div class="no-jumbo row text-center">
 				<div class="text-item">
 					<div class="actpelement">
-						<a href="docs/M Sc Biochemistry 2006-08.docx" target="_blank" download>M Sc Biochemistry 2006-08</a>
+						<a href="docs/M Sc Biochemistry 2007-09.pdf" target="_blank">M Sc Biochemistry 2007-09</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="text-item">
+					<div class="actpelement">
+						<a href="docs/M Sc Biochemistry 2006-08.pdf" target="_blank">M Sc Biochemistry 2006-08</a>
 					</div>
 				</div>
 			</div>

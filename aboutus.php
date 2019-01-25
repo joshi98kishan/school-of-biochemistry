@@ -80,52 +80,58 @@
 		
 	</div>
 
-		<div class="wrap">
-	<!-- Define all of the tiles: -->
+<div class="container-fluid">
+	<div class="row" id="sub">
+		<div class="col-md subhead-line">
+			<h1 class="display-4"><strong>Infrastructure</strong></h1>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="card col-md-4" >
+				<img class="card-img-top" src="images/infrastructure1.jpeg" alt="Card image cap" height="270">
+				<div class="card-body">
+					<h5 class="card-title"> Library</h5>
+				</div>
+			</div>
+	
+			<div class="card col-md-4">
+				<img class="card-img-top" src="images/infrastructure3.jpeg" alt="Card image cap" height="270">
+				<div class="card-body">
+					<h5 class="card-title"> M.Sc. Lecture Hall</h5>
+				</div>
+			</div>
+	
+			<div class="card col-md-4" >
+				<img class="card-img-top" src="images/infrastructure2.jpeg" alt="Card image cap" height="270">
+				<div class="card-body">
+					<h5 class="card-title"> Laboratory</h5>
+				</div >
+			</div>
+		</div>
+		<div class="row">
+	
+			<div class="card col-md-4">
+				<img class="card-img-top" src="images/research-lab1.jpeg"" alt="Card image cap" height="270">
+				<div class="card-body">
+					<h5 class="card-title"> Instruments Room</h5>
+				</div>
+			</div>
+	
+			<div class="card col-md-4">
+				<img class="card-img-top" src="images/infrastructure5.jpeg" alt="Card image cap" height="270">
+				<div class="card-body">
+					<h5 class="card-title"> Seminar Hall</h5>
+				</div>
+			</div>
 
-		<div class="aboutus-subhead subhead">
-						<h2>INSTRUMENTS&nbsp;<i class="fas fa-user-tie"></i></h2>
-		</div>
-	<div class="box">
-		<div class="boxInner">
-			<img src="http://www.dwuser.com/education/content/creating-responsive-tiled-layout-with-pure-css/images/demo/7.jpg"/>
-			<div class="titleBox">
-				Butterfly
+			<div class="card col-md-4">
+				<img class="card-img-top" src="images/research-lab2.jpeg" alt="Card image cap" height="270">
+				<div class="card-body">
+					<h5 class="card-title"> Laboratory</h5>
+				</div>
 			</div>
 		</div>
-	</div>
-	<div class="box">
-		<div class="boxInner">
-			<img src="http://www.dwuser.com/education/content/creating-responsive-tiled-layout-with-pure-css/images/demo/1.jpg"/>
-			<div class="titleBox">
-				An old greenhouse
-			</div>
-		</div>
-	</div>
-	<div class="box">
-		<div class="boxInner">
-			<img src="http://www.dwuser.com/education/content/creating-responsive-tiled-layout-with-pure-css/images/demo/2.jpg"/>
-			<div class="titleBox">
-				Purple wildflowers
-			</div>
-		</div>
-	</div>
-	<div class="box">
-		<div class="boxInner">
-			<img src="http://www.dwuser.com/education/content/creating-responsive-tiled-layout-with-pure-css/images/demo/3.jpg"/>
-			<div class="titleBox">
-				A birdfeeder
-			</div>
-		</div>
-	</div>
-	<div class="box">
-		<div class="boxInner">
-			<img src="http://www.dwuser.com/education/content/creating-responsive-tiled-layout-with-pure-css/images/demo/10.jpg"/>
-			<div class="titleBox">
-				Crocus close-up
-			</div>
-		</div>
-	</div>
 </div>
 
 	

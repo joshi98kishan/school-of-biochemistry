@@ -163,11 +163,11 @@
 		<div class="card recard">
 			<div class="row">
 				<div class="col-md-3" >
-					<img src="images/o3.jpg" class="card-image  image-responsive img-thumbnail reimage" alt="Kritika Pathak">
+					<img src="images/o3.jpg" class="card-image  image-responsive img-thumbnail reimage" alt="Kratika Pathak">
 				</div>
 				<div class="col-md-9 cardmd9">
 					<div class="card-block cardblk">
-						<h6 class="card-title "><strong>Kritika Pathak</strong></h6>
+						<h6 class="card-title "><strong>Kratika Pathak</strong></h6>
 						<div><span class="profile-topic"><strong>Topic : </strong></span> <span class="profile-topic-detail">Interactive Effects Of Heavy Metals (Al,Ni,Mn) In Relation To Oxidative Stress And Nitrogen Assimilation In Wheat(Triticum Species).</span></div>
 						<div><span class="profile-topic"><strong>Year : </strong></span> <span class="profile-topic-detail">From 2016</span></div>
 						<div><span class="profile-topic"><strong>Supervisor : </strong></span> <span class="profile-topic-detail">Dr. Rekha Gadre</span></div>
