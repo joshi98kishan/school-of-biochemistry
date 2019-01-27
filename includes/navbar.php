@@ -23,6 +23,7 @@
 					<li class="nav-item dropdown">
 						<a class="nav-link r p" href="student.php" class="navw1"><strong>STUDENTS&nbsp;</strong><i class="fas fa-caret-down"></i></a>
 						<div class="dropdown-menu ">
+							<a href="notices.php" class="linkst"><div class="dropdown-item" id="dr">Notices</div></a>
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Academic Calender</div></a>
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Course Material &amp; Syllabus</div></a>
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">On-Going Batches</div></a>
