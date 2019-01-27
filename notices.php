@@ -17,24 +17,46 @@
 	<!-- Side Nav -->
 	<?php include 'includes/sidenav.php';?>
 
-	<!-----------------------NOTICES (Start)----------------------->
+	<!------------------------------------------- ACTIVITIES(Start) -------------------------------------------->
 
-
-
+	
+	
 	<div id="Activities" class="container-fluid">
-		<div class="container"><h1 class="display-4" style="text-align: center; margin-top: 6%;font-family: 'Roboto Slab', serif; font-weight: 10;">NOTICES</h1>
+		<!-- <div class="container"><h1 class="display-4">ACTIVITIES</h1></div> -->
+		
+		<div class="row" id="sub">
+			<div class="col-md">
+				<div class="subhead-line">
+					<h1 class="display-4">Notices</h1>
+				</div>
+			</div>
 		</div>
-		<div class="container" style="margin-top: 48px; margin-bottom: 50%;">
-			<hr>
 
+		<div class="container cont-marg" id="cont-margs">
+			<!-- <hr class="horizontal-act"> -->
 
-			<div class="jumbotron text-center"><h3>No new Notices to be displayed!</h3></div>
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/Notices.PDF" target="_blank"><div class="display-4 text-block"><h3>25/10/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">
+						<a href="docs/Notices.PDF" target="_blank">View Notice</a>   
+					</div>
+				</div>
+			</div>
+
 
 		</div>
 
 	</div>
+	
 
-	<!-----------------------NOTICES (Start)----------------------->
+
+
+	<!-- ---------------------ACTIVITIES END(End) ---------------------------->
 
 
 	<!-- Up Arrow -->
