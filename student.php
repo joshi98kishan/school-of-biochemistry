@@ -34,7 +34,7 @@
 			<div class="row jumbotron">
 
 				<div id="h" class="col-md-4 border1" id="student-calender">
-					<div>
+					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Academic Calender <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 						</div>
@@ -54,7 +54,7 @@
 						<br>
 						<br>
 						<div class="row">
-							<div class="col-md-4">
+							<div class="col-md-4 lineHeight">
 								<span style="float: left;">
 									<h4>M.Sc. (Previous)</h4>
 									<br>
@@ -62,7 +62,7 @@
 								</span>
 							</div>
 
-							<div class="col-md-4">
+							<div class="col-md-4 lineHeight">
 								<span style="float: left;">
 									<h4>M.Sc. (Final)</h4>
 									<br>
@@ -70,7 +70,7 @@
 								</span>
 							</div>
 
-							<div class="col-md-4">
+							<div class="col-md-4 lineHeight">
 								<span style="float: left;">
 									<h4>Ph.D. (Course Work)</h4>
 									<br>
@@ -106,7 +106,7 @@
 										</tr>
 										<tr>
 											<td>II (Jan – May)</td>
-											<td><a href="docs/Sem-IITimeTable2018Toupload12042018.PDF" target="_blank">Download PDF</a></td>
+											<td><a href="docs/M.Sc. Sem II Time Table.PDF" target="_blank">Download PDF</a></td>
 										</tr>
 										<tr>
 											<td>III (July – Dec)</td>
@@ -133,7 +133,7 @@
 									</thead>
 									<tbody>
 										<tr>
-											<td><a href="docs/Ph.DCourseWorkTimeTable12042018.PDF" target="_blank">Download PDF</a></td>
+											<td><a href="docs/Ph.D. Course Work Time Table.PDF" target="_blank">Download PDF</a></td>
 											<td>&nbsp &nbsp</td>
 										</tr>
 										<tr>
@@ -152,7 +152,7 @@
 				</div>
 
 				<div id="h" class="col-md-4 border1" id="student-calender">
-					<div>
+					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">On Going Batches <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 						</div>
@@ -167,7 +167,7 @@
 				</div>
 
 				<div id="h" class="col-md-4 border1" id="student-calender">
-					<div>
+					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Generic Courses <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 						</div>
@@ -180,7 +180,7 @@
 				</div>
 
 				<div id="h" class="col-md-4 " id="student-calender">
-					<div>
+					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Course Outcome <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 						</div>
