@@ -22,14 +22,36 @@
 	
 	
 	
-	<div class="container">
-		<div class="subhead-line">
-			<h1>Notices</h1>		
-		</div>
-		<div class="notice-line">
-			
-		</div>
+	<div id="Activities" class="container-fluid">
+		<!-- <div class="container"><h1 class="display-4">ACTIVITIES</h1></div> -->
 		
+		<div class="row" id="sub">
+			<div class="col-md">
+				<div class="subhead-line">
+					<h1 class="display-4">Notices</h1>
+				</div>
+			</div>
+		</div>
+
+		<div class="container cont-marg" id="cont-margs">
+			<!-- <hr class="horizontal-act"> -->
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/Notices.PDF" target="_blank"><div class="display-4 text-block"><h3>25/10/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">
+						<a href="docs/Notices.PDF" target="_blank">View Notice</a>   
+					</div>
+				</div>
+			</div>
+
+
+		</div>
+
 	</div>
 	
 
