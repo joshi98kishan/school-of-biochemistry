@@ -2241,6 +2241,11 @@ html,body{
 		padding: 0.23rem 0.5rem;
 	}
 
+	.student .lineHeight{
+		line-height: 3px;
+		margin-bottom: 12px;
+	}
+
 
 	/*==============About Us===============*/		
 	.aboutus-cover h1{
