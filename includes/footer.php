@@ -62,8 +62,8 @@
 					</div>
 					<div class="rowstylef">
 						<ul id="ql">
-							<a href="http://www.dauniv.ac.in/"><li>DAVV</li></a>
-							<a href="msc.php"><li>Ph.D. Admission</li></a>
+							<a href="http://www.dauniv.ac.in/" target="_blank"><li>DAVV</li></a>
+							<a href="phd.php"><li>Ph.D. Admission</li></a>
 							<a href="activities.php"><li>Activities</li></a>
 						</ul>
 					</div>
