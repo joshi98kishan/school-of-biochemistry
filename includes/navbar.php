@@ -13,7 +13,7 @@
 				<ul class="navbar-nav m-auto">
 					<li class="nav-item"><a class="nav-link r p" href="index.php"><strong>HOME</strong></a></li>
 					<li class="nav-item"><a class="nav-link r p navw1" href="aboutus.php"><strong>ABOUT US</strong></a></li>
-					<li class="nav-item dropdown"><a class="nav-link r p navw2" ><strong>PROGRAMS &nbsp;</strong><i class="fas fa-caret-down"></i></a>
+					<li class="nav-item dropdown"><a class="nav-link r p navw2" ><strong>COURSES &nbsp;</strong><i class="fas fa-caret-down"></i></a>
 						<div class="dropdown-menu ">
 							<a href="msc.php" class="linkst"><div class="dropdown-item" id="dr">M.Sc.</div></a>
 							<a href="phd.php" class="linkst"><div class="dropdown-item" id="dr">Ph.D.</div></a>
