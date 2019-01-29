@@ -54,7 +54,7 @@
 						<br>
 						<br>
 						<div class="row">
-							<div class="col-md-4 lineHeight">
+							<div class="col-md-4 lineHeight mscprev">
 								<span style="float: left;">
 									<h4>M.Sc. (Previous)</h4>
 									<br>
@@ -62,7 +62,7 @@
 								</span>
 							</div>
 
-							<div class="col-md-4 lineHeight">
+							<div class="col-md-4 lineHeight mscfinal">
 								<span style="float: left;">
 									<h4>M.Sc. (Final)</h4>
 									<br>
@@ -70,7 +70,7 @@
 								</span>
 							</div>
 
-							<div class="col-md-4 lineHeight">
+							<div class="col-md-4 lineHeight phdwork">
 								<span style="float: left;">
 									<h4>Ph.D. (Course Work)</h4>
 									<br>
@@ -151,7 +151,7 @@
 					</div> 
 				</div>
 
-				<div id="h" class="col-md-4 border1" id="student-calender">
+				<div id="h" class="col-md-4 border1" id="student-courses">
 					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">On Going Batches <i class="fa fa-calendar" aria-hidden="true"></i></h2>
@@ -166,7 +166,7 @@
 					</div>
 				</div>
 
-				<div id="h" class="col-md-4 border1" id="student-calender">
+				<div id="h" class="col-md-4 border1" >
 					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Generic Courses <i class="fa fa-calendar" aria-hidden="true"></i></h2>
@@ -179,7 +179,7 @@
 					</div>
 				</div>
 
-				<div id="h" class="col-md-4 " id="student-calender">
+				<div id="h" class="col-md-4 " >
 					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Course Outcome <i class="fa fa-calendar" aria-hidden="true"></i></h2>
@@ -269,7 +269,7 @@
 					</div> 
 				</div>
 
-				<div id="h" class="subhead-line1 col-md-12" id="student-calender">
+				<div id="h" class="subhead-line1 col-md-12" id="student-feedback">
 					<div>
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Feedback <i class="fa fa-calendar" aria-hidden="true"></i></h2>
