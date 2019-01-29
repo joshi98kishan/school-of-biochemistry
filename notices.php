@@ -38,13 +38,65 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/Notices.PDF" target="_blank"><div class="display-4 text-block"><h3>25/10/2018</h3></div></a>
+					<a href="docs/25octnotice.pdf" target="_blank"><div class="display-4 text-block"><h3>25/10/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
-					<div class="actpelement">
-						<a href="docs/Notices.PDF" target="_blank">View Notice</a>   
+					<div class="actpelement">Seminar on “Advances in Biochemical Research” on 29th October 2018
+						<a href="docs/25octnotice.pdf" target="_blank">View Notice</a>   
+					</div>
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/21julynotice.pdf" target="_blank"><div class="display-4 text-block"><h3>21/07/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Ph.D. Viva of Mr Venkat Narayan on 25/7/2018
+						<a href="docs/21julynotice.pdf" target="_blank">View Notice</a>   
+					</div>
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/25junenotice.pdf" target="_blank"><div class="display-4 text-block"><h3>25/06/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Ph.D. Viva of Mr Jayesh Vaishnav on 27/6/2018 
+						<a href="docs/25junenotice.pdf" target="_blank">View Notice</a>   
+					</div>
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/20junenotice.pdf" target="_blank"><div class="display-4 text-block"><h3>20/06/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Ph.D. Viva of Ms Ankita Joshi on 22/6/2018 
+						<a href="docs/20junenotice.pdf" target="_blank">View Notice</a>   
+					</div>
+				</div>
+			</div>
+
+			<div class="no-jumbo row text-center">
+				<div class="image-item image-act">	
+					<a href="docs/20junenotice2.pdf" target="_blank"><div class="display-4 text-block"><h3>20/06/2018</h3></div></a>
+				</div>
+
+				<div class="text-item">
+
+					<div class="actpelement">Project Work Presentations and Comprehensive viva voce examination for M.Sc. Sem IV students 
+						<a href="docs/20junenotice2.pdf" target="_blank">View Notice</a>   
 					</div>
 				</div>
 			</div>

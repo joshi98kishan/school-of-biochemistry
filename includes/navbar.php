@@ -24,10 +24,10 @@
 						<a class="nav-link r p" href="student.php" class="navw1"><strong>STUDENTS&nbsp;</strong><i class="fas fa-caret-down"></i></a>
 						<div class="dropdown-menu ">
 							<a href="notices.php" class="linkst"><div class="dropdown-item" id="dr">Notices</div></a>
-							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Academic Calender</div></a>
-							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Course Material &amp; Syllabus</div></a>
+							<a href="student.php#student-syllabus" class="linkst"><div class="dropdown-item" id="student-syllabus">Academic Calender</div></a>
+							<a href="student.php#student-syllabus" class="linkst"><div class="dropdown-item" id="dr">Course Material &amp; Syllabus</div></a>
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">On-Going Batches</div></a>
-							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Generic Course</div></a>
+							<a href="student.php#student-syllabus" class="linkst"><div class="dropdown-item" id="dr">Generic Course</div></a>
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Course Outcome</div></a>
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Time Table</div></a>
 							<a href="student.php" class="linkst"><div class="dropdown-item" id="dr">Feedback</div></a>
