@@ -164,7 +164,7 @@
 		<a href="#mentors-dropdown" class="btn btn-primary" data-toggle="collapse">Mentors</a>
 		<div id="mentors-dropdown" class="collapse">
 			<p>
-				Dr. Vrinda Tokkekar<br>
+				Dr. Vrinda Tokekar<br>
 				Dr. Maya Ingle<br>
 				Mr. Sachin Mandwariya<br>(CEO, Workaholics Infocorp.)<br>
 				Miss Anshika Jain<br>
