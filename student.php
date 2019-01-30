@@ -41,7 +41,7 @@
 						<br>
 						<br>
 						<div style="float: none;">
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/Academic Calender 2018 - 19.PDF" target="_blank">Download PDF</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/Academic Calender 2018 - 19.pdf" target="_blank">Download PDF</a></span>
 						</div>
 					</div>
 				</div>
@@ -54,7 +54,7 @@
 						<br>
 						<br>
 						<div class="row">
-							<div class="col-md-4 lineHeight">
+							<div class="col-md-4 lineHeight mscprev">
 								<span style="float: left;">
 									<h4>M.Sc. (Previous)</h4>
 									<br>
@@ -62,7 +62,7 @@
 								</span>
 							</div>
 
-							<div class="col-md-4 lineHeight">
+							<div class="col-md-4 lineHeight mscfinal">
 								<span style="float: left;">
 									<h4>M.Sc. (Final)</h4>
 									<br>
@@ -70,11 +70,11 @@
 								</span>
 							</div>
 
-							<div class="col-md-4 lineHeight">
+							<div class="col-md-4 lineHeight phdwork">
 								<span style="float: left;">
 									<h4>Ph.D. (Course Work)</h4>
 									<br>
-									<div> <a href="docs/PhD Course Work Syllabus - 2017 (1).PDF" class="btn btn-success btn-sm" target="_blank">PDF</a></div>
+									<div> <a href="docs/PhD Course Work Syllabus - 2017 (1).pdf" class="btn btn-success btn-sm" target="_blank">PDF</a></div>
 								</span>
 							</div>
 						</div>
@@ -102,11 +102,11 @@
 									<tbody>
 										<tr>
 											<td>I (July – Dec)</td>
-											<td><a href="docs/semIbio.PDF" target="_blank">Download PDF</a></td>
+											<td><a href="docs/semIbio.pdf" target="_blank">Download PDF</a></td>
 										</tr>
 										<tr>
 											<td>II (Jan – May)</td>
-											<td><a href="docs/M.Sc. Sem II Time Table.PDF" target="_blank">Download PDF</a></td>
+											<td><a href="docs/M.Sc. Sem II Time Table.pdf" target="_blank">Download PDF</a></td>
 										</tr>
 										<tr>
 											<td>III (July – Dec)</td>
@@ -133,7 +133,7 @@
 									</thead>
 									<tbody>
 										<tr>
-											<td><a href="docs/Ph.D. Course Work Time Table.PDF" target="_blank">Download PDF</a></td>
+											<td><a href="docs/Ph.D. Course Work Time Table.pdf" target="_blank">Download PDF</a></td>
 											<td>&nbsp &nbsp</td>
 										</tr>
 										<tr>
@@ -151,7 +151,7 @@
 					</div> 
 				</div>
 
-				<div id="h" class="col-md-4 border1" id="student-calender">
+				<div id="h" class="col-md-4 border1" id="student-courses">
 					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">On Going Batches <i class="fa fa-calendar" aria-hidden="true"></i></h2>
@@ -159,14 +159,14 @@
 						<br>
 						<br>
 						<div style="float: none;">
-							<span class="button_small"> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Biochemistry 2018-20 (Previous).PDF" target="_blank">M.Sc. (Previous)</a></span>&nbsp &nbsp
+							<span class="button_small"> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Biochemistry 2018-20 (Previous).pdf" target="_blank">M.Sc. (Previous)</a></span>&nbsp &nbsp
 
-							<span class="button_small"> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Biochemistry 2017-19 (Final).PDF" target="_blank">M.Sc. (Final) &nbsp &nbsp</a></span>
+							<span class="button_small"> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Biochemistry 2017-19 (Final).pdf" target="_blank">M.Sc. (Final) &nbsp &nbsp</a></span>
 						</div>
 					</div>
 				</div>
 
-				<div id="h" class="col-md-4 border1" id="student-calender">
+				<div id="h" class="col-md-4 border1" >
 					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Generic Courses <i class="fa fa-calendar" aria-hidden="true"></i></h2>
@@ -174,12 +174,12 @@
 						<br>
 						<br>
 						<div style="float: none;">
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Generic Courses.PDF" target="_blank">Download PDF</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Generic Courses.pdf" target="_blank">Download PDF</a></span>
 						</div>
 					</div>
 				</div>
 
-				<div id="h" class="col-md-4 " id="student-calender">
+				<div id="h" class="col-md-4 " >
 					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Course Outcome <i class="fa fa-calendar" aria-hidden="true"></i></h2>
@@ -187,7 +187,7 @@
 						<br>
 						<br>
 						<div style="float: none;">
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Programme Outcome.PDF" target="_blank">Download PDF</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/M Sc Programme Outcome.pdf" target="_blank">Download PDF</a></span>
 						</div>
 					</div>
 				</div>
@@ -214,23 +214,23 @@
 									<tbody>
 										<tr>
 											<td>Unit test I</td>
-											<td><a href="docs/TestsIJuly-Dec2018.PDF" target="_blank">Download PDF</a></td>
-											<td><a href="docs/Sem-IIUnitTest ITimeTableToupload12042018.PDF" target="_blank">Download PDF</a></td>
+											<td><a href="docs/TestsIJuly-Dec2018.pdf" target="_blank">Download PDF</a></td>
+											<td><a href="docs/Sem-IIUnitTest ITimeTableToupload12042018.pdf" target="_blank">Download PDF</a></td>
 										</tr>
 										<tr>
 											<td>Unit test II</td>
-											<td><a href="docs/TestIIJuly-Dec2018.PDF" target="_blank">Download PDF</a></td>
-											<td><a href="docs/Sem-II Unit Test III Time Table To upload.PDF" target="_blank">Download PDF</a></td>
+											<td><a href="docs/TestIIJuly-Dec2018.pdf" target="_blank">Download PDF</a></td>
+											<td><a href="docs/Sem-II Unit Test III Time Table To upload.pdf" target="_blank">Download PDF</a></td>
 										</tr>
 										<tr>
 											<td>Unit test III </td>
-											<td><a href="docs/TestsIII,July-Dec 2018.PDF" target="_blank">Download PDF</a></td>
-											<td><a href="docs/Sem-II Unit Test III Time Table To upload.PDF" target="_blank"> Download PDF</a></td>
+											<td><a href="docs/TestsIII,July-Dec 2018.pdf" target="_blank">Download PDF</a></td>
+											<td><a href="docs/Sem-II Unit Test III Time Table To upload.pdf" target="_blank"> Download PDF</a></td>
 										</tr>
 										<tr>
 											<td>Final Sem exam</td>
-											<td><a href="docs/Sem Exam Dec 2018.PDF" target="_blank">Download PDF</a></td>
-											<td><a href="docs/Sem-II Final Exam Time Table To upload.PDF" target="_blank">Download PDF</a></td>
+											<td><a href="docs/Sem Exam Dec 2018.pdf" target="_blank">Download PDF</a></td>
+											<td><a href="docs/Sem-II Final Exam Time Table To upload.pdf" target="_blank">Download PDF</a></td>
 										</tr>
 									</tbody>
 								</table>
@@ -248,7 +248,7 @@
 									
 									<tbody>
 										<tr>
-											<td><a href="docs/Ph.D20042018.PDF" target="_blank">Download PDF</a></td>
+											<td><a href="docs/Ph.D20042018.pdf" target="_blank">Download PDF</a></td>
 										</tr>
 										<tr>
 											<td>&nbsp &nbsp &nbsp &nbsp</td>
@@ -269,7 +269,7 @@
 					</div> 
 				</div>
 
-				<div id="h" class="subhead-line1 col-md-12" id="student-calender">
+				<div id="h" class="subhead-line1 col-md-12" id="student-feedback">
 					<div>
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Feedback <i class="fa fa-calendar" aria-hidden="true"></i></h2>
@@ -277,15 +277,16 @@
 						<br>
 						<br>
 						<div style="float: none;">
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feed Back M Sc May 2018.PDF" target="_blank">M.Sc. Feedback</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feed Back M Sc May 2018.pdf" target="_blank">M.Sc. Feedback</a></span>
 							&nbsp;&nbsp;&nbsp;
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feedback Ph.D. May 18.PDF" target="_blank">Ph.D. Coursework Feedback</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feedback Ph.D. May 18.pdf" target="_blank">Ph.D. Coursework Feedback</a></span>
 						</div>
 					</div>
 				</div>
 
 			</div>
 		</div>
+	</div>	
 
 	 	<!-------------- STUDENT(End) ------------------->
 

@@ -2243,8 +2243,20 @@ html,body{
 	}
 
 	.student .lineHeight{
-		line-height: 3px;
-		margin-bottom: 12px;
+		line-height: 5px;
+		margin-bottom: 11%;
+	}
+
+	.student .mscprev{
+		margin-left: 23%;
+	}
+
+	.student .mscfinal{
+		margin-left: 28%;
+	}
+
+	.student .phdwork{
+		margin-left: 18%;
 	}
 
 
