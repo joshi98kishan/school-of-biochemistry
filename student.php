@@ -18,7 +18,7 @@
 	<?php include 'includes/sidenav.php';?>
 
 	<!-------------- STUDENT (Start) -------------------->
->
+
 	<div class="student" id="student">
 		
 		<div class="row" id="sub" style="margin: 0;">
