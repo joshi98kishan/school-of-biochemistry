@@ -42,7 +42,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Venkat Narayan Are  (2014-2018)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Venkat Narayan Are  (2014-2018)</strong></h6>
 
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">Structural and functional characterizati-on of Aminopeptidase P fold proteins.</span></div>
@@ -62,7 +62,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Ankita Joshi  (2013-2018)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Ankita Joshi  (2013-2018)</strong></h6>
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">Antioxidative, antidiabetic and antiinflammatory activity of some of the herbal products.
 							</span></div>
@@ -80,7 +80,7 @@
 						</div>
 						<div class="col-md-9 cardmd9">
 							<div class="card-block cardblk">
-								<h6 class="card-title"><strong>Jayesh Vaishnav  (2010-2018)</strong></h6>
+								<h6 class="card-title"><strong>Dr. Jayesh Vaishnav  (2010-2018)</strong></h6>
 								<div><span class="profile-topic"><strong>E-Mail :
 								</strong> </span><span class="profile-topic-detail">jayeshvaishnav06@gmail.com</span>
 							</div>
@@ -101,7 +101,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Antariksh Tyagi  (2010-2017)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Antariksh Tyagi  (2010-2017)</strong></h6>
 
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">Studies on global gene expression and adaptability of different ecotypes of Arabidopsis thaliana along altitudinal gradient.</span></div>
@@ -120,7 +120,7 @@
 						</div>
 						<div class="col-md-9 cardmd9">
 							<div class="card-block cardblk">
-								<h6 class="card-title"><strong>Vaishali Mourya  (2010-2017)</strong></h6>
+								<h6 class="card-title"><strong>Dr. Vaishali Mourya  (2010-2017)</strong></h6>
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">Association mapping for protein content in soybean germplasm lines.</span></div>
 							<div><span class="profile-topic"><strong>Supervisor : </strong></span> <span class="profile-topic-detail">Dr. Meeta Jain</span></div>
@@ -138,7 +138,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong> Sonal Dhamgaye  (2010-2017)</strong></h6>
+							<h6 class="card-title"><strong>Dr.  Sonal Dhamgaye  (2010-2017)</strong></h6>
 
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">Evaluation of Salinity Stress on the Key Enzymes of Nitogen Assimilation in Phaseolus vulgaris.</span></div>
@@ -156,7 +156,7 @@
 					</div> -->
 					<div class="col-md-12 cardmd12 divstyle1">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Vartika Sinha  (2011-2016)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Vartika Sinha  (2011-2016)</strong></h6>
 
 							<!-- <div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">
@@ -177,7 +177,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Prakash Malviya  (2010-2016)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Prakash Malviya  (2010-2016)</strong></h6>
 
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">
@@ -199,7 +199,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Reena Rawal  (2010-2016)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Reena Rawal  (2010-2016)</strong></h6>
 
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">Introgression of null allele of lipoxygenase-2 into high yielding soybean cultivar using Marker-Assisted Selection.</span></div>
@@ -219,7 +219,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Seema Kelotra  (2009-2016)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Seema Kelotra  (2009-2016)</strong></h6>
 
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">Ligand binding studies with some caspases using computational methods.</span></div>
@@ -237,7 +237,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Ankit Kelotra  (2009-2016)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Ankit Kelotra  (2009-2016)</strong></h6>
 
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">
@@ -257,7 +257,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Samatha Gunapati  (2011-2015)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Samatha Gunapati  (2011-2015)</strong></h6>
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">
 								Isolation and characterization of Drought related NAC
@@ -276,7 +276,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Harsha Lad  (2011-2015)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Harsha Lad  (2011-2015)</strong></h6>
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">
 								Antioxidative and antiarthritic activity of herbal products in rheumatoid arthritis.</span></div>
@@ -293,7 +293,7 @@
 					</div>
 					<div class="col-md-9 cardmd9" >
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Sharad Saurabh  (2010-2015)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Sharad Saurabh  (2010-2015)</strong></h6>
 
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">
@@ -313,7 +313,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Swati Tiwary  (2009-2015)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Swati Tiwary  (2009-2015)</strong></h6>
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">Osmotic stress induced changes in chlorophyll metabolism and antioxidative system in maize leaves.
 
@@ -332,7 +332,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Ritu Tyagi  (2009-2015)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Ritu Tyagi  (2009-2015)</strong></h6>
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">
 							Metabonomic approach for the identification of biomarker for tungsten based alloy heavy metal induced chemical toxicity using NMR spectroscopy and imaging.</span></div>
@@ -350,7 +350,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Deepti Dixit  (2009-2014)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Deepti Dixit  (2009-2014)</strong></h6>
 
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">
@@ -369,7 +369,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Savita Sharma  (2008-2011)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Savita Sharma  (2008-2011)</strong></h6>
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">Characterization of mammalian erythrocyte proteins: A comparative study of protein structure and interactions.
 							</span></div>
@@ -386,7 +386,7 @@
 					</div>
 					<div class="col-md-9 cardmd9">
 						<div class="card-block cardblk">
-							<h6 class="card-title"><strong>Ms. Juliana Sarangthem  (2007-2011)</strong></h6>
+							<h6 class="card-title"><strong>Dr. Juliana Sarangthem  (2007-2011)</strong></h6>
 
 							<div><span class="profile-topic"><strong>Topic :
 							</strong> </span><span class="profile-topic-detail">
