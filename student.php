@@ -18,7 +18,7 @@
 	<?php include 'includes/sidenav.php';?>
 
 	<!-------------- STUDENT (Start) -------------------->
-
+>
 	<div class="student" id="student">
 		
 		<div class="row" id="sub" style="margin: 0;">
@@ -28,12 +28,14 @@
 				</div>
 			</div>
 		</div>
+		
+
 
 
 		<div class="container">		
 			<div class="row jumbotron">
-
-				<div id="h" class="col-md-4 border1" id="student-calender">
+<div id="student-calender"></div>
+				<div id="h" class="col-md-4 border1">
 					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Academic Calender <i class="fa fa-calendar" aria-hidden="true"></i></h2>
@@ -43,10 +45,11 @@
 						<div style="float: none;">
 							<span> <a class="link btn btn-success  btn-responsive" href="docs/Academic Calender 2018 - 19.pdf" target="_blank">Download PDF</a></span>
 						</div>
+
 					</div>
 				</div>
 
-				<div class="col-md-8" id="student-syllabus">
+				<div class="col-md-8">
 					<div>
 						<div>
 							<h2  id="cms" style="font-weight: 300; text-align:center; margin-bottom:0px;">Course Material & Syllabus <i class="fa fa-graduation-cap" aria-hidden="true"></i></h2>
@@ -151,7 +154,7 @@
 					</div> 
 				</div>
 
-				<div id="h" class="col-md-4 border1" id="student-courses">
+				<div id="h" class="col-md-4 border1" id="student-ongoing">
 					<div class="lineHeight">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">On Going Batches <i class="fa fa-calendar" aria-hidden="true"></i></h2>
@@ -167,7 +170,7 @@
 				</div>
 
 				<div id="h" class="col-md-4 border1" >
-					<div class="lineHeight">
+					<div class="lineHeight" id="student-generic">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Generic Courses <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 						</div>
@@ -179,8 +182,8 @@
 					</div>
 				</div>
 
-				<div id="h" class="col-md-4 " >
-					<div class="lineHeight">
+				<div id="h" class="col-md-4 ">
+					<div class="lineHeight" id="student-outcome">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Course Outcome <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 						</div>
@@ -269,7 +272,9 @@
 					</div> 
 				</div>
 
-				<div id="h" class="subhead-line1 col-md-12" id="student-feedback">
+				<div id="student-feedback"></div>
+
+				<div id="h" class="subhead-line1 col-md-12">
 					<div>
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Feedback <i class="fa fa-calendar" aria-hidden="true"></i></h2>
@@ -279,7 +284,7 @@
 						<div style="float: none;">
 							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feed Back M Sc May 2018.pdf" target="_blank">M.Sc. Feedback</a></span>
 							&nbsp;&nbsp;&nbsp;
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feedback Ph.D. May 18.pdf" target="_blank">Ph.D. Coursework Feedback</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feedback Ph.D. May 18.pdf" target="_blank">Ph.D. (Coursework) Feedback</a></span>
 						</div>
 					</div>
 				</div>
@@ -288,13 +293,13 @@
 		</div>
 	</div>	
 
-	 	<!-------------- STUDENT(End) ------------------->
+	<!-------------- STUDENT(End) ------------------->
 
-	 	<!-- Up Arrow -->
-	 	<?php include 'includes/uparrow.php';?>
+	<!-- Up Arrow -->
+	<?php include 'includes/uparrow.php';?>
 
-	 	<!-- footer -->
-	 	<?php include 'includes/footer.php';?>
+	<!-- footer -->
+	<?php include 'includes/footer.php';?>
 
-	 </body>
-	 </html>
+</body>
+</html>
