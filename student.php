@@ -34,9 +34,9 @@
 
 		<div class="container">		
 			<div class="row jumbotron">
-<div id="student-calender"></div>
+
 				<div id="h" class="col-md-4 border1">
-					<div class="lineHeight">
+					<div class="lineHeight" id="std-calender">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Academic Calender <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 						</div>
@@ -85,7 +85,7 @@
 				</div> 
 
 				
-				<div class="row jumbotron" style="margin-top: 5%;" id="student-timetable">
+				<div class="row jumbotron" style="margin-top: 5%;">
 					<div  class="normal col-md-12 subhead-line1" id="ttable">
 						<h2 style="font-weight: 500">Time Table <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 					</div>
@@ -154,8 +154,8 @@
 					</div> 
 				</div>
 
-				<div id="h" class="col-md-4 border1" id="student-ongoing">
-					<div class="lineHeight">
+				<div id="h" class="col-md-4 border1" >
+					<div class="lineHeight" id="std-courses">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">On Going Batches <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 						</div>
@@ -196,7 +196,7 @@
 				</div>
 
 				<div class="row jumbotron" style="margin-top: 5%;">
-					<div class="normal col-md-12 subhead-line1">
+					<div class="normal col-md-12 subhead-line1" id="std-exam">
 						<h2 style="font-weight: 500">Exam Schedule <i class="fa fa-hourglass-half" aria-hidden="true"></i></h2>
 					</div>
 
@@ -272,9 +272,7 @@
 					</div> 
 				</div>
 
-				<div id="student-feedback"></div>
-
-				<div id="h" class="subhead-line1 col-md-12">
+				<div id="h" class="subhead-line1 col-md-12" >
 					<div>
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Feedback <i class="fa fa-calendar" aria-hidden="true"></i></h2>
