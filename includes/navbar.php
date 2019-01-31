@@ -21,7 +21,7 @@
 					</li>
 					<li class="nav-item"><a class="nav-link r p" href="faculty.php"><strong>FACULTY</strong></a></li>
 					<li class="nav-item dropdown">
-						<a class="nav-link r p" href="student.php" class="navw1"><strong>STUDENTS&nbsp;</strong><i class="fas fa-caret-down"></i></a>
+						<a class="nav-link r p navw1" href="student.php"><strong>STUDENTS&nbsp;</strong><i class="fas fa-caret-down"></i></a>
 						<div class="dropdown-menu ">
 							<a href="notices.php" class="linkst"><div class="dropdown-item" id="dr">Notices</div></a>
 							<a href="student.php#student-calender" class="linkst"><div class="dropdown-item" id="dr">Academic Calender</div></a>
