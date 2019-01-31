@@ -35,7 +35,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/29oct.pdf" target="_blank"><div class="display-4 text-block"><h3>29/10/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>29/10/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
@@ -48,13 +48,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/24oct.pdf" target="_blank"><div class="display-4 text-block"><h3>24/10/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>24/10/2018</h3></div></a>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">M.Sc. students (08) participated in the “Vote Indore Vote” 2 and 5 Km Marathan organized District Administration, Indore. 
-						<a href="docs/24oct.pdf" target="_blank">photographs</a>    
+						<a href="docs/24oct.pdf" target="_blank">click here for more</a>    
 					</div>
 
 				</div>
@@ -62,7 +62,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>03/10/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>03/10/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -78,13 +78,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/2oct.pdf" target="_blank"><div class="display-4 text-block"><h3>02/10/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>02/10/2018</h3></div>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">On the occasion of Gandhi Jayanti M.Sc. students participated in the cleaning work in the vicinity of the building under “Swacchhata hi Seva” Abhiyaan.
-						<a href="docs/2oct.pdf" target="_blank">photographs</a>   
+						<a href="docs/2oct.pdf" target="_blank">click here for more</a>   
 					</div>
 
 				</div>
@@ -92,7 +92,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>28/09/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>28/09/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -105,13 +105,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/5sept.pdf" target="_blank"><div class="display-4 text-block"><h3>05/09/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>05/09/2018</h3></div>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">Teachers Day was celebrated in the School. Students honoured Faculty and Staff by presenting plantlets. They organized various cultural and entertainment activities.
-						<a href="docs/5sept.pdf" target="_blank">photographs</a>   
+						<a href="docs/5sept.pdf" target="_blank">click here for more</a>   
 					</div>
 
 				</div>
@@ -119,7 +119,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>23/08/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>23/08/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -132,7 +132,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>18/08/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>18/08/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -145,13 +145,13 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/12aug.pdf" target="_blank"><div class="display-4 text-block"><h3>12/08/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>12/08/2018</h3></div>
 				</div>
 
 				<div class="text-item">
 
 					<div class="actpelement">M.Sc. students participated in “Twelve Km Tiranga Abhiyan” held in Indore between Mhow Naka Square and Chanakya Puri at 9.00 AM to 10 AM.
-						<a href="docs/12aug.pdf" target="_blank">photographs</a>  
+						<a href="docs/12aug.pdf" target="_blank">click here for more</a>  
 					</div>
 
 				</div>
@@ -159,7 +159,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>21/07/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>21/07/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -174,7 +174,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/20july.pdf" target="_blank"><div class="display-4 text-block"><h3>20/07/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>20/07/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -190,7 +190,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/16.pdf" target="_blank"><div class="display-4 text-block"><h3>16/05/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>16/05/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -204,7 +204,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/15.pdf" target="_blank"><div class="display-4 text-block"><h3>19/04/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>19/04/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -218,7 +218,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>27/03/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>27/03/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -231,7 +231,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>22/03/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>22/03/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -244,7 +244,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>14/03/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>14/03/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -257,7 +257,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>18/01/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>18/01/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -270,7 +270,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>10/01/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>10/01/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -285,7 +285,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>05/01/2018</h3></div></a>
+					<div class="display-4 text-block"><h3>05/01/2018</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -298,7 +298,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/9.pdf" target="_blank"><div class="display-4 text-block"><h3>02/12/2017</h3></div></a>
+					<div class="display-4 text-block"><h3>02/12/2017</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -312,7 +312,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>27/11/2017</h3></div></a>
+					<div class="display-4 text-block"><h3>27/11/2017</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -325,7 +325,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>22/11/2017</h3></div></a>
+					<div class="display-4 text-block"><h3>22/11/2017</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -338,7 +338,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>06/11/2017</h3></div></a>
+					<div class="display-4 text-block"><h3>06/11/2017</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -351,7 +351,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>03/11/2017</h3></div></a>
+					<div class="display-4 text-block"><h3>03/11/2017</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -364,7 +364,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>23/10/2017</h3></div></a>
+					<div class="display-4 text-block"><h3>23/10/2017</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -380,7 +380,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>23/10/2017</h3></div></a>
+					<div class="display-4 text-block"><h3>23/10/2017</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -395,7 +395,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/3.pdf" target="_blank"><div class="display-4 text-block"><h3>05/09/2017</h3></div></a>
+					<div class="display-4 text-block"><h3>05/09/2017</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -409,7 +409,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>24/08/2017</h3></div></a>
+					<div class="display-4 text-block"><h3>24/08/2017</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -423,7 +423,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a href="docs/1.pdf" target="_blank"><div class="display-4 text-block"><h3>10/07/2017</h3></div></a>
+					<div class="display-4 text-block"><h3>10/07/2017</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -437,7 +437,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>15/02/2016</h3></div></a>
+					<div class="display-4 text-block"><h3>15/02/2016</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -450,7 +450,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>15/04/2015</h3></div></a>
+					<div class="display-4 text-block"><h3>15/04/2015</h3></div>
 				</div>
 
 				<div class="text-item">
@@ -463,7 +463,7 @@
 
 			<div class="no-jumbo row text-center">
 				<div class="image-item image-act">	
-					<a><div class="display-4 text-block"><h3>22/02/2014</h3></div></a>
+					<div class="display-4 text-block"><h3>22/02/2014</h3></div>
 				</div>
 
 				<div class="text-item">

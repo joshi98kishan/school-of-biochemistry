@@ -28,6 +28,8 @@
 				</div>
 			</div>
 		</div>
+		
+
 
 
 		<div class="container">		
@@ -43,6 +45,7 @@
 						<div style="float: none;">
 							<span> <a class="link btn btn-success  btn-responsive" href="docs/Academic Calender 2018 - 19.pdf" target="_blank">Download PDF</a></span>
 						</div>
+
 					</div>
 				</div>
 
@@ -167,7 +170,7 @@
 				</div>
 
 				<div id="h" class="col-md-4 border1" >
-					<div class="lineHeight">
+					<div class="lineHeight" id="student-generic">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Generic Courses <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 						</div>
@@ -179,8 +182,8 @@
 					</div>
 				</div>
 
-				<div id="h" class="col-md-4 " >
-					<div class="lineHeight">
+				<div id="h" class="col-md-4 ">
+					<div class="lineHeight" id="student-outcome">
 						<div id="acalender">
 							<h2  style="font-weight: 300; text-align:center; margin-bottom:0px;">Course Outcome <i class="fa fa-calendar" aria-hidden="true"></i></h2>
 						</div>
@@ -279,7 +282,7 @@
 						<div style="float: none;">
 							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feed Back M Sc May 2018.pdf" target="_blank">M.Sc. Feedback</a></span>
 							&nbsp;&nbsp;&nbsp;
-							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feedback Ph.D. May 18.pdf" target="_blank">Ph.D. Coursework Feedback</a></span>
+							<span> <a class="link btn btn-success  btn-responsive" href="docs/Feedback Ph.D. May 18.pdf" target="_blank">Ph.D. (Coursework) Feedback</a></span>
 						</div>
 					</div>
 				</div>
@@ -288,13 +291,13 @@
 		</div>
 	</div>	
 
-	 	<!-------------- STUDENT(End) ------------------->
+	<!-------------- STUDENT(End) ------------------->
 
-	 	<!-- Up Arrow -->
-	 	<?php include 'includes/uparrow.php';?>
+	<!-- Up Arrow -->
+	<?php include 'includes/uparrow.php';?>
 
-	 	<!-- footer -->
-	 	<?php include 'includes/footer.php';?>
+	<!-- footer -->
+	<?php include 'includes/footer.php';?>
 
-	 </body>
-	 </html>
+</body>
+</html>
