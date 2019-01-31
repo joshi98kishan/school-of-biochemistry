@@ -20,8 +20,9 @@
 						</div>
 					</li>
 					<li class="nav-item"><a class="nav-link r p" href="faculty.php"><strong>FACULTY</strong></a></li>
-					<li class="nav-item dropdown">
-						<a class="nav-link r p navw1" href="student.php"><strong>STUDENTS&nbsp;</strong><i class="fas fa-caret-down"></i></a>
+					<li class="nav-item dropdown navw5 r p ">
+						<a class="nav-link " href="student.php" style="padding-top: 0; position: absolute;"><strong >STUDENTS&nbsp;</strong></a>
+						<span class="fas fa-caret-down nav-link " id="spandrop"></span>
 						<div class="dropdown-menu ">
 							<a href="notices.php" class="linkst"><div class="dropdown-item" id="dr">Notices</div></a>
 							<a href="student.php#student-calender" class="linkst"><div class="dropdown-item" id="dr">Academic Calender</div></a>
@@ -33,7 +34,7 @@
 							<a href="student.php#student-feedback" class="linkst"><div class="dropdown-item" id="dr">Feedback</div></a>
 						</div>
 					</li>
-					<li class="nav-item dropdown"><a class="nav-link r p" href="#"><strong>RESEARCH &nbsp;</strong><i class="fas fa-caret-down"></i></a>
+					<li class="nav-item dropdown"><a class="nav-link r p navw4" href="#"><strong>RESEARCH &nbsp;</strong><i class="fas fa-caret-down"></i></a>
 					<div class="dropdown-menu ">
 						<a href="researchers.php" class="linkst"><div class="dropdown-item" id="dr">Researchers</div></a>
 				        <a href="facilities.php" class="linkst"><div class="dropdown-item" id="dr">Facilities</div></a>
